@@ -79,7 +79,6 @@ Apps on this list are:
 
 ## Calendar & Time
 
-- [Cron](https://cron.com/) - Next-gen calendar for professionals. `Free`
 - [Fantastical](https://flexibits.com/fantastical) - Calendar app with natural language input. `Subscription`
 - [Itsycal](https://www.mowglii.com/itsycal/) - Tiny menu bar calendar. `Free` `Open Source`
 - [Meeting Bar](https://github.com/leits/MeetingBar) - Menu bar app for your calendar meetings. `Free` `Open Source`
