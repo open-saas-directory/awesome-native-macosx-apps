@@ -41,6 +41,7 @@ Discover high-quality macOS apps built with native technologies (Swift, SwiftUI,
 ## What Makes an App "Native"?
 
 Apps on this list are:
+
 - ✅ Built with native macOS frameworks (Swift, SwiftUI, AppKit, Objective-C)
 - ✅ Lightweight and resource-efficient
 - ✅ Follow Apple's Human Interface Guidelines
@@ -257,13 +258,13 @@ Apps on this list are:
 - [Endurance](https://enduranceapp.com/) - Extend your MacBook's battery life. `Paid`
 - [EtreCheck](https://etrecheck.com/) - System configuration and diagnostic reporting. `Free`
 - [Hand Mirror](https://handmirror.app/) - One-click camera check from menu bar. `Free`
-- [Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar management tool. `Free` `Open Source`
 - [iStat Menus](https://bjango.com/mac/istatmenus/) - Advanced Mac system monitor. `Paid`
 - [Lungo](https://sindresorhus.com/lungo) - Prevent your Mac from going to sleep. `Paid`
 - [MonitorControl](https://github.com/MonitorControl/MonitorControl) - Control external display brightness and volume. `Free` `Open Source`
 - [Onyx](https://www.titanium-software.fr/en/onyx.html) - Multifunction utility for macOS. `Free`
 - [Rectangle](https://rectangleapp.com/) - Window management with keyboard shortcuts. `Free` `Open Source`
 - [Stats](https://github.com/exelban/stats) - macOS system monitor. `Free` `Open Source`
+- [Thaw](https://github.com/stonerl/Thaw) - Powerful menu bar management tool. Fork of Ice, lower resource usage. `Free` `Open Source`
 - [The Unarchiver](https://theunarchiver.com/) - Extract many archive formats. `Free`
 
 ## Terminal & Shell
@@ -323,6 +324,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 ### App Requirements
 
 Apps must meet ALL these criteria:
+
 - ✅ Built with native macOS technologies
 - ✅ Lightweight and performant
 - ✅ Actively maintained (updated within the last 2 years)
