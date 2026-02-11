@@ -224,6 +224,7 @@ Apps on this list are:
 - [Raycast](https://www.raycast.com/) - Blazingly fast extendable launcher. `Freemium`
 - [SelfControl](https://selfcontrolapp.com/) - Block distracting websites. `Free` `Open Source`
 - [TaskPaper](https://www.taskpaper.com/) - Plain text to-do lists. `Paid`
+- [TextSniper](https://textsniper.app) - Extract text from anything on screen using OCR. `Paid`
 - [Things](https://culturedcode.com/things/) - Award-winning task manager. `Paid`
 - [Tot](https://tot.rocks/) - Elegant text collection on menu bar. `Freemium`
 
