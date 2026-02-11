@@ -81,6 +81,7 @@ Apps on this list are:
 - [Cog](https://cog.losno.co/) - Audio player for macOS with broad format support. `Free` `Open Source`
 - [eqMac](https://eqmac.app/) - System-wide audio equalizer for macOS. `Free` `Open Source`
 - [IINA](https://iina.io/) - Modern video player with native macOS design. `Free` `Open Source`
+- [Muxie](https://muxie.duhnnie.com) - Last.fm scrobbler for Apple Music, Spotify Desktop, iPod Classic, Rockbox devices and some others. `Free`
 - [MonitorControl](https://github.com/MonitorControl/MonitorControl) - Control external monitor brightness & volume like native displays. `Free` `Open Source`
 - [NoiseBuddy](https://github.com/insidegui/NoiseBuddy) - Control AirPods Pro listening modes from menu bar. `Free` `Open Source`
 - [Sleeve](https://replay.software/sleeve) - Beautiful now playing display for Apple Music. `Paid`
