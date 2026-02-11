@@ -254,6 +254,7 @@ Apps on this list are:
 - [Gifox](https://gifox.app/) - Delightful GIF recording and sharing. `Paid`
 - [Kap](https://getkap.co/) - Open-source screen recorder. `Free` `Open Source`
 - [ScreenFloat](https://eternalstorms.at/screenfloat/) - Screenshot utility with floating thumbnails. `Paid`
+- [ScreenKite](https://www.screenkite.com) - Screen recording and video editing with auto zoom effect. 100% native and GPU-accelerated. 4x faster than Screen Studio. `Free`
 - [Shottr](https://shottr.cc/) - Screenshot tool with advanced features. `Free`
 - [Xnapper](https://xnapper.com/) - Take beautiful screenshots instantly. `Freemium`
 
