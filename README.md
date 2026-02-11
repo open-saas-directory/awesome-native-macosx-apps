@@ -192,6 +192,7 @@ Apps on this list are:
 - [Hidden Bar](https://github.com/dwarvesf/hidden) - Hide menu bar items. `Free` `Open Source`
 - [Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar management tool. `Free` `Open Source`
 - [Itsycal](https://www.mowglii.com/itsycal/) - Tiny menu bar calendar. `Free` `Open Source`
+- [Itsyhome](https://github.com/nickustinov/itsyhome-macos) - Smart home meets menu bar. `Freemium` `Open Source`
 - [MenubarX](https://menubarx.app/) - Browser in your menu bar. `Freemium`
 - [One Thing](https://sindresorhus.com/one-thing) - Put a single task in your menu bar. `Paid`
 
@@ -299,6 +300,7 @@ Apps on this list are:
 - [BBEdit](https://www.barebones.com/products/bbedit/) - Professional text and code editor. `Paid`
 - [CodeEdit](https://github.com/CodeEditApp/CodeEdit) - Native code editor for macOS. `Free` `Open Source`
 - [CotEditor](https://coteditor.com/) - Lightweight plain-text editor. `Free` `Open Source`
+- [Itsypad](https://github.com/nickustinov/itsypad-macos) - A tiny, fast scratchpad and clipboard manager. `Free` `Open Source`
 - [MacVim](https://macvim.org/) - Vim text editor for macOS. `Free` `Open Source`
 - [Nova](https://nova.app/) - Beautiful native code editor from Panic. `Paid`
 - [SubEthaEdit](https://subethaedit.net/) - Code, write, and edit with collaborative features. `Free` `Open Source`
@@ -309,6 +311,7 @@ Apps on this list are:
 
 - [HandBrake](https://handbrake.fr/) - Open source video transcoder. `Free` `Open Source`
 - [IINA](https://iina.io/) - Modern media player for macOS. `Free` `Open Source`
+- [Itsytv](https://github.com/nickustinov/itsytv-macos) - The missing Apple TV remote app. `Free` `Open Source`
 - [Movist Pro](https://movistprime.com/) - Powerful movie player for macOS. `Paid`
 - [Permute](https://software.charliemonroe.net/permute/) - Easy-to-use media converter. `Paid`
 - [QuickTime Player](https://support.apple.com/guide/quicktime-player/) - Built-in media player for macOS. `Free`
