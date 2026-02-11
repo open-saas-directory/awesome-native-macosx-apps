@@ -170,7 +170,7 @@ Apps on this list are:
 - [Dozer](https://github.com/Mortennn/Dozer) - Hide menu bar icons to give your Mac a cleaner look. `Free` `Open Source`
 - [Hand Mirror](https://handmirror.app/) - One-click camera check from menu bar. `Free`
 - [Hidden Bar](https://github.com/dwarvesf/hidden) - Hide menu bar items. `Free` `Open Source`
-- [Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar management tool. `Free` `Open Source`
+- [Thaw](https://github.com/stonerl/Thaw) - Powerful menu bar management tool. Fork of Ice, lower resource usage. `Free` `Open Source`
 - [Itsycal](https://www.mowglii.com/itsycal/) - Tiny menu bar calendar. `Free` `Open Source`
 - [MenubarX](https://menubarx.app/) - Browser in your menu bar. `Freemium`
 - [One Thing](https://sindresorhus.com/one-thing) - Put a single task in your menu bar. `Paid`
@@ -263,7 +263,6 @@ Apps on this list are:
 - [Onyx](https://www.titanium-software.fr/en/onyx.html) - Multifunction utility for macOS. `Free`
 - [Rectangle](https://rectangleapp.com/) - Window management with keyboard shortcuts. `Free` `Open Source`
 - [Stats](https://github.com/exelban/stats) - macOS system monitor. `Free` `Open Source`
-- [Thaw](https://github.com/stonerl/Thaw) - Powerful menu bar management tool. Fork of Ice, lower resource usage. `Free` `Open Source`
 - [The Unarchiver](https://theunarchiver.com/) - Extract many archive formats. `Free`
 
 ## Terminal & Shell
