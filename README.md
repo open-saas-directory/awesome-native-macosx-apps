@@ -18,7 +18,7 @@ Discover high-quality macOS apps built with native technologies (Swift, SwiftUI,
 - 📊 App comparisons & recommendations
 - 🔧 Tips for getting the most out of your Mac
 
-**→ [Subscribe to the Newsletter](YOUR_SUBSTACK_URL_HERE)** ←
+**→ [Subscribe to the Newsletter](https://nativemacapps.substack.com/)** ←
 
 *Join early subscribers and never miss a great native Mac app again. Unsubscribe anytime.*
 
