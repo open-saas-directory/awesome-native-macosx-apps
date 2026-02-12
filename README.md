@@ -274,6 +274,7 @@ Apps on this list are:
 - [Balenaetcher](https://www.balena.io/etcher/) - Flash OS images to SD cards and USB drives. `Free` `Open Source`
 - [coconutBattery](https://www.coconut-flavour.com/coconutbattery/) - Check battery health and status. `Free`
 - [DaisyDisk](https://daisydiskapp.com/) - Analyze disk usage and free up space. `Paid`
+- [DisplayBuddy](https://displaybuddy.app/) - Control the real brightness of monitors directly from Mac. `Paid`
 - [Endurance](https://enduranceapp.com/) - Extend your MacBook's battery life. `Paid`
 - [EtreCheck](https://etrecheck.com/) - System configuration and diagnostic reporting. `Free`
 - [Hand Mirror](https://handmirror.app/) - One-click camera check from menu bar. `Free`
