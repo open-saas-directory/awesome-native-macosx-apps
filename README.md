@@ -134,6 +134,7 @@ Apps on this list are:
 ## Developer Tools
 
 - [CodeEdit](https://github.com/CodeEditApp/CodeEdit) - Native code editor for macOS. `Free` `Open Source`
+- [Command Book](https://commandbookapp.com) - A terminal companion for long-running terminal commands. `Freemium`
 - [DevCleaner](https://github.com/vashpan/xcode-dev-cleaner) - Clean Xcode cache and derived data. `Free` `Open Source`
 - [DevToys](https://devtoys.app/) - Swiss Army knife for developers. `Free` `Open Source`
 - [DevUtils](https://devutils.com/) - All-in-one offline toolbox for developers (42+ tools). `Freemium`
