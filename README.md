@@ -240,6 +240,7 @@ Apps on this list are:
 - [TaskPaper](https://www.taskpaper.com/) - Plain text to-do lists. `Paid`
 - [Things](https://culturedcode.com/things/) - Award-winning task manager. `Paid`
 - [Tot](https://tot.rocks/) - Elegant text collection on menu bar. `Freemium`
+- [Speakmac](https://www.speakmac.app/) - Offline hotkey dictation for macOS that types into any app using on-device transcription. `One-Time Subscription`
 
 ## Screenshot & Recording
 
