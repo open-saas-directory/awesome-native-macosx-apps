@@ -194,6 +194,7 @@ Apps on this list are:
 - [Itsycal](https://www.mowglii.com/itsycal/) - Tiny menu bar calendar. `Free` `Open Source`
 - [MenubarX](https://menubarx.app/) - Browser in your menu bar. `Freemium`
 - [One Thing](https://sindresorhus.com/one-thing) - Put a single task in your menu bar. `Paid`
+- [Pommy: Focus Timer](https://apps.apple.com/pt/app/pommy-focus-timer/id6747729586) - Lightweight, native Pomodoro timer with iCloud sync. `Freemium`
 
 ## Network Tools
 
