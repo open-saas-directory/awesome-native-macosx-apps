@@ -9,7 +9,7 @@ Discover high-quality macOS apps built with native technologies (Swift, SwiftUI,
 
 ## 📬 Get Monthly Native App Picks in Your Inbox
 
-**Tired of hunting for quality Mac apps?** Subscribe to our newsletter and get 5-10 handpicked native macOS apps delivered monthly.
+Subscribe to our newsletter and get 5-10 handpicked native macOS apps delivered monthly.
 
 **What you'll get:**
 - 🎯 Curated native apps (no Electron bloat)
@@ -72,7 +72,6 @@ Apps on this list are:
 ## Analytics & Monitoring
 
 - [iStat Menus](https://bjango.com/mac/istatmenus/) - Advanced Mac system monitor in your menu bar. `Paid`
-- [MenuBar Stats](https://github.com/Jorgen-VikingGod/MenuBarStats) - System monitoring in your menu bar. `Free` `Open Source`
 - [Stats](https://github.com/exelban/stats) - macOS system monitor for CPU, GPU, memory, disk, and more. `Free` `Open Source`
 
 ## Audio & Music
@@ -96,7 +95,6 @@ Apps on this list are:
 ## Browsers & Web
 
 - [Orion](https://browser.kagi.com/) - Lightweight WebKit browser with zero telemetry. `Free`
-- [Safari Technology Preview](https://developer.apple.com/safari/technology-preview/) - Apple's experimental Safari build. `Free`
 
 ## Calendar & Time
 
@@ -148,7 +146,6 @@ Apps on this list are:
 - [Airmail](https://airmailapp.com/) - Lightning fast mail client for Mac. `Paid`
 - [MailMate](https://freron.com/) - Advanced IMAP email client with keyboard control. `Paid`
 - [Mimestream](https://mimestream.com/) - Native Gmail client for macOS. `Paid`
-- [Spark](https://sparkmailapp.com/) - Smart email client with team collaboration. `Freemium`
 
 ## File Management
 
@@ -219,12 +216,8 @@ Apps on this list are:
 
 ## Password Managers
 
-- [1Password](https://1password.com/) - Industry-leading password manager. `Subscription`
-- [Bitwarden](https://bitwarden.com/) - Open source password manager. `Freemium` `Open Source`
-- [Encrypto](https://macpaw.com/encrypto) - Encrypt files with AES-256 encryption. `Free`
-- [KeePassXC](https://keepassxc.org/) - Cross-platform password manager. `Free` `Open Source`
-- [MacPass](https://macpassapp.org/) - Native KeePass client. `Free` `Open Source`
 - [Strongbox](https://strongboxsafe.com/) - Native KeePass client for macOS. `Freemium` `Open Source`
+- [Encrypto](https://macpaw.com/encrypto) - Encrypt files with AES-256 encryption. `Free`
 
 ## PDF Tools
 
@@ -271,7 +264,6 @@ Apps on this list are:
 - [AlDente](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter) - Charge limiter to extend MacBook battery life. `Freemium` `Open Source`
 - [AppCleaner](https://freemacsoft.net/appcleaner/) - Thoroughly uninstall unwanted apps. `Free`
 - [Background Music](https://github.com/kyleneideck/BackgroundMusic) - Control audio per-application. `Free` `Open Source`
-- [Balenaetcher](https://www.balena.io/etcher/) - Flash OS images to SD cards and USB drives. `Free` `Open Source`
 - [coconutBattery](https://www.coconut-flavour.com/coconutbattery/) - Check battery health and status. `Free`
 - [DaisyDisk](https://daisydiskapp.com/) - Analyze disk usage and free up space. `Paid`
 - [Endurance](https://enduranceapp.com/) - Extend your MacBook's battery life. `Paid`
