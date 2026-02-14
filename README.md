@@ -155,6 +155,8 @@ Apps on this list are:
 - [Hazel](https://www.noodlesoft.com/) - Automated organization for your Mac. `Paid`
 - [Path Finder](https://www.cocoatech.io/) - Powerful Finder alternative. `Paid`
 - [Quick Look plugins](https://github.com/sindresorhus/quick-look-plugins) - Useful Quick Look plugins for developers. `Free` `Open Source`
+- [Encrypto](https://macpaw.com/encrypto) - Encrypt files with AES-256 encryption. `Free`
+
 
 ## Git & Version Control
 
@@ -218,8 +220,7 @@ Apps on this list are:
 
 ## Password Managers
 
-- [Strongbox](https://strongboxsafe.com/) - Native KeePass client for macOS. `Freemium` `Open Source`
-- [Encrypto](https://macpaw.com/encrypto) - Encrypt files with AES-256 encryption. `Free`
+- [Strongbox](https://strongboxsafe.com/) - Native KeePass client for macOS. `Freemium`
 
 ## PDF Tools
 
