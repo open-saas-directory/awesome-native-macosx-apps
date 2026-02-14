@@ -188,6 +188,7 @@ Apps on this list are:
 - [Dozer](https://github.com/Mortennn/Dozer) - Hide menu bar icons to give your Mac a cleaner look. `Free` `Open Source`
 - [Hand Mirror](https://handmirror.app/) - One-click camera check from menu bar. `Free`
 - [Hidden Bar](https://github.com/dwarvesf/hidden) - Hide menu bar items. `Free` `Open Source`
+- [HomeBar for Homey Pro](https://homebar.pro) - Manage your Homey Pro smart home. `Freemium`
 - [Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar management tool. `Free` `Open Source`
 - [Itsycal](https://www.mowglii.com/itsycal/) - Tiny menu bar calendar. `Free` `Open Source`
 - [MenubarX](https://menubarx.app/) - Browser in your menu bar. `Freemium`
