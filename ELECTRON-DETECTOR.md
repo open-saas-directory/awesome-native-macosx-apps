@@ -6,7 +6,7 @@ A fun, visually appealing script to detect Electron-based applications on your M
 
 **One-line install and run:**
 ```bash
-curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-macosx-apps/main/detect-electron.sh | bash
+curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-macosx-apps/main/find-electron-apps-macos.sh | bash
 ```
 
 ## What It Does
