@@ -79,12 +79,12 @@ cd awesome-native-macosx-apps
 
 **Make executable:**
 ```bash
-chmod +x detect-electron.sh
+chmod +x find-electron-apps-macos.sh
 ```
 
 **Run:**
 ```bash
-./detect-electron.sh
+./find-electron-apps-macos.sh
 ```
 
 ## How It Works
@@ -123,7 +123,7 @@ Found Electron apps? Check our curated list of native alternatives.
 
 **"Permission denied" error:**
 ```bash
-chmod +x detect-electron.sh
+chmod +x find-electron-apps-macos.sh
 ```
 
 **Script not finding apps:**
