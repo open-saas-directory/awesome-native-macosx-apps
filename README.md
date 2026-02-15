@@ -58,7 +58,7 @@ Subscribe to our newsletter and get 5-10 handpicked native macOS apps delivered 
 - [Contributing](#contributing)
 - [Related Lists](#related-lists)
 
-## What Makes an App "Native"?
+### What Makes an App "Native"?
 
 Apps on this list are:
 
@@ -68,6 +68,30 @@ Apps on this list are:
 - ✅ Feel fast and responsive
 - ❌ NOT Electron or web-wrapper apps
 - ❌ NOT resource-heavy cross-platform apps
+
+---
+
+# 🔍 Electron App Detector
+
+A fun, visually appealing script to detect Electron-based applications on your Mac.
+
+## Quick Start
+
+**One-line install and run:**
+```bash
+curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-macosx-apps/main/find-electron-apps-macos.sh | bash
+```
+
+## What It Does
+
+- 🔎 Scans `/Applications` folder for Electron apps
+- ⚡ Identifies apps built with Electron framework
+- 📊 Shows app names, sizes, and versions
+- 🎨 Beautiful, colorful terminal output
+
+📖 **[Read more about the detector →](ELECTRON-DETECTOR.md)**
+
+---
 
 ## Analytics & Monitoring
 
