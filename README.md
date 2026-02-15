@@ -195,6 +195,7 @@ Apps on this list are:
 - [Itsycal](https://www.mowglii.com/itsycal/) - Tiny menu bar calendar. `Free` `Open Source`
 - [MenubarX](https://menubarx.app/) - Browser in your menu bar. `Freemium`
 - [One Thing](https://sindresorhus.com/one-thing) - Put a single task in your menu bar. `Paid`
+- [Tubist](https://danielkasaj.com/tubist/support.html) - YouTube background player, detached from browser `Free`
 
 ## Network Tools
 
