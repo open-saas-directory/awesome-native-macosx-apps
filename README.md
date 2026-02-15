@@ -73,6 +73,7 @@ Apps on this list are:
 
 - [iStat Menus](https://bjango.com/mac/istatmenus/) - Advanced Mac system monitor in your menu bar. `Paid`
 - [Stats](https://github.com/exelban/stats) - macOS system monitor for CPU, GPU, memory, disk, and more. `Free` `Open Source`
+- [Usage](https://usage.pro) - System activity monitor for macOS, iOS, and iPadOS. `Freemium`
 
 ## Audio & Music
 
