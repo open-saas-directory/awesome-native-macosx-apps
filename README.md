@@ -4,6 +4,26 @@
 
 Discover high-quality macOS apps built with native technologies (Swift, SwiftUI, AppKit) that are fast, efficient, and respect your Mac's resources. This list focuses on apps that feel like they belong on macOS — no Electron bloat, just pure native performance.
 
+
+---
+
+## 📬 Get Monthly Native App Picks in Your Inbox
+
+Subscribe to our newsletter and get 5-10 handpicked native macOS apps delivered monthly.
+
+**What you'll get:**
+- 🎯 Curated native apps (no Electron bloat)
+- 💎 Hidden gems you won't find elsewhere
+- 🆓 Free & open-source alternatives
+- 📊 App comparisons & recommendations
+- 🔧 Tips for getting the most out of your Mac
+
+**→ [Subscribe to the Newsletter](https://nativemacapps.substack.com/)** ←
+
+*Join early subscribers and never miss a great native Mac app again. Unsubscribe anytime.*
+
+---
+
 ## Contents
 
 - [What Makes an App "Native"?](#what-makes-an-app-native)
@@ -52,7 +72,6 @@ Apps on this list are:
 ## Analytics & Monitoring
 
 - [iStat Menus](https://bjango.com/mac/istatmenus/) - Advanced Mac system monitor in your menu bar. `Paid`
-- [MenuBar Stats](https://github.com/Jorgen-VikingGod/MenuBarStats) - System monitoring in your menu bar. `Free` `Open Source`
 - [Stats](https://github.com/exelban/stats) - macOS system monitor for CPU, GPU, memory, disk, and more. `Free` `Open Source`
 
 ## Audio & Music
@@ -63,6 +82,7 @@ Apps on this list are:
 - [IINA](https://iina.io/) - Modern video player with native macOS design. `Free` `Open Source`
 - [MonitorControl](https://github.com/MonitorControl/MonitorControl) - Control external monitor brightness & volume like native displays. `Free` `Open Source`
 - [NoiseBuddy](https://github.com/insidegui/NoiseBuddy) - Control AirPods Pro listening modes from menu bar. `Free` `Open Source`
+- [Petrichor](https://github.com/kushalpandya/Petrichor) - Offline music player with support for over 20 file formats and a lot of other features. `Free` `Open Source`
 - [Sleeve](https://replay.software/sleeve) - Beautiful now playing display for Apple Music. `Paid`
 - [SoundSource](https://rogueamoeba.com/soundsource/) - Superior sound control for macOS. `Paid`
 
@@ -76,7 +96,6 @@ Apps on this list are:
 ## Browsers & Web
 
 - [Orion](https://browser.kagi.com/) - Lightweight WebKit browser with zero telemetry. `Free`
-- [Safari Technology Preview](https://developer.apple.com/safari/technology-preview/) - Apple's experimental Safari build. `Free`
 
 ## Calendar & Time
 
@@ -128,7 +147,6 @@ Apps on this list are:
 - [Airmail](https://airmailapp.com/) - Lightning fast mail client for Mac. `Paid`
 - [MailMate](https://freron.com/) - Advanced IMAP email client with keyboard control. `Paid`
 - [Mimestream](https://mimestream.com/) - Native Gmail client for macOS. `Paid`
-- [Spark](https://sparkmailapp.com/) - Smart email client with team collaboration. `Freemium`
 
 ## File Management
 
@@ -137,6 +155,8 @@ Apps on this list are:
 - [Hazel](https://www.noodlesoft.com/) - Automated organization for your Mac. `Paid`
 - [Path Finder](https://www.cocoatech.io/) - Powerful Finder alternative. `Paid`
 - [Quick Look plugins](https://github.com/sindresorhus/quick-look-plugins) - Useful Quick Look plugins for developers. `Free` `Open Source`
+- [Encrypto](https://macpaw.com/encrypto) - Encrypt files with AES-256 encryption. `Free`
+
 
 ## Git & Version Control
 
@@ -170,6 +190,7 @@ Apps on this list are:
 - [Dozer](https://github.com/Mortennn/Dozer) - Hide menu bar icons to give your Mac a cleaner look. `Free` `Open Source`
 - [Hand Mirror](https://handmirror.app/) - One-click camera check from menu bar. `Free`
 - [Hidden Bar](https://github.com/dwarvesf/hidden) - Hide menu bar items. `Free` `Open Source`
+- [HomeBar for Homey Pro](https://homebar.pro) - Manage your Homey Pro smart home. `Freemium`
 - [Itsycal](https://www.mowglii.com/itsycal/) - Tiny menu bar calendar. `Free` `Open Source`
 - [MenubarX](https://menubarx.app/) - Browser in your menu bar. `Freemium`
 - [One Thing](https://sindresorhus.com/one-thing) - Put a single task in your menu bar. `Paid`
@@ -199,12 +220,7 @@ Apps on this list are:
 
 ## Password Managers
 
-- [1Password](https://1password.com/) - Industry-leading password manager. `Subscription`
-- [Bitwarden](https://bitwarden.com/) - Open source password manager. `Freemium` `Open Source`
-- [Encrypto](https://macpaw.com/encrypto) - Encrypt files with AES-256 encryption. `Free`
-- [KeePassXC](https://keepassxc.org/) - Cross-platform password manager. `Free` `Open Source`
-- [MacPass](https://macpassapp.org/) - Native KeePass client. `Free` `Open Source`
-- [Strongbox](https://strongboxsafe.com/) - Native KeePass client for macOS. `Freemium` `Open Source`
+- [Strongbox](https://strongboxsafe.com/) - Native KeePass client for macOS. `Freemium`
 
 ## PDF Tools
 
@@ -227,6 +243,7 @@ Apps on this list are:
 - [TaskPaper](https://www.taskpaper.com/) - Plain text to-do lists. `Paid`
 - [Things](https://culturedcode.com/things/) - Award-winning task manager. `Paid`
 - [Tot](https://tot.rocks/) - Elegant text collection on menu bar. `Freemium`
+- [Speakmac](https://www.speakmac.app/) - Offline hotkey dictation for macOS that types into any app using on-device transcription. `One-Time Subscription`
 
 ## Screenshot & Recording
 
@@ -251,7 +268,6 @@ Apps on this list are:
 - [AlDente](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter) - Charge limiter to extend MacBook battery life. `Freemium` `Open Source`
 - [AppCleaner](https://freemacsoft.net/appcleaner/) - Thoroughly uninstall unwanted apps. `Free`
 - [Background Music](https://github.com/kyleneideck/BackgroundMusic) - Control audio per-application. `Free` `Open Source`
-- [Balenaetcher](https://www.balena.io/etcher/) - Flash OS images to SD cards and USB drives. `Free` `Open Source`
 - [coconutBattery](https://www.coconut-flavour.com/coconutbattery/) - Check battery health and status. `Free`
 - [DaisyDisk](https://daisydiskapp.com/) - Analyze disk usage and free up space. `Paid`
 - [Endurance](https://enduranceapp.com/) - Extend your MacBook's battery life. `Paid`
@@ -305,6 +321,7 @@ Apps on this list are:
 - [Rectangle](https://rectangleapp.com/) - Window snapping via keyboard shortcuts. `Free` `Open Source`
 - [Rectangle Pro](https://rectangleapp.com/pro) - Professional window management. `Paid`
 - [Swish](https://highlyopinionated.co/swish/) - Control windows with trackpad gestures. `Paid`
+- [Wins](https://wins.cool) - Bring system-level window management features to macOS. `Paid`
 - [Yabai](https://github.com/koekeishiya/yabai) - Tiling window manager for macOS. `Free` `Open Source`
 
 ## Contributing
