@@ -120,7 +120,6 @@ Apps on this list are:
 
 ## Database Tools
 
-- [Beekeeper Studio](https://www.beekeeperstudio.io/) - Modern SQL editor and database manager. `Freemium` `Open Source`
 - [Postico](https://eggerapps.at/postico2/) - Modern PostgreSQL client for macOS. `Paid`
 - [Sequel Ace](https://sequel-ace.com/) - MySQL/MariaDB database management. `Free` `Open Source`
 - [TablePlus](https://tableplus.com/) - Modern native database management tool. `Freemium`
