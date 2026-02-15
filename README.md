@@ -71,18 +71,18 @@ Apps on this list are:
 
 ---
 
-# 🔍 Electron App Detector
+## 🔍 Electron App Detector
 
 A fun, visually appealing script to detect Electron-based applications on your Mac.
 
-## Quick Start
+### Quick Start
 
 **One-line install and run:**
 ```bash
 curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-macosx-apps/main/find-electron-apps-macos.sh | bash
 ```
 
-## What It Does
+### What It Does
 
 - 🔎 Scans `/Applications` folder for Electron apps
 - ⚡ Identifies apps built with Electron framework
