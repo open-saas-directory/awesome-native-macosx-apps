@@ -105,6 +105,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [Cog](https://cog.losno.co/) - Audio player for macOS with broad format support. `Free` `Open Source`
 - [eqMac](https://eqmac.app/) - System-wide audio equalizer for macOS. `Free` `Open Source`
 - [IINA](https://iina.io/) - Modern video player with native macOS design. `Free` `Open Source`
+- [Muxie](https://muxie.duhnnie.com) - Last.fm scrobbler for Apple Music, Spotify Desktop, iPod Classic, Rockbox devices and some others. `Free`
 - [MonitorControl](https://github.com/MonitorControl/MonitorControl) - Control external monitor brightness & volume like native displays. `Free` `Open Source`
 - [NoiseBuddy](https://github.com/insidegui/NoiseBuddy) - Control AirPods Pro listening modes from menu bar. `Free` `Open Source`
 - [Petrichor](https://github.com/kushalpandya/Petrichor) - Offline music player with support for over 20 file formats and a lot of other features. `Free` `Open Source`
