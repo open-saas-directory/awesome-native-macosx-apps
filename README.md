@@ -157,6 +157,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 
 ## Developer Tools
 
+- [BucketMate](https://bucketmate.app/) - Native S3 GUI Client for macOS `Freemium`
 - [CodeEdit](https://github.com/CodeEditApp/CodeEdit) - Native code editor for macOS. `Free` `Open Source`
 - [DevCleaner](https://github.com/vashpan/xcode-dev-cleaner) - Clean Xcode cache and derived data. `Free` `Open Source`
 - [DevToys](https://devtoys.app/) - Swiss Army knife for developers. `Free` `Open Source`
