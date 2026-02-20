@@ -4,7 +4,6 @@
 
 Discover high-quality macOS apps built with native technologies (Swift, SwiftUI, AppKit) that are fast, efficient, and respect your Mac's resources. This list focuses on apps that feel like they belong on macOS — no Electron bloat, just pure native performance.
 
-
 ---
 
 ## 📬 Get Monthly Native App Picks in Your Inbox
@@ -12,15 +11,16 @@ Discover high-quality macOS apps built with native technologies (Swift, SwiftUI,
 Subscribe to our newsletter and get 5-10 handpicked native macOS apps delivered monthly.
 
 **What you'll get:**
+
 - 🎯 Curated native apps (no Electron bloat)
 - 💎 Hidden gems you won't find elsewhere
 - 🆓 Free & open-source alternatives
 - 📊 App comparisons & recommendations
 - 🔧 Tips for getting the most out of your Mac
 
-📖 **[Subscribe to the Newsletter  →](https://nativemacapps.substack.com/)**
+📖 **[Subscribe to the Newsletter →](https://nativemacapps.substack.com/)**
 
-*Join early subscribers and never miss a great native Mac app again. Unsubscribe anytime.*
+_Join early subscribers and never miss a great native Mac app again. Unsubscribe anytime._
 
 ---
 
@@ -78,6 +78,7 @@ A fun, visually appealing script to detect Electron-based applications on your M
 ### Quick Start
 
 **One-line install and run:**
+
 ```bash
 curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-macosx-apps/main/find-electron-apps-macos.sh | bash
 ```
@@ -184,7 +185,6 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [Quick Look plugins](https://github.com/sindresorhus/quick-look-plugins) - Useful Quick Look plugins for developers. `Free` `Open Source`
 - [Encrypto](https://macpaw.com/encrypto) - Encrypt files with AES-256 encryption. `Free`
 
-
 ## Git & Version Control
 
 - [Fork](https://git-fork.com/) - Fast and friendly Git client for Mac. `Free`
@@ -275,6 +275,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 
 ## Screenshot & Recording
 
+- [BetterCapture](https://bettercapture.app/) - A lightweight, and intuitive screen recorder with a native look and feel. `Free` `Open Source`
 - [CleanShot X](https://cleanshot.com/) - Capture your Mac's screen like a pro. `Paid`
 - [Gifox](https://gifox.app/) - Delightful GIF recording and sharing. `Paid`
 - [Kap](https://getkap.co/) - Open-source screen recorder. `Free` `Open Source`
