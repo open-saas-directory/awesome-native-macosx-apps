@@ -197,6 +197,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 ## Image & Graphics
 
 - [Acorn](https://flyingmeat.com/acorn/) - Full-featured photo editor designed for humans. `Paid`
+- [GalleryMagic](https://usegallerymagic.com/) - Quick & easy HTML image gallery creator. `Freemium`
 - [ImageOptim](https://imageoptim.com/) - Compress images without losing quality. `Free` `Open Source`
 - [Pixave](https://www.pixaveapp.com/) - Ultimate image organizer and viewer. `Paid`
 - [Pixelmator Pro](https://www.pixelmator.com/pro/) - Powerful native image editor. `Paid`
