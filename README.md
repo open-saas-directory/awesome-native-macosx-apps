@@ -268,6 +268,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [Focus](https://heyfocus.com/) - Block distracting websites and applications. `Paid`
 - [Keyboard Maestro](https://www.keyboardmaestro.com/) - Automate applications and websites. `Paid`
 - [OmniFocus](https://www.omnigroup.com/omnifocus/) - Professional-grade task management. `Paid`
+- [PopStack](https://popstack.us) - Instant folder popovers for your desktop. `Paid`
 - [Raycast](https://www.raycast.com/) - Blazingly fast extendable launcher. `Freemium`
 - [SelfControl](https://selfcontrolapp.com/) - Block distracting websites. `Free` `Open Source`
 - [TaskPaper](https://www.taskpaper.com/) - Plain text to-do lists. `Paid`
