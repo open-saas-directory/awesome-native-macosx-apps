@@ -293,6 +293,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [Little Snitch](https://www.obdev.at/products/littlesnitch/) - Network monitor and firewall. `Paid`
 - [Lulu](https://objective-see.org/products/lulu.html) - Open-source firewall for macOS. `Free` `Open Source`
 - [Micro Snitch](https://www.obdev.at/products/microsnitch/) - Monitor camera and microphone access. `Paid`
+- [MirrorMask](https://mirrormask.app) - Reveal and reshape your algorithmic identity across Google, Facebook, Reddit, and more. `Freemium`
 - [OverSight](https://objective-see.org/products/oversight.html) - Monitor mic and webcam access. `Free` `Open Source`
 
 ## System Utilities
