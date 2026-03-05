@@ -223,6 +223,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [Itsyhome](https://github.com/nickustinov/itsyhome-macos) - Smart home meets menu bar. `Freemium` `Open Source`
 - [MenubarX](https://menubarx.app/) - Browser in your menu bar. `Freemium`
 - [One Thing](https://sindresorhus.com/one-thing) - Put a single task in your menu bar. `Paid`
+- [SaneBar](https://sanebar.com) - Privacy-first menu bar manager. Hide and organize icons. `Freemium`
 - [Thaw](https://github.com/stonerl/Thaw) - Powerful menu bar management tool. Fork of Ice, lower resource usage. `Free` `Open Source`
 - [TickerPad](https://tickerpad.app) - Real-time crypto prices in your macOS menu bar.  `Freemium`
 
