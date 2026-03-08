@@ -165,6 +165,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [DevToys](https://devtoys.app/) - Swiss Army knife for developers. `Free` `Open Source`
 - [DevUtils](https://devutils.com/) - All-in-one offline toolbox for developers (42+ tools). `Freemium`
 - [Paw](https://paw.cloud/) - Advanced API tool for Mac. `Paid`
+- [Poirot](https://github.com/LeonardoCardoso/Poirot) - Browse Claude Code sessions, explore diffs, and re-run commands. `Free` `Open Source`
 - [Proxyman](https://proxyman.io/) - Native HTTP debugging proxy. `Freemium`
 - [RocketSim](https://www.rocketsim.app/) - Enhance Xcode Simulator productivity. `Freemium`
 - [SF Symbols](https://developer.apple.com/sf-symbols/) - Browse and export Apple's SF Symbols. `Free`
