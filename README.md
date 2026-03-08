@@ -302,6 +302,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [AppCleaner](https://freemacsoft.net/appcleaner/) - Thoroughly uninstall unwanted apps. `Free`
 - [Background Music](https://github.com/kyleneideck/BackgroundMusic) - Control audio per-application. `Free` `Open Source`
 - [coconutBattery](https://www.coconut-flavour.com/coconutbattery/) - Check battery health and status. `Free`
+- [ClearDisk](https://github.com/bysiber/cleardisk) - macOS menu bar utility that monitors 44+ developer cache paths and helps reclaim disk space. `Free` `Open Source`
 - [DaisyDisk](https://daisydiskapp.com/) - Analyze disk usage and free up space. `Paid`
 - [DisplayBuddy](https://displaybuddy.app/) - Control the real brightness of monitors directly from Mac. `Paid`
 - [Endurance](https://enduranceapp.com/) - Extend your MacBook's battery life. `Paid`
