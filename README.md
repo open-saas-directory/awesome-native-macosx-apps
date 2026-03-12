@@ -1,8 +1,14 @@
-# Awesome Native macOS Apps [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Native macOS Apps [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Submit Your App](https://img.shields.io/badge/Submit_Your_App-→-0071e3?style=flat-square)](https://github.com/open-saas-directory/awesome-native-macosx-apps/issues/new?template=app-submission.md)
 
 > A curated collection of beautiful, lightweight, and truly native macOS applications that deserve more recognition.
 
 Discover high-quality macOS apps built with native technologies (Swift, SwiftUI, AppKit) that are fast, efficient, and respect your Mac's resources. This list focuses on apps that feel like they belong on macOS — no Electron bloat, just pure native performance.
+
+---
+
+## 💎 Become a Sponsor
+
+Reach thousands of Mac power users by sponsoring this list. Contact us at [sponsor@opensaas.directory](mailto:sponsor@opensaas.directory)
 
 ---
 
@@ -147,14 +153,14 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 
 ## Database Tools
 
-- [Postico](https://eggerapps.at/postico2/) - Modern PostgreSQL client for macOS. `Paid`
+- [Postico](https://eggerapps.at/postico2/) - Modern PostgreSQL client for macOS. `Paid` `EU`
 - [Sequel Ace](https://sequel-ace.com/) - MySQL/MariaDB database management. `Free` `Open Source`
 - [TablePlus](https://tableplus.com/) - Modern native database management tool. `Freemium`
 
 ## Design Tools
 
 - [IconJar](https://geticonjar.com/) - Icon management tool for designers. `Paid`
-- [Sketch](https://www.sketch.com/) - Professional digital design for Mac. `Subscription`
+- [Sketch](https://www.sketch.com/) - Professional digital design for Mac. `Subscription` `EU`
 - [xScope](https://xscopeapp.com/) - Measure, inspect, and test on-screen graphics. `Paid`
 
 ## Developer Tools
@@ -172,7 +178,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 
 ## Email & Communication
 
-- [Airmail](https://airmailapp.com/) - Lightning fast mail client for Mac. `Paid`
+- [Airmail](https://airmailapp.com/) - Lightning fast mail client for Mac. `Paid` `EU`
 - [MailMate](https://freron.com/) - Advanced IMAP email client with keyboard control. `Paid`
 - [Mimestream](https://mimestream.com/) - Native Gmail client for macOS. `Paid`
 
@@ -192,14 +198,14 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [GitFox](https://www.gitfox.app/) - Git client with a focus on simplicity. `Paid`
 - [GitUp](https://gitup.co/) - Git interface you've been missing. `Free` `Open Source`
 - [SourceTree](https://www.sourcetreeapp.com/) - Free Git client from Atlassian. `Free`
-- [Tower](https://www.git-tower.com/mac) - Powerful Git client for Mac. `Paid`
+- [Tower](https://www.git-tower.com/mac) - Powerful Git client for Mac. `Paid` `EU`
 
 ## Image & Graphics
 
 - [Acorn](https://flyingmeat.com/acorn/) - Full-featured photo editor designed for humans. `Paid`
 - [ImageOptim](https://imageoptim.com/) - Compress images without losing quality. `Free` `Open Source`
 - [Pixave](https://www.pixaveapp.com/) - Ultimate image organizer and viewer. `Paid`
-- [Pixelmator Pro](https://www.pixelmator.com/pro/) - Powerful native image editor. `Paid`
+- [Pixelmator Pro](https://www.pixelmator.com/pro/) - Powerful native image editor. `Paid` `EU`
 - [Retrobatch](https://flyingmeat.com/retrobatch/) - Batch image processing for Mac. `Paid`
 - [xScope](https://xscopeapp.com/) - Measure, inspect and test on-screen graphics. `Paid`
 
@@ -229,15 +235,15 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 
 ## Network Tools
 
-- [Little Snitch](https://www.obdev.at/products/littlesnitch/) - Network monitor and firewall. `Paid`
-- [Micro Snitch](https://www.obdev.at/products/microsnitch/) - Monitor camera and microphone access. `Paid`
+- [Little Snitch](https://www.obdev.at/products/littlesnitch/) - Network monitor and firewall. `Paid` `EU`
+- [Micro Snitch](https://www.obdev.at/products/microsnitch/) - Monitor camera and microphone access. `Paid` `EU`
 - [NetNewsWire](https://netnewswire.com/) - RSS reader for macOS. `Free` `Open Source`
 - [Surge](https://nssurge.com/) - Advanced network toolbox for Mac. `Paid`
 - [WiFi Explorer](https://www.intuitibits.com/products/wifi-explorer/) - Scan, monitor and troubleshoot wireless networks. `Paid`
 
 ## Note-Taking & Writing
 
-- [Bear](https://bear.app/) - Beautiful, flexible writing app. `Freemium`
+- [Bear](https://bear.app/) - Beautiful, flexible writing app. `Freemium` `EU`
 - [Craft](https://www.craft.do/) - Native document editor with sharing. `Freemium`
 - [DEVONthink](https://www.devontechnologies.com/apps/devonthink) - Document and information management. `Paid`
 - [FSNotes](https://fsnot.es/) - Modern notes manager for macOS. `Free` `Open Source`
@@ -247,7 +253,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [nvALT](https://brettterpstra.com/projects/nvalt/) - Fork of Notational Velocity with additional features. `Free` `Open Source`
 - [The Archive](https://zettelkasten.de/the-archive/) - Note-taking app for writers and researchers. `Paid`
 - [Tot](https://tot.rocks/) - Elegant text collection on menu bar. `Freemium`
-- [Ulysses](https://ulysses.app/) - Professional writing environment for Mac. `Subscription`
+- [Ulysses](https://ulysses.app/) - Professional writing environment for Mac. `Subscription` `EU`
 
 ## Password Managers
 
@@ -263,7 +269,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 ## Productivity
 
 - [Alfred](https://www.alfredapp.com/) - Productivity app for macOS with powerful workflows. `Freemium`
-- [BetterTouchTool](https://folivora.ai/) - Customize input devices on your Mac. `Paid`
+- [BetterTouchTool](https://folivora.ai/) - Customize input devices on your Mac. `Paid` `EU`
 - [Due](https://www.dueapp.com/) - Reminders with persistent alerts. `Paid`
 - [Fantastical](https://flexibits.com/fantastical) - Calendar app with natural language input. `Subscription`
 - [Focus](https://heyfocus.com/) - Block distracting websites and applications. `Paid`
@@ -282,18 +288,18 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [CleanShot X](https://cleanshot.com/) - Capture your Mac's screen like a pro. `Paid`
 - [Gifox](https://gifox.app/) - Delightful GIF recording and sharing. `Paid`
 - [Kap](https://getkap.co/) - Open-source screen recorder. `Free` `Open Source`
-- [ScreenFloat](https://eternalstorms.at/screenfloat/) - Screenshot utility with floating thumbnails. `Paid`
+- [ScreenFloat](https://eternalstorms.at/screenfloat/) - Screenshot utility with floating thumbnails. `Paid` `EU`
 - [ScreenKite](https://www.screenkite.com) - Screen recording and video editing with auto zoom effect. 4x faster than Screen Studio. `Free`
 - [Shottr](https://shottr.cc/) - Screenshot tool with advanced features. `Free`
 - [Xnapper](https://xnapper.com/) - Take beautiful screenshots instantly. `Freemium`
 
 ## Security & Privacy
 
-- [Cryptomator](https://cryptomator.org/) - Multi-platform client-side encryption. `Free` `Open Source`
+- [Cryptomator](https://cryptomator.org/) - Multi-platform client-side encryption. `Free` `Open Source` `EU`
 - [KnockKnock](https://objective-see.org/products/knockknock.html) - See what's persistently installed on your Mac. `Free` `Open Source`
-- [Little Snitch](https://www.obdev.at/products/littlesnitch/) - Network monitor and firewall. `Paid`
+- [Little Snitch](https://www.obdev.at/products/littlesnitch/) - Network monitor and firewall. `Paid` `EU`
 - [Lulu](https://objective-see.org/products/lulu.html) - Open-source firewall for macOS. `Free` `Open Source`
-- [Micro Snitch](https://www.obdev.at/products/microsnitch/) - Monitor camera and microphone access. `Paid`
+- [Micro Snitch](https://www.obdev.at/products/microsnitch/) - Monitor camera and microphone access. `Paid` `EU`
 - [OverSight](https://objective-see.org/products/oversight.html) - Monitor mic and webcam access. `Free` `Open Source`
 
 ## System Utilities
@@ -311,7 +317,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [iStat Menus](https://bjango.com/mac/istatmenus/) - Advanced Mac system monitor. `Paid`
 - [Lungo](https://sindresorhus.com/lungo) - Prevent your Mac from going to sleep. `Paid`
 - [MonitorControl](https://github.com/MonitorControl/MonitorControl) - Control external display brightness and volume. `Free` `Open Source`
-- [Onyx](https://www.titanium-software.fr/en/onyx.html) - Multifunction utility for macOS. `Free`
+- [Onyx](https://www.titanium-software.fr/en/onyx.html) - Multifunction utility for macOS. `Free` `EU`
 - [Rectangle](https://rectangleapp.com/) - Window management with keyboard shortcuts. `Free` `Open Source`
 - [Stats](https://github.com/exelban/stats) - macOS system monitor. `Free` `Open Source`
 - [The Unarchiver](https://theunarchiver.com/) - Extract many archive formats. `Free`
@@ -345,12 +351,12 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [Permute](https://software.charliemonroe.net/permute/) - Easy-to-use media converter. `Paid`
 - [QuickTime Player](https://support.apple.com/guide/quicktime-player/) - Built-in media player for macOS. `Free`
 - [Subler](https://subler.org/) - Mux and tag MP4 files. `Free` `Open Source`
-- [VLC](https://www.videolan.org/vlc/) - Cross-platform multimedia player. `Free` `Open Source`
+- [VLC](https://www.videolan.org/vlc/) - Cross-platform multimedia player. `Free` `Open Source` `EU`
 
 ## Window Management
 
 - [Amethyst](https://ianyh.com/amethyst/) - Automatic tiling window manager. `Free` `Open Source`
-- [BetterSnapTool](https://folivora.ai/bettersnaptool) - Window management via snap areas. `Paid`
+- [BetterSnapTool](https://folivora.ai/bettersnaptool) - Window management via snap areas. `Paid` `EU`
 - [Divvy](https://mizage.com/divvy/) - Window management at its finest. `Paid`
 - [Loop](https://github.com/MrKai77/Loop) - Window management made elegant. `Free` `Open Source`
 - [Magnet](https://magnet.crowdcafe.com/) - Window manager that snaps windows into position. `Paid`

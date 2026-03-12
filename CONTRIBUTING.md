@@ -90,18 +90,18 @@ Before submitting an app, ensure it meets these criteria:
 ```markdown
 [Bear](https://bear.app/) - Beautiful, flexible writing app. `Freemium`
 [Things](https://culturedcode.com/things/) - Award-winning task manager. `Paid`
-[Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager. `Free` `Open Source`
+[Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager. `Free` `Open Source` `EU`
 ```
 
-### Pricing Labels
+### Labels
 
-Use ONE of these labels:
 - `Free` - Completely free with no paid features
 - `Free` `Open Source` - Free and open source
 - `Freemium` - Free with optional paid features
 - `Freemium` `Open Source` - Open source with optional paid features
 - `Paid` - One-time purchase
 - `Subscription` - Requires ongoing subscription
+- `EU` - Made by a team or company based in the European Union
 
 ### Description Guidelines
 
