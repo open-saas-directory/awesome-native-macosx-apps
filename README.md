@@ -220,6 +220,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 ## Menu Bar Apps
 
 - [Bartender](https://www.macbartender.com/) - Organize your menu bar icons. `Paid`
+- [Commitments](https://commitments.pages.dev/) - Your tasks in menu bar. `Paid`
 - [DatWeatherDoe](https://github.com/inderdhir/DatWeatherDoe) - Simple menu bar weather app. `Free` `Open Source`
 - [Dozer](https://github.com/Mortennn/Dozer) - Hide menu bar icons to give your Mac a cleaner look. `Free` `Open Source`
 - [Hand Mirror](https://handmirror.app/) - One-click camera check from menu bar. `Free`
