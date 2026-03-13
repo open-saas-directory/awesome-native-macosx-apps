@@ -292,6 +292,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [ScreenKite](https://www.screenkite.com) - Screen recording and video editing with auto zoom effect. 4x faster than Screen Studio. `Free`
 - [Shottr](https://shottr.cc/) - Screenshot tool with advanced features. `Free`
 - [Xnapper](https://xnapper.com/) - Take beautiful screenshots instantly. `Freemium`
+- [TuringShot (기존 ZoomShot)](https://apps.apple.com/app/zoomshot-live-screen-effect/id6758536367) - Real-time screen zoom, cursor highlight, drawing, and text memo for presentations and recordings. `Freemium`
 
 ## Security & Privacy
 
