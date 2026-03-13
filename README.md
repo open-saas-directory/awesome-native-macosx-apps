@@ -320,6 +320,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [MonitorControl](https://github.com/MonitorControl/MonitorControl) - Control external display brightness and volume. `Free` `Open Source`
 - [Onyx](https://www.titanium-software.fr/en/onyx.html) - Multifunction utility for macOS. `Free` `EU`
 - [Rectangle](https://rectangleapp.com/) - Window management with keyboard shortcuts. `Free` `Open Source`
+- [SaneClick](https://saneclick.com) - Finder context menu automation with 50+ built-in actions. `Freemium`
 - [Stats](https://github.com/exelban/stats) - macOS system monitor. `Free` `Open Source`
 - [The Unarchiver](https://theunarchiver.com/) - Extract many archive formats. `Free`
 
