@@ -145,8 +145,6 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [eqMac](https://eqmac.app/) - System-wide audio equalizer for macOS. `Free` `Open Source`
 - [IINA](https://iina.io/) - Modern video player with native macOS design. `Free` `Open Source`
 - [Muxie](https://muxie.duhnnie.com) - Last.fm scrobbler for Apple Music, Spotify Desktop, iPod Classic, Rockbox devices and some others. `Free`
-- [MonitorControl](https://github.com/MonitorControl/MonitorControl) - Control external monitor brightness & volume like native displays. `Free` `Open Source`
-- [NoiseBuddy](https://github.com/insidegui/NoiseBuddy) - Control AirPods Pro listening modes from menu bar. `Free` `Open Source`
 - [Petrichor](https://github.com/kushalpandya/Petrichor) - Offline music player with support for over 20 file formats and a lot of other features. `Free` `Open Source`
 - [Roam FM](https://roamfm.app/) - Roam the world through global radio. `Freemium`
 - [Sleeve](https://replay.software/sleeve) - Beautiful now playing display for Apple Music. `Paid`
@@ -156,12 +154,11 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 
 - [Arq](https://www.arqbackup.com/) - Backup your files to cloud storage. `Paid`
 - [Carbon Copy Cloner](https://bombich.com/) - Reliable Mac backup and cloning solution. `Paid`
-- [ChronoSync](https://www.econtechnologies.com/chronosync/overview.html) - Professional file synchronization for macOS. `Paid`
-- [Sync Folders Pro](https://www.greenworldsoft.com/sync-folders-pro-mac.php) - Sync and backup folders on your Mac. `Paid`
 
 ## Browsers & Web
 
 - [Orion](https://browser.kagi.com/) - Lightweight WebKit browser with zero telemetry. `Free`
+- [Zen Browser](https://zen-browser.app/) - Privacy-focused, customizable browser built on Firefox. `Free` `Open Source`
 
 ## Calendar & Time
 
@@ -171,9 +168,8 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 
 ## Clipboard Managers
 
-- [Clipy](https://github.com/Clipy/Clipy) - Clipboard extension with snippet support. `Free` `Open Source`
-- [CopyClip](https://fiplab.com/apps/copyclip-for-mac) - Lightweight clipboard history manager. `Free`
 - [Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager with search. `Free` `Open Source`
+- [CopyClip](https://fiplab.com/apps/copyclip-for-mac) - Lightweight clipboard history manager. `Free`
 - [Paste](https://pasteapp.io/) - Beautiful clipboard manager with cloud sync. `Subscription`
 - [Unclutter](https://unclutterapp.com/) - Files, notes, and clipboard manager in one. `Paid`
 
@@ -186,7 +182,6 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 ## Database Tools
 
 - [Postico](https://eggerapps.at/postico2/) - Modern PostgreSQL client for macOS. `Paid` `EU`
-- [Sequel Ace](https://sequel-ace.com/) - MySQL/MariaDB database management. `Free` `Open Source`
 - [TablePlus](https://tableplus.com/) - Modern native database management tool. `Freemium`
 
 ## Design Tools
@@ -200,13 +195,11 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [BucketMate](https://bucketmate.app/) - Native S3 GUI Client for macOS `Freemium`
 - [CodeEdit](https://github.com/CodeEditApp/CodeEdit) - Native code editor for macOS. `Free` `Open Source`
 - [DevCleaner](https://github.com/vashpan/xcode-dev-cleaner) - Clean Xcode cache and derived data. `Free` `Open Source`
-- [DevToys](https://devtoys.app/) - Swiss Army knife for developers. `Free` `Open Source`
 - [DevUtils](https://devutils.com/) - All-in-one offline toolbox for developers (42+ tools). `Freemium`
 - [Paw](https://paw.cloud/) - Advanced API tool for Mac. `Paid`
 - [Proxyman](https://proxyman.io/) - Native HTTP debugging proxy. `Freemium`
 - [RocketSim](https://www.rocketsim.app/) - Enhance Xcode Simulator productivity. `Freemium`
 - [SF Symbols](https://developer.apple.com/sf-symbols/) - Browse and export Apple's SF Symbols. `Free`
-- [SwiftFormat for Xcode](https://github.com/nicklockwood/SwiftFormat) - Code formatting for Swift. `Free` `Open Source`
 
 ## Email & Communication
 
@@ -342,6 +335,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [coconutBattery](https://www.coconut-flavour.com/coconutbattery/) - Check battery health and status. `Free`
 - [ClearDisk](https://github.com/bysiber/cleardisk) - macOS menu bar utility that monitors 44+ developer cache paths and helps reclaim disk space. `Free` `Open Source`
 - [DaisyDisk](https://daisydiskapp.com/) - Analyze disk usage and free up space. `Paid`
+- [MonitorControl](https://github.com/MonitorControl/MonitorControl) - Control external monitor brightness & volume like native displays. `Free` `Open Source`
 - [DisplayBuddy](https://displaybuddy.app/) - Control the real brightness of monitors directly from Mac. `Paid`
 - [Endurance](https://enduranceapp.com/) - Extend your MacBook's battery life. `Paid`
 - [EtreCheck](https://etrecheck.com/) - System configuration and diagnostic reporting. `Free`
