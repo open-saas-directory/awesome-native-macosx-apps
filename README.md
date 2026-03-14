@@ -8,9 +8,9 @@ Discover high-quality macOS apps built with native technologies (Swift, SwiftUI,
 
 ## 💎 Sponsors
 
-<a href="https://displaybuddy.app/" target="_blank"><img src="resources/sponsers/display-buddy.png" alt="DisplayBuddy" width="500"/></a>
+<a href="https://displaybuddy.app/?utm_source=awesome-native-macosx-apps&utm_medium=readme&utm_campaign=sponsor" target="_blank"><img src="resources/sponsers/display-buddy.png" alt="DisplayBuddy" width="500"/></a>
 
-**[DisplayBuddy](https://displaybuddy.app/)** — Control the real brightness of your monitor directly from your Mac. No need to touch the clunky buttons.
+**[DisplayBuddy](https://displaybuddy.app/?utm_source=awesome-native-macosx-apps&utm_medium=readme&utm_campaign=sponsor)** — Control the real brightness of your monitor directly from your Mac. No need to touch the clunky buttons.
 
 ---
 
