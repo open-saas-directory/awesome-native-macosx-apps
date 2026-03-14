@@ -8,15 +8,9 @@ Discover high-quality macOS apps built with native technologies (Swift, SwiftUI,
 
 ## 💎 Sponsors
 
-### 🥇 Gold Sponsors
-
 <a href="https://displaybuddy.app/" target="_blank"><img src="resources/sponsers/display-buddy.png" alt="DisplayBuddy" width="500"/></a>
 
 **[DisplayBuddy](https://displaybuddy.app/)** — Control the real brightness of your monitor directly from your Mac. No need to touch the clunky buttons.
-
-### 🥈 Silver Sponsors
-
-*Your app here — [become a sponsor](mailto:sponsor@opensaas.directory)*
 
 ---
 
