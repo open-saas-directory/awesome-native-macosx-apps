@@ -179,6 +179,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 ## Email & Communication
 
 - [Airmail](https://airmailapp.com/) - Lightning fast mail client for Mac. `Paid` `EU`
+- [HeyRobyn](https://heyrobyn.ai) - Native Mac unified inbox for email, Slack, and GitHub. `Free`
 - [MailMate](https://freron.com/) - Advanced IMAP email client with keyboard control. `Paid`
 - [Mimestream](https://mimestream.com/) - Native Gmail client for macOS. `Paid`
 
