@@ -6,7 +6,19 @@ Discover high-quality macOS apps built with native technologies (Swift, SwiftUI,
 
 ---
 
-## 💎 Become a Sponsor
+## 💎 Sponsors
+
+### 🥇 Gold Sponsors
+
+<a href="https://displaybuddy.app/" target="_blank"><img src="resources/sponsers/display-buddy.png" alt="DisplayBuddy" width="500"/></a>
+
+**[DisplayBuddy](https://displaybuddy.app/)** — Control the real brightness of your monitor directly from your Mac. No need to touch the clunky buttons.
+
+### 🥈 Silver Sponsors
+
+*Your app here — [become a sponsor](mailto:sponsor@opensaas.directory)*
+
+---
 
 Reach thousands of Mac power users by sponsoring this list. Contact us at [sponsor@opensaas.directory](mailto:sponsor@opensaas.directory)
 
@@ -19,7 +31,6 @@ Reach thousands of Mac power users by sponsoring this list. Contact us at [spons
 - [Electron App Detector](#-electron-app-detector)
 - [Newsletter](#-get-monthly-native-app-picks-in-your-inbox)
 - [New to Mac? Start Here](#-new-to-mac-start-here)
-- [Featured Apps](#-featured-apps)
 
 **Categories**
 - [Analytics & Monitoring](#analytics--monitoring)
@@ -53,7 +64,8 @@ Reach thousands of Mac power users by sponsoring this list. Contact us at [spons
 
 **Resources**
 - [Contributing](#contributing)
-- [Related Lists](#related-lists)
+- [Star History](#star-history)
+- [License](#license)
 
 ---
 
@@ -72,7 +84,7 @@ Apps on this list are:
 
 ## 🚀 New to Mac? Start Here
 
-Not sure where to begin? These 5 apps are the most universally useful — install them first and thank yourself later.
+Not sure where to begin? These 6 apps are the most universally useful — install them first and thank yourself later.
 
 | App | Why it's essential |
 |-----|--------------------|
@@ -81,20 +93,7 @@ Not sure where to begin? These 5 apps are the most universally useful — instal
 | [IINA](https://iina.io/) | Plays any video format natively. Makes QuickTime feel like a toy. |
 | [AppCleaner](https://freemacsoft.net/appcleaner/) | Uninstall apps properly — removes all leftover files, not just the `.app`. |
 | [iTerm2](https://iterm2.com/) | The terminal macOS should have shipped with. Tabs, split panes, search, and more. |
-
----
-
-## ⭐ Featured Apps
-
-The best of the best — apps that set the standard for what native macOS software can be.
-
-- [Raycast](https://www.raycast.com/) - Replaced Spotlight for thousands of power users. Lightning-fast launcher with an enormous extension ecosystem. `Freemium`
-- [Things 3](https://culturedcode.com/things/) - The gold standard for task management on Apple platforms. Beautifully designed, keyboard-friendly, and a joy to use. `Paid`
-- [CleanShot X](https://cleanshot.com/) - Rethinks every aspect of screenshotting. Annotations, scrolling capture, OCR, and cloud uploads built in. `Paid`
-- [Proxyman](https://proxyman.io/) - The go-to HTTP debugging proxy for macOS developers. Native UI, fast, and incredibly polished. `Freemium`
-- [Tower](https://www.git-tower.com/mac) - Professional Git client that makes complex workflows approachable without hiding power. `Paid` `EU`
-- [Bear](https://bear.app/) - Notes app that nails the balance between simplicity and depth. Markdown-native, fast, and genuinely beautiful. `Freemium` `EU`
-- [Pixelmator Pro](https://www.pixelmator.com/pro/) - A full Photoshop alternative built entirely with native Apple frameworks. Stunning performance. `Paid` `EU`
+| [Raycast](https://www.raycast.com/) | Supercharged Spotlight replacement. Launch apps, manage clipboard, run scripts, and more — all from one keystroke. |
 
 ---
 
@@ -435,13 +434,6 @@ Apps must meet ALL these criteria:
 - ❌ Abandoned projects (no updates in 2+ years)
 - ❌ Apps with malware/suspicious behavior
 - ❌ Cross-platform apps with poor macOS integration
-
-## Related Lists
-
-- [awesome-mac](https://github.com/jaywcjlove/awesome-mac) - Comprehensive macOS software list
-- [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - Open source macOS apps
-- [awesome-swift-macos-apps](https://github.com/jaywcjlove/awesome-swift-macos-apps) - Swift macOS apps
-- [awesome-macos](https://github.com/iCHAIT/awesome-macOS) - Curated macOS applications
 
 ## Star History
 
