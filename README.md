@@ -12,27 +12,16 @@ Reach thousands of Mac power users by sponsoring this list. Contact us at [spons
 
 ---
 
-## 📬 Get Monthly Native App Picks in Your Inbox
-
-Subscribe to our newsletter and get 5-10 handpicked native macOS apps delivered monthly.
-
-**What you'll get:**
-
-- 🎯 Curated native apps (no Electron bloat)
-- 💎 Hidden gems you won't find elsewhere
-- 🆓 Free & open-source alternatives
-- 📊 App comparisons & recommendations
-- 🔧 Tips for getting the most out of your Mac
-
-📖 **[Subscribe to the Newsletter →](https://nativemacapps.substack.com/)**
-
-_Join early subscribers and never miss a great native Mac app again. Unsubscribe anytime._
-
----
-
 ## Contents
 
+**Getting Started**
 - [What Makes an App "Native"?](#what-makes-an-app-native)
+- [Electron App Detector](#-electron-app-detector)
+- [Newsletter](#-get-monthly-native-app-picks-in-your-inbox)
+- [New to Mac? Start Here](#-new-to-mac-start-here)
+- [Featured Apps](#-featured-apps)
+
+**Categories**
 - [Analytics & Monitoring](#analytics--monitoring)
 - [Audio & Music](#audio--music)
 - [Backup & Sync](#backup--sync)
@@ -61,8 +50,12 @@ _Join early subscribers and never miss a great native Mac app again. Unsubscribe
 - [Text Editors](#text-editors)
 - [Video & Media](#video--media)
 - [Window Management](#window-management)
+
+**Resources**
 - [Contributing](#contributing)
 - [Related Lists](#related-lists)
+
+---
 
 ### What Makes an App "Native"?
 
@@ -74,6 +67,34 @@ Apps on this list are:
 - ✅ Feel fast and responsive
 - ❌ NOT Electron or web-wrapper apps
 - ❌ NOT resource-heavy cross-platform apps
+
+---
+
+## 🚀 New to Mac? Start Here
+
+Not sure where to begin? These 5 apps are the most universally useful — install them first and thank yourself later.
+
+| App | Why it's essential |
+|-----|--------------------|
+| [Rectangle](https://rectangleapp.com/) | Snap windows into place with keyboard shortcuts. You'll use this every single day. |
+| [Maccy](https://github.com/p0deje/Maccy) | Clipboard history that just works. Never lose a copied item again. |
+| [IINA](https://iina.io/) | Plays any video format natively. Makes QuickTime feel like a toy. |
+| [AppCleaner](https://freemacsoft.net/appcleaner/) | Uninstall apps properly — removes all leftover files, not just the `.app`. |
+| [iTerm2](https://iterm2.com/) | The terminal macOS should have shipped with. Tabs, split panes, search, and more. |
+
+---
+
+## ⭐ Featured Apps
+
+The best of the best — apps that set the standard for what native macOS software can be.
+
+- [Raycast](https://www.raycast.com/) - Replaced Spotlight for thousands of power users. Lightning-fast launcher with an enormous extension ecosystem. `Freemium`
+- [Things 3](https://culturedcode.com/things/) - The gold standard for task management on Apple platforms. Beautifully designed, keyboard-friendly, and a joy to use. `Paid`
+- [CleanShot X](https://cleanshot.com/) - Rethinks every aspect of screenshotting. Annotations, scrolling capture, OCR, and cloud uploads built in. `Paid`
+- [Proxyman](https://proxyman.io/) - The go-to HTTP debugging proxy for macOS developers. Native UI, fast, and incredibly polished. `Freemium`
+- [Tower](https://www.git-tower.com/mac) - Professional Git client that makes complex workflows approachable without hiding power. `Paid` `EU`
+- [Bear](https://bear.app/) - Notes app that nails the balance between simplicity and depth. Markdown-native, fast, and genuinely beautiful. `Freemium` `EU`
+- [Pixelmator Pro](https://www.pixelmator.com/pro/) - A full Photoshop alternative built entirely with native Apple frameworks. Stunning performance. `Paid` `EU`
 
 ---
 
@@ -97,6 +118,24 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - 🎨 Beautiful, colorful terminal output
 
 📖 **[Read more about the detector →](ELECTRON-DETECTOR.md)**
+
+---
+
+## 📬 Get Monthly Native App Picks in Your Inbox
+
+Subscribe to our newsletter and get 5-10 handpicked native macOS apps delivered monthly.
+
+**What you'll get:**
+
+- 🎯 Curated native apps (no Electron bloat)
+- 💎 Hidden gems you won't find elsewhere
+- 🆓 Free & open-source alternatives
+- 📊 App comparisons & recommendations
+- 🔧 Tips for getting the most out of your Mac
+
+📖 **[Subscribe to the Newsletter →](https://nativemacapps.substack.com/)**
+
+_Join early subscribers and never miss a great native Mac app again. Unsubscribe anytime._
 
 ---
 
