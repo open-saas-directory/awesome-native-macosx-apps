@@ -1,4 +1,4 @@
-# Awesome Native macOS Apps [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Submit Your App](https://img.shields.io/badge/Submit_Your_App-→-0071e3?style=flat-square)](https://github.com/open-saas-directory/awesome-native-macosx-apps/issues/new?template=app-submission.md)
+# Awesome Native macOS Apps [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Follow on X](https://img.shields.io/badge/Follow-@NativeMacApps-000000?style=flat-square&logo=x)](https://x.com/NativeMacApps)
 
 > A curated collection of beautiful, lightweight, and truly native macOS applications that deserve more recognition.
 
