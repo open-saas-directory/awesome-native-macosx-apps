@@ -6,33 +6,27 @@ Discover high-quality macOS apps built with native technologies (Swift, SwiftUI,
 
 ---
 
-## 💎 Become a Sponsor
+## 💎 Sponsors
+
+**[DisplayBuddy](https://displaybuddy.app/?utm_source=awesome-native-macosx-apps&utm_medium=readme&utm_campaign=sponsor)** — Control the real brightness of your monitor directly from your Mac. No need to touch the clunky buttons.
+
+<a href="https://displaybuddy.app/?utm_source=awesome-native-macosx-apps&utm_medium=readme&utm_campaign=sponsor" target="_blank"><img src="resources/sponsers/display-buddy.png" alt="DisplayBuddy" width="800"/></a>
+
+---
 
 Reach thousands of Mac power users by sponsoring this list. Contact us at [sponsor@opensaas.directory](mailto:sponsor@opensaas.directory)
 
 ---
 
-## 📬 Get Monthly Native App Picks in Your Inbox
-
-Subscribe to our newsletter and get 5-10 handpicked native macOS apps delivered monthly.
-
-**What you'll get:**
-
-- 🎯 Curated native apps (no Electron bloat)
-- 💎 Hidden gems you won't find elsewhere
-- 🆓 Free & open-source alternatives
-- 📊 App comparisons & recommendations
-- 🔧 Tips for getting the most out of your Mac
-
-📖 **[Subscribe to the Newsletter →](https://nativemacapps.substack.com/)**
-
-_Join early subscribers and never miss a great native Mac app again. Unsubscribe anytime._
-
----
-
 ## Contents
 
+**Getting Started**
 - [What Makes an App "Native"?](#what-makes-an-app-native)
+- [Newsletter](#-get-monthly-native-app-picks-in-your-inbox)
+- [Electron App Detector](#-electron-app-detector)
+- [New to Mac? Start Here](#-new-to-mac-start-here)
+
+**Categories**
 - [Analytics & Monitoring](#analytics--monitoring)
 - [Audio & Music](#audio--music)
 - [Backup & Sync](#backup--sync)
@@ -61,8 +55,13 @@ _Join early subscribers and never miss a great native Mac app again. Unsubscribe
 - [Text Editors](#text-editors)
 - [Video & Media](#video--media)
 - [Window Management](#window-management)
+
+**Resources**
 - [Contributing](#contributing)
-- [Related Lists](#related-lists)
+- [Star History](#star-history)
+- [License](#license)
+
+---
 
 ### What Makes an App "Native"?
 
@@ -74,6 +73,39 @@ Apps on this list are:
 - ✅ Feel fast and responsive
 - ❌ NOT Electron or web-wrapper apps
 - ❌ NOT resource-heavy cross-platform apps
+
+---
+
+## 📬 Get Monthly Native App Picks in Your Inbox
+
+Subscribe to our newsletter and get 5-10 handpicked native macOS apps delivered monthly.
+
+**What you'll get:**
+
+- 🎯 Curated native apps (no Electron bloat)
+- 💎 Hidden gems you won't find elsewhere
+- 🆓 Free & open-source alternatives
+- 📊 App comparisons & recommendations
+- 🔧 Tips for getting the most out of your Mac
+
+📖 **[Subscribe to the Newsletter →](https://nativemacapps.substack.com/)**
+
+_Join early subscribers and never miss a great native Mac app again. Unsubscribe anytime._
+
+---
+
+## 🚀 New to Mac? Start Here
+
+Not sure where to begin? These 6 apps are the most universally useful — install them first and thank yourself later.
+
+| App | Why it's essential |
+|-----|--------------------|
+| [Rectangle](https://rectangleapp.com/) | Snap windows into place with keyboard shortcuts. You'll use this every single day. |
+| [Maccy](https://github.com/p0deje/Maccy) | Clipboard history that just works. Never lose a copied item again. |
+| [IINA](https://iina.io/) | Plays any video format natively. Makes QuickTime feel like a toy. |
+| [AppCleaner](https://freemacsoft.net/appcleaner/) | Uninstall apps properly — removes all leftover files, not just the `.app`. |
+| [iTerm2](https://iterm2.com/) | The terminal macOS should have shipped with. Tabs, split panes, search, and more. |
+| [Raycast](https://www.raycast.com/) | Supercharged Spotlight replacement. Launch apps, manage clipboard, run scripts, and more — all from one keystroke. |
 
 ---
 
@@ -113,8 +145,6 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [eqMac](https://eqmac.app/) - System-wide audio equalizer for macOS. `Free` `Open Source`
 - [IINA](https://iina.io/) - Modern video player with native macOS design. `Free` `Open Source`
 - [Muxie](https://muxie.duhnnie.com) - Last.fm scrobbler for Apple Music, Spotify Desktop, iPod Classic, Rockbox devices and some others. `Free`
-- [MonitorControl](https://github.com/MonitorControl/MonitorControl) - Control external monitor brightness & volume like native displays. `Free` `Open Source`
-- [NoiseBuddy](https://github.com/insidegui/NoiseBuddy) - Control AirPods Pro listening modes from menu bar. `Free` `Open Source`
 - [Petrichor](https://github.com/kushalpandya/Petrichor) - Offline music player with support for over 20 file formats and a lot of other features. `Free` `Open Source`
 - [Roam FM](https://roamfm.app/) - Roam the world through global radio. `Freemium`
 - [Sleeve](https://replay.software/sleeve) - Beautiful now playing display for Apple Music. `Paid`
@@ -124,12 +154,11 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 
 - [Arq](https://www.arqbackup.com/) - Backup your files to cloud storage. `Paid`
 - [Carbon Copy Cloner](https://bombich.com/) - Reliable Mac backup and cloning solution. `Paid`
-- [ChronoSync](https://www.econtechnologies.com/chronosync/overview.html) - Professional file synchronization for macOS. `Paid`
-- [Sync Folders Pro](https://www.greenworldsoft.com/sync-folders-pro-mac.php) - Sync and backup folders on your Mac. `Paid`
 
 ## Browsers & Web
 
 - [Orion](https://browser.kagi.com/) - Lightweight WebKit browser with zero telemetry. `Free`
+- [Zen Browser](https://zen-browser.app/) - Privacy-focused, customizable browser built on Firefox. `Free` `Open Source`
 
 ## Calendar & Time
 
@@ -139,9 +168,8 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 
 ## Clipboard Managers
 
-- [Clipy](https://github.com/Clipy/Clipy) - Clipboard extension with snippet support. `Free` `Open Source`
-- [CopyClip](https://fiplab.com/apps/copyclip-for-mac) - Lightweight clipboard history manager. `Free`
 - [Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager with search. `Free` `Open Source`
+- [CopyClip](https://fiplab.com/apps/copyclip-for-mac) - Lightweight clipboard history manager. `Free`
 - [Paste](https://pasteapp.io/) - Beautiful clipboard manager with cloud sync. `Subscription`
 - [Unclutter](https://unclutterapp.com/) - Files, notes, and clipboard manager in one. `Paid`
 
@@ -154,7 +182,6 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 ## Database Tools
 
 - [Postico](https://eggerapps.at/postico2/) - Modern PostgreSQL client for macOS. `Paid` `EU`
-- [Sequel Ace](https://sequel-ace.com/) - MySQL/MariaDB database management. `Free` `Open Source`
 - [TablePlus](https://tableplus.com/) - Modern native database management tool. `Freemium`
 
 ## Design Tools
@@ -168,13 +195,11 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [BucketMate](https://bucketmate.app/) - Native S3 GUI Client for macOS `Freemium`
 - [CodeEdit](https://github.com/CodeEditApp/CodeEdit) - Native code editor for macOS. `Free` `Open Source`
 - [DevCleaner](https://github.com/vashpan/xcode-dev-cleaner) - Clean Xcode cache and derived data. `Free` `Open Source`
-- [DevToys](https://devtoys.app/) - Swiss Army knife for developers. `Free` `Open Source`
 - [DevUtils](https://devutils.com/) - All-in-one offline toolbox for developers (42+ tools). `Freemium`
 - [Paw](https://paw.cloud/) - Advanced API tool for Mac. `Paid`
 - [Proxyman](https://proxyman.io/) - Native HTTP debugging proxy. `Freemium`
 - [RocketSim](https://www.rocketsim.app/) - Enhance Xcode Simulator productivity. `Freemium`
 - [SF Symbols](https://developer.apple.com/sf-symbols/) - Browse and export Apple's SF Symbols. `Free`
-- [SwiftFormat for Xcode](https://github.com/nicklockwood/SwiftFormat) - Code formatting for Swift. `Free` `Open Source`
 
 ## Email & Communication
 
@@ -311,6 +336,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [coconutBattery](https://www.coconut-flavour.com/coconutbattery/) - Check battery health and status. `Free`
 - [ClearDisk](https://github.com/bysiber/cleardisk) - macOS menu bar utility that monitors 44+ developer cache paths and helps reclaim disk space. `Free` `Open Source`
 - [DaisyDisk](https://daisydiskapp.com/) - Analyze disk usage and free up space. `Paid`
+- [MonitorControl](https://github.com/MonitorControl/MonitorControl) - Control external monitor brightness & volume like native displays. `Free` `Open Source`
 - [DisplayBuddy](https://displaybuddy.app/) - Control the real brightness of monitors directly from Mac. `Paid`
 - [Endurance](https://enduranceapp.com/) - Extend your MacBook's battery life. `Paid`
 - [EtreCheck](https://etrecheck.com/) - System configuration and diagnostic reporting. `Free`
@@ -397,13 +423,6 @@ Apps must meet ALL these criteria:
 - ❌ Abandoned projects (no updates in 2+ years)
 - ❌ Apps with malware/suspicious behavior
 - ❌ Cross-platform apps with poor macOS integration
-
-## Related Lists
-
-- [awesome-mac](https://github.com/jaywcjlove/awesome-mac) - Comprehensive macOS software list
-- [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - Open source macOS apps
-- [awesome-swift-macos-apps](https://github.com/jaywcjlove/awesome-swift-macos-apps) - Swift macOS apps
-- [awesome-macos](https://github.com/iCHAIT/awesome-macOS) - Curated macOS applications
 
 ## Star History
 
