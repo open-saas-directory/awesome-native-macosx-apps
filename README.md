@@ -327,6 +327,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [Lulu](https://objective-see.org/products/lulu.html) - Open-source firewall for macOS. `Free` `Open Source`
 - [Micro Snitch](https://www.obdev.at/products/microsnitch/) - Monitor camera and microphone access. `Paid` `EU`
 - [OverSight](https://objective-see.org/products/oversight.html) - Monitor mic and webcam access. `Free` `Open Source`
+- [SaneHosts](https://sanehosts.com) - Hosts file manager for system-wide ad and tracker blocking. `Freemium`
 
 ## System Utilities
 
