@@ -323,6 +323,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 
 - [Cryptomator](https://cryptomator.org/) - Multi-platform client-side encryption. `Free` `Open Source` `EU`
 - [KnockKnock](https://objective-see.org/products/knockknock.html) - See what's persistently installed on your Mac. `Free` `Open Source`
+- [Lockpaw](https://getlockpaw.com/) - Menu bar screen guard — lock/unlock with a hotkey, Touch ID fallback. `Free` `Open Source`
 - [Little Snitch](https://www.obdev.at/products/littlesnitch/) - Network monitor and firewall. `Paid` `EU`
 - [Lulu](https://objective-see.org/products/lulu.html) - Open-source firewall for macOS. `Free` `Open Source`
 - [Micro Snitch](https://www.obdev.at/products/microsnitch/) - Monitor camera and microphone access. `Paid` `EU`
