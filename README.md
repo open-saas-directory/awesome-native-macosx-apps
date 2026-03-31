@@ -310,6 +310,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [Keyboard Maestro](https://www.keyboardmaestro.com/) - Automate applications and websites. `Paid`
 - [OmniFocus](https://www.omnigroup.com/omnifocus/) - Professional-grade task management. `Paid`
 - [Raycast](https://www.raycast.com/) - Blazingly fast extendable launcher. `Freemium`
+- [RightLayout](https://github.com/chernistry/RightLayout) - AI keyboard layout fixer — auto-corrects wrong layout (EN/RU/HE) as you type. Native Swift + CoreML, no cloud. `Free` `Open Source`
 - [SelfControl](https://selfcontrolapp.com/) - Block distracting websites. `Free` `Open Source`
 - [TaskPaper](https://www.taskpaper.com/) - Plain text to-do lists. `Paid`
 - [Things](https://culturedcode.com/things/) - Award-winning task manager. `Paid`
