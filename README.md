@@ -38,6 +38,7 @@ Reach thousands of Mac power users by sponsoring this list. Contact us at [spons
 - [Design Tools](#design-tools)
 - [Developer Tools](#developer-tools)
 - [Email & Communication](#email--communication)
+- [Finance](#finance)
 - [File Management](#file-management)
 - [Git & Version Control](#git--version-control)
 - [Image & Graphics](#image--graphics)
@@ -206,6 +207,13 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [Airmail](https://airmailapp.com/) - Lightning fast mail client for Mac. `Paid` `EU`
 - [MailMate](https://freron.com/) - Advanced IMAP email client with keyboard control. `Paid`
 - [Mimestream](https://mimestream.com/) - Native Gmail client for macOS. `Paid`
+
+## Finance
+
+- [Chronicle](https://chronicleapp.com/) - Bill organizer and payment tracker. `Paid`
+- [Copilot](https://www.copilot.money/) - Personal finance and budgeting app with automatic transaction syncing. `Subscription`
+- [Soulver](https://soulver.app/) - Smart notepad calculator that understands plain English math. `Paid` `EU`
+- [Subscription Day](https://subsday.appps.od.ua/) - Track your paid subscriptions and analyze spending statistics. `Freemium`
 
 ## File Management
 
