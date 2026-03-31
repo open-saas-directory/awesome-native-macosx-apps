@@ -1,4 +1,4 @@
-# Awesome Native macOS Apps [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Follow on X](https://img.shields.io/badge/Follow-@NativeMacApps-000000?style=flat-square&logo=x)](https://x.com/NativeMacApps)
+#   Best Mac Apps — Native, Lightweight & No Electron Bloat [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Follow on X](https://img.shields.io/badge/Follow-@NativeMacApps-000000?style=flat-square&logo=x)](https://x.com/NativeMacApps)
 
 > A curated collection of beautiful, lightweight, and truly native macOS applications that deserve more recognition.
 
@@ -396,6 +396,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [Loop](https://github.com/MrKai77/Loop) - Window management made elegant. `Free` `Open Source`
 - [Magnet](https://magnet.crowdcafe.com/) - Window manager that snaps windows into position. `Paid`
 - [Moom](https://manytricks.com/moom/) - Move and zoom windows with ease. `Paid`
+- [Nudge](https://nudge.run) - Free window manager with keyboard shortcuts and drag-to-edge snapping. `Free` `Open Source`
 - [Rectangle](https://rectangleapp.com/) - Window snapping via keyboard shortcuts. `Free` `Open Source`
 - [Rectangle Pro](https://rectangleapp.com/pro) - Professional window management. `Paid`
 - [Swish](https://highlyopinionated.co/swish/) - Control windows with trackpad gestures. `Paid`
