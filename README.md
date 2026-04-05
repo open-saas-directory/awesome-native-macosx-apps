@@ -246,6 +246,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 
 - [iA Writer](https://ia.net/writer) - Focused writing app with beautiful typography. `Paid`
 - [MacDown](https://macdown.uranusjr.com/) - Open source Markdown editor for macOS. `Free` `Open Source`
+- [MacMD Viewer](https://macmdviewer.com/) - Native markdown viewer with syntax highlighting, Mermaid diagrams, and live file watching. `Paid`
 - [Marked 2](https://marked2app.com/) - Markdown preview and conversion. `Paid`
 - [MWeb](https://www.mweb.im/) - Pro Markdown writing and note-taking. `Paid`
 - [Typora](https://typora.io/) - Minimal Markdown editor and reader. `Paid`
