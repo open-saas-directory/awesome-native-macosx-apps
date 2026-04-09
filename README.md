@@ -382,6 +382,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [HandBrake](https://handbrake.fr/) - Open source video transcoder. `Free` `Open Source`
 - [IINA](https://iina.io/) - Modern media player for macOS. `Free` `Open Source`
 - [Itsytv](https://github.com/nickustinov/itsytv-macos) - The missing Apple TV remote app. `Free` `Open Source`
+- [Kaset](https://github.com/sozercan/kaset) - Native YouTube Music client for macOS. `Free` `Open Source`
 - [Movist Pro](https://movistprime.com/) - Powerful movie player for macOS. `Paid`
 - [Permute](https://software.charliemonroe.net/permute/) - Easy-to-use media converter. `Paid`
 - [QuickTime Player](https://support.apple.com/guide/quicktime-player/) - Built-in media player for macOS. `Free`
