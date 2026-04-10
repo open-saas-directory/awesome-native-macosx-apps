@@ -145,6 +145,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [Cog](https://cog.losno.co/) - Audio player for macOS with broad format support. `Free` `Open Source`
 - [eqMac](https://eqmac.app/) - System-wide audio equalizer for macOS. `Free` `Open Source`
 - [IINA](https://iina.io/) - Modern video player with native macOS design. `Free` `Open Source`
+- [Kaset](https://github.com/sozercan/kaset) - Native YouTube Music client for macOS. `Free` `Open Source`
 - [Muxie](https://muxie.duhnnie.com) - Last.fm scrobbler for Apple Music, Spotify Desktop, iPod Classic, Rockbox devices and some others. `Free`
 - [Petrichor](https://github.com/kushalpandya/Petrichor) - Offline music player with support for over 20 file formats and a lot of other features. `Free` `Open Source`
 - [Roam FM](https://roamfm.app/) - Roam the world through global radio. `Freemium`
@@ -382,7 +383,6 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [HandBrake](https://handbrake.fr/) - Open source video transcoder. `Free` `Open Source`
 - [IINA](https://iina.io/) - Modern media player for macOS. `Free` `Open Source`
 - [Itsytv](https://github.com/nickustinov/itsytv-macos) - The missing Apple TV remote app. `Free` `Open Source`
-- [Kaset](https://github.com/sozercan/kaset) - Native YouTube Music client for macOS. `Free` `Open Source`
 - [Movist Pro](https://movistprime.com/) - Powerful movie player for macOS. `Paid`
 - [Permute](https://software.charliemonroe.net/permute/) - Easy-to-use media converter. `Paid`
 - [QuickTime Player](https://support.apple.com/guide/quicktime-player/) - Built-in media player for macOS. `Free`
