@@ -399,6 +399,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [Nudge](https://nudge.run) - Free window manager with keyboard shortcuts and drag-to-edge snapping. `Free` `Open Source`
 - [Rectangle](https://rectangleapp.com/) - Window snapping via keyboard shortcuts. `Free` `Open Source`
 - [Rectangle Pro](https://rectangleapp.com/pro) - Professional window management. `Paid`
+- [SnapHotkey](https://snaphotkey.com) - Assign keyboard shortcuts to apps for instant switching with left/right modifier distinction. `Paid`
 - [Swish](https://highlyopinionated.co/swish/) - Control windows with trackpad gestures. `Paid`
 - [Wins](https://wins.cool) - Bring system-level window management features to macOS. `Paid`
 - [Yabai](https://github.com/koekeishiya/yabai) - Tiling window manager for macOS. `Free` `Open Source`
