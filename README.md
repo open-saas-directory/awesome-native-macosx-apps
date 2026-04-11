@@ -308,6 +308,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [Fantastical](https://flexibits.com/fantastical) - Calendar app with natural language input. `Subscription`
 - [Focus](https://heyfocus.com/) - Block distracting websites and applications. `Paid`
 - [Keyboard Maestro](https://www.keyboardmaestro.com/) - Automate applications and websites. `Paid`
+- [Kviskr](https://kviskr.no) - Menu bar speech-to-text using on-device Whisper transcription. `Free`
 - [OmniFocus](https://www.omnigroup.com/omnifocus/) - Professional-grade task management. `Paid`
 - [Raycast](https://www.raycast.com/) - Blazingly fast extendable launcher. `Freemium`
 - [Revu](https://revu.cards) - Local-first spaced repetition app with FSRS scheduling, Anki import, and study guides. `Free` `Open Source`
