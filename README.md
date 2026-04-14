@@ -173,6 +173,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [CopyClip](https://fiplab.com/apps/copyclip-for-mac) - Lightweight clipboard history manager. `Free`
 - [Paste](https://pasteapp.io/) - Beautiful clipboard manager with cloud sync. `Subscription`
 - [Unclutter](https://unclutterapp.com/) - Files, notes, and clipboard manager in one. `Paid`
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 ## Color Pickers
 
