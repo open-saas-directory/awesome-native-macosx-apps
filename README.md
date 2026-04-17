@@ -172,6 +172,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager with search. `Free` `Open Source`
 - [CopyClip](https://fiplab.com/apps/copyclip-for-mac) - Lightweight clipboard history manager. `Free`
 - [Paste](https://pasteapp.io/) - Beautiful clipboard manager with cloud sync. `Subscription`
+- [SaneClip](https://saneclip.com) - Privacy-first clipboard manager with AES-256 encryption. `Freemium`
 - [Unclutter](https://unclutterapp.com/) - Files, notes, and clipboard manager in one. `Paid`
 
 ## Color Pickers
