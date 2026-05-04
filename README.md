@@ -373,10 +373,12 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [CotEditor](https://coteditor.com/) - Lightweight plain-text editor. `Free` `Open Source`
 - [Itsypad](https://github.com/nickustinov/itsypad-macos) - A tiny, fast scratchpad and clipboard manager. `Free` `Open Source`
 - [MacVim](https://macvim.org/) - Vim text editor for macOS. `Free` `Open Source`
+- [Neon Vision Editor](https://github.com/h3pdesign/Neon-Vision-Editor) - A lightweight and modern macOS code editor. `Free` `Open Source`
 - [Nova](https://nova.app/) - Beautiful native code editor from Panic. `Paid`
 - [SubEthaEdit](https://subethaedit.net/) - Code, write, and edit with collaborative features. `Free` `Open Source`
 - [TextMate](https://macromates.com/) - Powerful text editor for macOS. `Free` `Open Source`
 - [VimR](https://github.com/qvacua/vimr) - Neovim GUI for macOS. `Free` `Open Source`
+
 
 ## Video & Media
 
