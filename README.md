@@ -312,6 +312,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [Raycast](https://www.raycast.com/) - Blazingly fast extendable launcher. `Freemium`
 - [Revu](https://revu.cards) - Local-first spaced repetition app with FSRS scheduling, Anki import, and study guides. `Free` `Open Source`
 - [SelfControl](https://selfcontrolapp.com/) - Block distracting websites. `Free` `Open Source`
+- [Snippety](https://snippety.app) - Advanced snippets manager for macOS and iOS. `Paid`
 - [TaskPaper](https://www.taskpaper.com/) - Plain text to-do lists. `Paid`
 - [Things](https://culturedcode.com/things/) - Award-winning task manager. `Paid`
 - [Tot](https://tot.rocks/) - Elegant text collection on menu bar. `Freemium`
