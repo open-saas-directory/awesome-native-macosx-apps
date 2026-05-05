@@ -291,6 +291,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 
 ## Password Managers
 
+- [My Keepass](https://apps.apple.com/us/app/my-keepass-menubar-passwords/id1553185112?mt=12) - Access your KeepPass passwords easily from the menu bar. `Paid`
 - [Strongbox](https://strongboxsafe.com/) - Native KeePass client for macOS. `Freemium`
 
 ## PDF Tools
