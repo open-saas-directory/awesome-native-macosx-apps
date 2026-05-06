@@ -148,6 +148,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [Muxie](https://muxie.duhnnie.com) - Last.fm scrobbler for Apple Music, Spotify Desktop, iPod Classic, Rockbox devices and some others. `Free`
 - [Petrichor](https://github.com/kushalpandya/Petrichor) - Offline music player with support for over 20 file formats and a lot of other features. `Free` `Open Source`
 - [Roam FM](https://roamfm.app/) - Roam the world through global radio. `Freemium`
+- [Say It Like](https://sayitlike.app/) - On-device voice cloning and text-to-speech for macOS. `Freemium`
 - [Sleeve](https://replay.software/sleeve) - Beautiful now playing display for Apple Music. `Paid`
 - [SoundSource](https://rogueamoeba.com/soundsource/) - Superior sound control for macOS. `Paid`
 
