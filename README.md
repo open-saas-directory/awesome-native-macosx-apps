@@ -1,4 +1,4 @@
-#   Best Mac Apps — Native, Lightweight & No Electron Bloat [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Follow on X](https://img.shields.io/badge/Follow%20%40NativeMacApps-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/NativeMacApps)
+#   Best Mac Apps — Native, Lightweight & No Electron Bloat [![Follow on X](https://img.shields.io/badge/Follow%20%40NativeMacApps-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/NativeMacApps)
 
 > A curated collection of beautiful, lightweight, and truly native macOS applications that deserve more recognition.
 
