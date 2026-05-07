@@ -184,6 +184,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 
 - [Postico](https://eggerapps.at/postico2/) - Modern PostgreSQL client for macOS. `Paid` `EU`
 - [TablePlus](https://tableplus.com/) - Modern native database management tool. `Freemium`
+- [TablePro](https://tablepro.app) - Native database client for MySQL, PostgreSQL, SQLite, MongoDB, Redis, and more. `Free` `Open Source`
 
 ## Design Tools
 
