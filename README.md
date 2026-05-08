@@ -241,6 +241,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [Marked 2](https://marked2app.com/) - Markdown preview and conversion. `Paid`
 - [MWeb](https://www.mweb.im/) - Pro Markdown writing and note-taking. `Paid`
 - [Typora](https://typora.io/) - Minimal Markdown editor and reader. `Paid`
+- [Writer](https://writer.computer/) - Local-first markdown editor with a Rust backend and native WKWebView. `Free` `Open Source`
 
 ## Menu Bar Apps
 
