@@ -1,4 +1,4 @@
-#   Best Mac Apps — Native, Lightweight & No Electron Bloat [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Follow on X](https://img.shields.io/badge/Follow-@NativeMacApps-000000?style=flat-square&logo=x)](https://x.com/NativeMacApps)
+#   Best Mac Apps — Native, Lightweight & No Electron Bloat [![Follow on X](https://img.shields.io/badge/Follow%20%40NativeMacApps-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/NativeMacApps)
 
 > A curated collection of beautiful, lightweight, and truly native macOS applications that deserve more recognition.
 
@@ -6,15 +6,25 @@ Discover high-quality macOS apps built with native technologies (Swift, SwiftUI,
 
 ---
 
-## 💎 Sponsors
-
-**[DisplayBuddy](https://displaybuddy.app/?utm_source=awesome-native-macosx-apps&utm_medium=readme&utm_campaign=sponsor)** — Control the real brightness of your monitor directly from your Mac. No need to touch the clunky buttons.
-
-<a href="https://displaybuddy.app/?utm_source=awesome-native-macosx-apps&utm_medium=readme&utm_campaign=sponsor" target="_blank"><img src="resources/sponsers/display-buddy.png" alt="DisplayBuddy" width="800"/></a>
+Reach thousands of Mac power users by sponsoring this list. Contact us at [sponsor@opensaas.directory](mailto:sponsor@opensaas.directory)
 
 ---
 
-Reach thousands of Mac power users by sponsoring this list. Contact us at [sponsor@opensaas.directory](mailto:sponsor@opensaas.directory)
+## 📬 Get Monthly Native App Picks in Your Inbox
+
+Subscribe to our newsletter and get 5-10 handpicked native macOS apps delivered monthly.
+
+**What you'll get:**
+
+- 🎯 Curated native apps (no Electron bloat)
+- 💎 Hidden gems you won't find elsewhere
+- 🆓 Free & open-source alternatives
+- 📊 App comparisons & recommendations
+- 🔧 Tips for getting the most out of your Mac
+
+📖 **[Subscribe to the Newsletter →](https://nativemacapps.substack.com/)**
+
+_Join early subscribers and never miss a great native Mac app again. Unsubscribe anytime._
 
 ---
 
@@ -22,7 +32,6 @@ Reach thousands of Mac power users by sponsoring this list. Contact us at [spons
 
 **Getting Started**
 - [What Makes an App "Native"?](#what-makes-an-app-native)
-- [Newsletter](#-get-monthly-native-app-picks-in-your-inbox)
 - [Electron App Detector](#-electron-app-detector)
 - [New to Mac? Start Here](#-new-to-mac-start-here)
 
@@ -74,24 +83,6 @@ Apps on this list are:
 - ✅ Feel fast and responsive
 - ❌ NOT Electron or web-wrapper apps
 - ❌ NOT resource-heavy cross-platform apps
-
----
-
-## 📬 Get Monthly Native App Picks in Your Inbox
-
-Subscribe to our newsletter and get 5-10 handpicked native macOS apps delivered monthly.
-
-**What you'll get:**
-
-- 🎯 Curated native apps (no Electron bloat)
-- 💎 Hidden gems you won't find elsewhere
-- 🆓 Free & open-source alternatives
-- 📊 App comparisons & recommendations
-- 🔧 Tips for getting the most out of your Mac
-
-📖 **[Subscribe to the Newsletter →](https://nativemacapps.substack.com/)**
-
-_Join early subscribers and never miss a great native Mac app again. Unsubscribe anytime._
 
 ---
 
@@ -184,6 +175,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 
 - [Postico](https://eggerapps.at/postico2/) - Modern PostgreSQL client for macOS. `Paid` `EU`
 - [TablePlus](https://tableplus.com/) - Modern native database management tool. `Freemium`
+- [TablePro](https://tablepro.app) - Native database client for MySQL, PostgreSQL, SQLite, MongoDB, Redis, and more. `Free` `Open Source`
 
 ## Design Tools
 
@@ -200,6 +192,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [Paw](https://paw.cloud/) - Advanced API tool for Mac. `Paid`
 - [Proxyman](https://proxyman.io/) - Native HTTP debugging proxy. `Freemium`
 - [RocketSim](https://www.rocketsim.app/) - Enhance Xcode Simulator productivity. `Freemium`
+- [SSH Keys Manager](https://github.com/Stmol/ssh-keys-manager-macos-app) - Native macOS app for managing SSH keys and SSH config entries. `Free` `Open Source`
 - [SF Symbols](https://developer.apple.com/sf-symbols/) - Browse and export Apple's SF Symbols. `Free`
 
 ## Email & Communication
@@ -249,6 +242,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [Marked 2](https://marked2app.com/) - Markdown preview and conversion. `Paid`
 - [MWeb](https://www.mweb.im/) - Pro Markdown writing and note-taking. `Paid`
 - [Typora](https://typora.io/) - Minimal Markdown editor and reader. `Paid`
+- [Writer](https://writer.computer/) - Local-first markdown editor with a Rust backend and native WKWebView. `Free` `Open Source`
 
 ## Menu Bar Apps
 
@@ -263,6 +257,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [Itsyhome](https://github.com/nickustinov/itsyhome-macos) - Smart home meets menu bar. `Freemium` `Open Source`
 - [MenubarX](https://menubarx.app/) - Browser in your menu bar. `Freemium`
 - [One Thing](https://sindresorhus.com/one-thing) - Put a single task in your menu bar. `Paid`
+- [OpenQuack](https://github.com/larryxiao/openquack) - Transcribes a 5-minute clip in 2.8 s — local WhisperKit dictation, noise-robust. ~8 MB native Swift. `Free` `Open Source`
 - [SaneBar](https://sanebar.com) - Privacy-first menu bar manager. Hide and organize icons. `Freemium`
 - [Thaw](https://github.com/stonerl/Thaw) - Powerful menu bar management tool. Fork of Ice, lower resource usage. `Free` `Open Source`
 - [TickerPad](https://tickerpad.app) - Real-time crypto prices in your macOS menu bar.  `Freemium`
@@ -312,6 +307,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [Raycast](https://www.raycast.com/) - Blazingly fast extendable launcher. `Freemium`
 - [Revu](https://revu.cards) - Local-first spaced repetition app with FSRS scheduling, Anki import, and study guides. `Free` `Open Source`
 - [SelfControl](https://selfcontrolapp.com/) - Block distracting websites. `Free` `Open Source`
+- [Snippety](https://snippety.app) - Advanced snippets manager for macOS and iOS. `Paid`
 - [Spokenly](https://spokenly.app/) - Dictation for macOS with free on-device models and free cloud transcription via your own API keys. `Freemium`
 - [TaskPaper](https://www.taskpaper.com/) - Plain text to-do lists. `Paid`
 - [Things](https://culturedcode.com/things/) - Award-winning task manager. `Paid`
@@ -374,10 +370,12 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [CotEditor](https://coteditor.com/) - Lightweight plain-text editor. `Free` `Open Source`
 - [Itsypad](https://github.com/nickustinov/itsypad-macos) - A tiny, fast scratchpad and clipboard manager. `Free` `Open Source`
 - [MacVim](https://macvim.org/) - Vim text editor for macOS. `Free` `Open Source`
+- [Neon Vision Editor](https://github.com/h3pdesign/Neon-Vision-Editor) - A lightweight and modern macOS code editor. `Free` `Open Source`
 - [Nova](https://nova.app/) - Beautiful native code editor from Panic. `Paid`
 - [SubEthaEdit](https://subethaedit.net/) - Code, write, and edit with collaborative features. `Free` `Open Source`
 - [TextMate](https://macromates.com/) - Powerful text editor for macOS. `Free` `Open Source`
 - [VimR](https://github.com/qvacua/vimr) - Neovim GUI for macOS. `Free` `Open Source`
+
 
 ## Video & Media
 
