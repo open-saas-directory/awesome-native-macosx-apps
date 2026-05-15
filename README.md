@@ -259,6 +259,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [One Thing](https://sindresorhus.com/one-thing) - Put a single task in your menu bar. `Paid`
 - [OpenQuack](https://github.com/larryxiao/openquack) - Transcribes a 5-minute clip in 2.8 s — local WhisperKit dictation, noise-robust. ~8 MB native Swift. `Free` `Open Source`
 - [SaneBar](https://sanebar.com) - Privacy-first menu bar manager. Hide and organize icons. `Freemium`
+- [Shake It On](https://shakeiton.app?ref=awesome-native-mac) - Keep your Mac awake with organic mouse movement and smart conditions. `Paid`
 - [Thaw](https://github.com/stonerl/Thaw) - Powerful menu bar management tool. Fork of Ice, lower resource usage. `Free` `Open Source`
 - [TickerPad](https://tickerpad.app) - Real-time crypto prices in your macOS menu bar.  `Freemium`
 
