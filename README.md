@@ -65,6 +65,7 @@ _Join early subscribers and never miss a great native Mac app again. Unsubscribe
 - [Text Editors](#text-editors)
 - [Video & Media](#video--media)
 - [Window Management](#window-management)
+- [Wallpaper Apps](#wallpaper-apps)
 
 **Resources**
 - [Contributing](#contributing)
@@ -401,6 +402,9 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [Swish](https://highlyopinionated.co/swish/) - Control windows with trackpad gestures. `Paid`
 - [Wins](https://wins.cool) - Bring system-level window management features to macOS. `Paid`
 - [Yabai](https://github.com/koekeishiya/yabai) - Tiling window manager for macOS. `Free` `Open Source`
+
+## Wallpaper Apps
+- [Wallspace](https://wallspace.app/) - Live Wallpapers for Macos, with custom lock screen. `Freemium`
 
 ## Contributing
 
