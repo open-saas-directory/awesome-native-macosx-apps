@@ -186,6 +186,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 
 ## Developer Tools
 
+- [AI Memory Reader](https://github.com/nvwalj/ai-memory-reader) - Native macOS/iOS viewer for AI agent memory files (CLAUDE.md, AGENTS.md, GEMINI.md). Markdown rendering, file watching, JSON viewer for Claude Code session telemetry. `Free` `Open Source`
 - [BucketMate](https://bucketmate.app/) - Native S3 GUI Client for macOS `Freemium`
 - [CodeEdit](https://github.com/CodeEditApp/CodeEdit) - Native code editor for macOS. `Free` `Open Source`
 - [DevCleaner](https://github.com/vashpan/xcode-dev-cleaner) - Clean Xcode cache and derived data. `Free` `Open Source`
