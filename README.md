@@ -407,7 +407,6 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [Wins](https://wins.cool) - Bring system-level window management features to macOS. `Paid`
 - [Yabai](https://github.com/koekeishiya/yabai) - Tiling window manager for macOS. `Free` `Open Source`
 
-
 ## Contributing
 
 We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING.md) before submitting.
