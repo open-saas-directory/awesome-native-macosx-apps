@@ -348,6 +348,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [DaisyDisk](https://daisydiskapp.com/) - Analyze disk usage and free up space. `Paid`
 - [MonitorControl](https://github.com/MonitorControl/MonitorControl) - Control external monitor brightness & volume like native displays. `Free` `Open Source`
 - [DisplayBuddy](https://displaybuddy.app/) - Control the real brightness of monitors directly from Mac. `Paid`
+- [Dusty](https://github.com/yagcioglutoprak/dusty) - Menu bar disk cleaner that only deletes from a fixed allowlist and shows every path before removing it. `Free` `Open Source`
 - [Endurance](https://enduranceapp.com/) - Extend your MacBook's battery life. `Paid`
 - [EtreCheck](https://etrecheck.com/) - System configuration and diagnostic reporting. `Free`
 - [Hand Mirror](https://handmirror.app/) - One-click camera check from menu bar. `Free`
