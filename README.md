@@ -255,6 +255,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [DatWeatherDoe](https://github.com/inderdhir/DatWeatherDoe) - Simple menu bar weather app. `Free` `Open Source`
 - [Dozer](https://github.com/Mortennn/Dozer) - Hide menu bar icons to give your Mac a cleaner look. `Free` `Open Source`
 - [Hand Mirror](https://handmirror.app/) - One-click camera check from menu bar. `Free`
+- [Headroom](https://github.com/patwalls/headroom) - Live Claude Code session (5h) and weekly (7d) usage in your menu bar — zero network calls, reads what Claude Code already writes locally. `Free` `Open Source`
 - [Hidden Bar](https://github.com/dwarvesf/hidden) - Hide menu bar items. `Free` `Open Source`
 - [HomeBar for Homey Pro](https://homebar.pro) - Manage your Homey Pro smart home. `Freemium`
 - [Itsycal](https://www.mowglii.com/itsycal/) - Tiny menu bar calendar. `Free` `Open Source`
