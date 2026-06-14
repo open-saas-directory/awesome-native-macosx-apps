@@ -293,6 +293,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 
 ## Password Managers
 
+- [MacPass](https://macpassapp.org) - A native macOS KeePass client. `Free` `Open Source`
 - [Strongbox](https://strongboxsafe.com/) - Native KeePass client for macOS. `Freemium`
 
 ## PDF Tools
