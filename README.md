@@ -282,6 +282,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [Bear](https://bear.app/) - Beautiful, flexible writing app. `Freemium` `EU`
 - [Craft](https://www.craft.do/) - Native document editor with sharing. `Freemium`
 - [DEVONthink](https://www.devontechnologies.com/apps/devonthink) - Document and information management. `Paid`
+- [Flote](https://flote-app.vercel.app) - Floating sticky-note that turns messy scribbles into title, bullets and a checklist with one AI press; opens with Option+Space. `Free`
 - [FSNotes](https://fsnot.es/) - Modern notes manager for macOS. `Free` `Open Source`
 - [iA Writer](https://ia.net/writer) - Focused writing app with beautiful typography. `Paid`
 - [Notational Velocity](http://notational.net/) - Modeless note-taking application. `Free` `Open Source`
@@ -367,6 +368,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 ## Terminal & Shell
 
 - [Alacritty](https://alacritty.org/) - GPU-accelerated terminal emulator. `Free` `Open Source`
+- [Helix](https://github.com/tomarai85/helix-releases) - Terminal workspace for running multiple Claude Code sessions in resizable panes, with browser preview and SSH in one window. `Free`
 - [iTerm2](https://iterm2.com/) - Terminal emulator for macOS. `Free` `Open Source`
 - [Kitty](https://sw.kovidgoyal.net/kitty/) - Fast, feature-rich GPU-based terminal. `Free` `Open Source`
 - [Terminal](https://support.apple.com/guide/terminal/) - Built-in macOS terminal. `Free`
