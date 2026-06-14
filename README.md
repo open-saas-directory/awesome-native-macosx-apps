@@ -355,6 +355,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [EtreCheck](https://etrecheck.com/) - System configuration and diagnostic reporting. `Free`
 - [Hand Mirror](https://handmirror.app/) - One-click camera check from menu bar. `Free`
 - [iStat Menus](https://bjango.com/mac/istatmenus/) - Advanced Mac system monitor. `Paid`
+- [LinearMouse](https://linearmouse.app) - The mouse and trackpad utility for Mac. `Free` `Open Source`
 - [Lungo](https://sindresorhus.com/lungo) - Prevent your Mac from going to sleep. `Paid`
 - [MonitorControl](https://github.com/MonitorControl/MonitorControl) - Control external display brightness and volume. `Free` `Open Source`
 - [Onyx](https://www.titanium-software.fr/en/onyx.html) - Multifunction utility for macOS. `Free` `EU`
