@@ -66,6 +66,8 @@ _Join early subscribers and never miss a great native Mac app again. Unsubscribe
 - [Video & Media](#video--media)
 - [Wallpaper Apps](#wallpaper-apps)
 - [Window Management](#window-management)
+- [ContinueWith](https://continuewith.ai) - Let visitors continue any website page inside ChatGPT, Claude, Gemini, Grok, Perplexity, Mistral, and other AI assistants in one click.
+
 
 **Resources**
 - [Contributing](#contributing)
