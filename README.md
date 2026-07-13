@@ -365,6 +365,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [Onyx](https://www.titanium-software.fr/en/onyx.html) - Multifunction utility for macOS. `Free` `EU`
 - [Pearcleaner](https://pearcleaner.com/) - Powerful Mac app cleaner `Free` `Open Source`
 - [Rectangle](https://rectangleapp.com/) - Window management with keyboard shortcuts. `Free` `Open Source`
+- [SaneClick](https://saneclick.com) - Finder context menu automation with 50+ built-in actions. `Freemium`
 - [Stats](https://github.com/exelban/stats) - macOS system monitor. `Free` `Open Source`
 - [The Unarchiver](https://theunarchiver.com/) - Extract many archive formats. `Free`
 
