@@ -374,6 +374,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [iTerm2](https://iterm2.com/) - Terminal emulator for macOS. `Free` `Open Source`
 - [Kitty](https://sw.kovidgoyal.net/kitty/) - Fast, feature-rich GPU-based terminal. `Free` `Open Source`
 - [Terminal](https://support.apple.com/guide/terminal/) - Built-in macOS terminal. `Free`
+- [tty7](https://github.com/l0ng-ai/tty7) - GPU-rendered, daemon-backed terminal in pure Rust; sessions persist without tmux. `Free` `Open Source`
 - [Warp](https://www.warp.dev/) - Rust-based terminal with modern features. `Free`
 
 ## Text Editors
