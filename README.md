@@ -410,6 +410,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [Amethyst](https://ianyh.com/amethyst/) - Automatic tiling window manager. `Free` `Open Source`
 - [BetterSnapTool](https://folivora.ai/bettersnaptool) - Window management via snap areas. `Paid` `EU`
 - [Divvy](https://mizage.com/divvy/) - Window management at its finest. `Paid`
+- [FlashSpace](https://github.com/wojciech-kulik/FlashSpace) - Blazingly fast virtual workspace manager. `Free` `Open Source`
 - [Loop](https://github.com/MrKai77/Loop) - Window management made elegant. `Free` `Open Source`
 - [Magnet](https://magnet.crowdcafe.com/) - Window manager that snaps windows into position. `Paid`
 - [Moom](https://manytricks.com/moom/) - Move and zoom windows with ease. `Paid`
