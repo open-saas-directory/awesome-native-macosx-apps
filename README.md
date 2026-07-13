@@ -320,6 +320,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [SelfControl](https://selfcontrolapp.com/) - Block distracting websites. `Free` `Open Source`
 - [Snippety](https://snippety.app) - Advanced snippets manager for macOS and iOS. `Paid`
 - [TaskPaper](https://www.taskpaper.com/) - Plain text to-do lists. `Paid`
+- [TextSniper](https://textsniper.app) - Extract text from anything on screen using OCR. `Paid`
 - [Things](https://culturedcode.com/things/) - Award-winning task manager. `Paid`
 - [Tot](https://tot.rocks/) - Elegant text collection on menu bar. `Freemium`
 - [Speakmac](https://www.speakmac.app/) - Offline hotkey dictation for macOS that types into any app using on-device transcription. `One-Time Subscription`
