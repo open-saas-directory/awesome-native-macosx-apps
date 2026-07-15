@@ -161,8 +161,9 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 
 ## Clipboard Managers
 
-- [Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager with search. `Free` `Open Source`
 - [CopyClip](https://fiplab.com/apps/copyclip-for-mac) - Lightweight clipboard history manager. `Free`
+- [Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager with search. `Free` `Open Source`
+- [Nimclip](https://hukdoesn.github.io/Nimclip/) - Local-first clipboard history with search, tags, and quick paste. `Free` `Open Source`
 - [Paste](https://pasteapp.io/) - Beautiful clipboard manager with cloud sync. `Subscription`
 - [Pesty](https://github.com/momenbasel/pesty) - Native clipboard manager with pinboards and keyboard-driven pasting. `Free` `Open Source`
 - [Unclutter](https://unclutterapp.com/) - Files, notes, and clipboard manager in one. `Paid`
