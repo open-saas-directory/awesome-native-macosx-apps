@@ -262,6 +262,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [HomeBar for Homey Pro](https://homebar.pro) - Manage your Homey Pro smart home. `Freemium`
 - [Itsycal](https://www.mowglii.com/itsycal/) - Tiny menu bar calendar. `Free` `Open Source`
 - [Itsyhome](https://github.com/nickustinov/itsyhome-macos) - Smart home meets menu bar. `Freemium` `Open Source`
+- [LidRun](https://lidrun.com) - Keep your Mac awake with the lid closed for AI/dev workloads, with timers and battery/thermal safety. `Freemium`
 - [MenubarX](https://menubarx.app/) - Browser in your menu bar. `Freemium`
 - [One Thing](https://sindresorhus.com/one-thing) - Put a single task in your menu bar. `Paid`
 - [OpenQuack](https://github.com/larryxiao/openquack) - Transcribes a 5-minute clip in 2.8 s — local WhisperKit dictation, noise-robust. ~8 MB native Swift. `Free` `Open Source`
