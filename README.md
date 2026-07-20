@@ -374,6 +374,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [iTerm2](https://iterm2.com/) - Terminal emulator for macOS. `Free` `Open Source`
 - [Kitty](https://sw.kovidgoyal.net/kitty/) - Fast, feature-rich GPU-based terminal. `Free` `Open Source`
 - [Terminal](https://support.apple.com/guide/terminal/) - Built-in macOS terminal. `Free`
+- [Terminal Candy](https://terminalcandy.com/) - Skinnable terminal that turns any image into a working terminal, with AI-agent alerts. `Paid`
 - [Warp](https://www.warp.dev/) - Rust-based terminal with modern features. `Free`
 
 ## Text Editors
