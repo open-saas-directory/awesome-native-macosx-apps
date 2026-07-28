@@ -323,6 +323,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [Things](https://culturedcode.com/things/) - Award-winning task manager. `Paid`
 - [Tot](https://tot.rocks/) - Elegant text collection on menu bar. `Freemium`
 - [Speakmac](https://www.speakmac.app/) - Offline hotkey dictation for macOS that types into any app using on-device transcription. `One-Time Subscription`
+- [Yap](https://github.com/FrigadeHQ/yap) - On-device voice dictation from the menu bar with a hotkey to talk and no model to download. `Free` `Open Source`
 
 ## Screenshot & Recording
 
