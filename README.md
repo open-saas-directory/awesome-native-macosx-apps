@@ -330,6 +330,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [CleanShot X](https://cleanshot.com/) - Capture your Mac's screen like a pro. `Paid`
 - [Gifox](https://gifox.app/) - Delightful GIF recording and sharing. `Paid`
 - [Kap](https://getkap.co/) - Open-source screen recorder. `Free` `Open Source`
+- [Keyty](https://keyty.app/) - Visualize keyboard and mouse actions for demos and recordings. `Free` `Open Source`
 - [ScreenFloat](https://eternalstorms.at/screenfloat/) - Screenshot utility with floating thumbnails. `Paid` `EU`
 - [ScreenKite](https://www.screenkite.com) - Screen recording and video editing with auto zoom effect. 4x faster than Screen Studio. `Free`
 - [Shottr](https://shottr.cc/) - Screenshot tool with advanced features. `Free`
