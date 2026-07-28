@@ -193,6 +193,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [DevUtils](https://devutils.com/) - All-in-one offline toolbox for developers (42+ tools). `Freemium`
 - [Paw](https://paw.cloud/) - Advanced API tool for Mac. `Paid`
 - [Proxyman](https://proxyman.io/) - Native HTTP debugging proxy. `Freemium`
+- [Tintpad](https://github.com/sorkila/tintpad) - Hotkey launcher that opens the terminal at the right repo with a coding agent (Claude Code, Codex) running. `Free` `Open Source`
 - [RocketSim](https://www.rocketsim.app/) - Enhance Xcode Simulator productivity. `Freemium`
 - [Rockxy](https://rockxy.io) - macOS HTTP/HTTPS debugging proxy to capture, inspect, modify, and replay traffic. `Freemium` `Open Source`
 - [SSH Keys Manager](https://github.com/Stmol/ssh-keys-manager-macos-app) - Native macOS app for managing SSH keys and SSH config entries. `Free` `Open Source`
