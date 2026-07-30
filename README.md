@@ -234,6 +234,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 
 - [Acorn](https://flyingmeat.com/acorn/) - Full-featured photo editor designed for humans. `Paid`
 - [ImageOptim](https://imageoptim.com/) - Compress images without losing quality. `Free` `Open Source`
+- [ItsPaint](https://sites.fynesite.com/itspaint/) - Focused paint and screenshot markup: step badges, pixelate redaction, Instant Alpha. `Free` `Open Source`
 - [Pixave](https://www.pixaveapp.com/) - Ultimate image organizer and viewer. `Paid`
 - [Pixelmator Pro](https://www.pixelmator.com/pro/) - Powerful native image editor. `Paid` `EU`
 - [Retrobatch](https://flyingmeat.com/retrobatch/) - Batch image processing for Mac. `Paid`
