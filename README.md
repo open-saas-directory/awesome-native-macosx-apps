@@ -290,6 +290,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [Notational Velocity](http://notational.net/) - Modeless note-taking application. `Free` `Open Source`
 - [Notebooks](https://www.notebooksapp.com/) - Write, organize, and manage information. `Paid`
 - [nvALT](https://brettterpstra.com/projects/nvalt/) - Fork of Notational Velocity with additional features. `Free` `Open Source`
+- [SeqLog](https://seqlog.com/) - Outliner that stores every note as a plain Markdown file, with backlinks and built-in Git. `Free`
 - [The Archive](https://zettelkasten.de/the-archive/) - Note-taking app for writers and researchers. `Paid`
 - [Tot](https://tot.rocks/) - Elegant text collection on menu bar. `Freemium`
 - [Ulysses](https://ulysses.app/) - Professional writing environment for Mac. `Subscription` `EU`
