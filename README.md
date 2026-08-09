@@ -333,6 +333,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [Lulu](https://objective-see.org/products/lulu.html) - Open-source firewall for macOS. `Free` `Open Source`
 - [Micro Snitch](https://www.obdev.at/products/microsnitch/) - Monitor camera and microphone access. `Paid` `EU`
 - [OverSight](https://objective-see.org/products/oversight.html) - Monitor mic and webcam access. `Free` `Open Source`
+- [Shieldxy](https://rockxy.io/shieldxy) - Native macOS application firewall for monitoring and controlling outbound connections by app. `Free` `Open Source`
 
 ## System Utilities
 
