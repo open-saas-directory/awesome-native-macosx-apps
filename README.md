@@ -277,6 +277,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [Micro Snitch](https://www.obdev.at/products/microsnitch/) - Monitor camera and microphone access. `Paid` `EU`
 - [NetNewsWire](https://netnewswire.com/) - RSS reader for macOS. `Free` `Open Source`
 - [Surge](https://nssurge.com/) - Advanced network toolbox for Mac. `Paid`
+- [Tracexy](https://rockxy.io/tracexy) - Native macOS packet analyzer for live and saved PCAP/PCAPNG captures. `Free` `Open Source`
 - [WiFi Explorer](https://www.intuitibits.com/products/wifi-explorer/) - Scan, monitor and troubleshoot wireless networks. `Paid`
 
 ## Note-Taking & Writing
