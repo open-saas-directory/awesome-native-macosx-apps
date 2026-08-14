@@ -217,6 +217,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [Commander One](https://mac.eltima.com/file-manager.html) - Dual-pane file manager for macOS. `Freemium`
 - [ForkLift](https://binarynights.com/) - Advanced dual-pane file manager and FTP client. `Paid`
 - [Hazel](https://www.noodlesoft.com/) - Automated organization for your Mac. `Paid`
+- [Iruka](https://iruka.sh) - Native file manager with synced terminal (single/dual pane). `Paid (one-time)`
 - [NameQuick](https://www.namequick.app) - AI-powered file renaming using GPT, Gemini, or local LLMs. `Paid`
 - [Path Finder](https://www.cocoatech.io/) - Powerful Finder alternative. `Paid`
 - [Quick Look plugins](https://github.com/sindresorhus/quick-look-plugins) - Useful Quick Look plugins for developers. `Free` `Open Source`
