@@ -259,6 +259,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [Hand Mirror](https://handmirror.app/) - One-click camera check from menu bar. `Free`
 - [Headroom](https://github.com/patwalls/headroom) - Live Claude Code session (5h) and weekly (7d) usage in your menu bar — zero network calls, reads what Claude Code already writes locally. `Free` `Open Source`
 - [Hidden Bar](https://github.com/dwarvesf/hidden) - Hide menu bar items. `Free` `Open Source`
+- [Holeberry](https://github.com/pedrovieira/Holeberry) - Monitor and control your Pi-hole instances from the menu bar. `Free` `Open Source`
 - [HomeBar for Homey Pro](https://homebar.pro) - Manage your Homey Pro smart home. `Freemium`
 - [Itsycal](https://www.mowglii.com/itsycal/) - Tiny menu bar calendar. `Free` `Open Source`
 - [Itsyhome](https://github.com/nickustinov/itsyhome-macos) - Smart home meets menu bar. `Freemium` `Open Source`
@@ -273,6 +274,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 
 ## Network Tools
 
+- [Holeberry](https://github.com/pedrovieira/Holeberry) - Monitor and control your Pi-hole instances from the menu bar. `Free` `Open Source`
 - [Little Snitch](https://www.obdev.at/products/littlesnitch/) - Network monitor and firewall. `Paid` `EU`
 - [Micro Snitch](https://www.obdev.at/products/microsnitch/) - Monitor camera and microphone access. `Paid` `EU`
 - [NetNewsWire](https://netnewswire.com/) - RSS reader for macOS. `Free` `Open Source`
