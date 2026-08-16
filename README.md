@@ -191,6 +191,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [CodeEdit](https://github.com/CodeEditApp/CodeEdit) - Native code editor for macOS. `Free` `Open Source`
 - [DevCleaner](https://github.com/vashpan/xcode-dev-cleaner) - Clean Xcode cache and derived data. `Free` `Open Source`
 - [DevUtils](https://devutils.com/) - All-in-one offline toolbox for developers (42+ tools). `Freemium`
+- [Loadout](https://loadout.migsilva.dev) - Native macOS app for managing coding assistant skills, commands, subagents, and MCP servers. `Free` `Open Source`
 - [Paw](https://paw.cloud/) - Advanced API tool for Mac. `Paid`
 - [Proxyman](https://proxyman.io/) - Native HTTP debugging proxy. `Freemium`
 - [RocketSim](https://www.rocketsim.app/) - Enhance Xcode Simulator productivity. `Freemium`
