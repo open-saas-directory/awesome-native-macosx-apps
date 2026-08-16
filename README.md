@@ -397,6 +397,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 
 ## Video & Media
 
+- [File Island](https://github.com/TREAFREE/FileIsland) - Local media converter with notch-based drag-and-drop and mixed-folder batches. `Free`
 - [HandBrake](https://handbrake.fr/) - Open source video transcoder. `Free` `Open Source`
 - [IINA](https://iina.io/) - Modern media player for macOS. `Free` `Open Source`
 - [Itsytv](https://github.com/nickustinov/itsytv-macos) - The missing Apple TV remote app. `Free` `Open Source`
