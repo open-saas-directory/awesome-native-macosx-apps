@@ -455,7 +455,7 @@ Apps must meet ALL these criteria:
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=open-saas-directory/awesome-native-macosx-apps&type=Date)](https://star-history.com/#open-saas-directory/awesome-native-macosx-apps&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=open-saas-directory/awesome-native-macosx-apps&type=Date)](https://star-history.dera.page/#open-saas-directory/awesome-native-macosx-apps&Date)
 
 ## License
 
