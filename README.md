@@ -151,6 +151,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 ## Browsers & Web
 
 - [Orion](https://browser.kagi.com/) - Lightweight WebKit browser with zero telemetry. `Free`
+- [TabControl](https://tabcontrol.app/) - Native Safari tab manager with session saving and tab suspension. `Paid`
 - [Zen Browser](https://zen-browser.app/) - Privacy-focused, customizable browser built on Firefox. `Free` `Open Source`
 
 ## Calendar & Time
