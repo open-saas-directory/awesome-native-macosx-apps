@@ -13,7 +13,7 @@ Subscribe to our newsletter and get 5-10 handpicked native macOS apps delivered 
 
 - 🎯 Curated native apps (no Electron bloat)
 - 💎 Hidden gems you won't find elsewhere
-- 🛡️ Free & open-source alternatives
+- 🆓 Free & open-source alternatives
 - 📊 App comparisons & recommendations
 - 🔧 Tips for getting the most out of your Mac
 
