@@ -13,7 +13,7 @@ Subscribe to our newsletter and get 5-10 handpicked native macOS apps delivered 
 
 - 🎯 Curated native apps (no Electron bloat)
 - 💎 Hidden gems you won't find elsewhere
-- 🆓 Free & open-source alternatives
+- 🛡️ Free & open-source alternatives
 - 📊 App comparisons & recommendations
 - 🔧 Tips for getting the most out of your Mac
 
@@ -251,6 +251,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 
 ## Menu Bar Apps
 
+- [Abendrot](https://abendrot.app) - Screen warmer that cuts nighttime blue light on every display. `Free` `Open Source`
 - [Bartender](https://www.macbartender.com/) - Organize your menu bar icons. `Paid`
 - [Commitments](https://commitments.pages.dev/) - Your tasks in menu bar. `Paid`
 - [DatWeatherDoe](https://github.com/inderdhir/DatWeatherDoe) - Simple menu bar weather app. `Free` `Open Source`
