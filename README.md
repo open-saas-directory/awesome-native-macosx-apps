@@ -183,6 +183,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 
 ## Developer Tools
 
+- [Belay](https://perfectoweb.github.io/Belay/en/) - Keeps a Mac awake while local coding agents are working, then lets it sleep when they're done. `Free`
 - [BucketMate](https://bucketmate.app/) - Native S3 GUI Client for macOS `Freemium`
 - [CodeEdit](https://github.com/CodeEditApp/CodeEdit) - Native code editor for macOS. `Free` `Open Source`
 - [DevCleaner](https://github.com/vashpan/xcode-dev-cleaner) - Clean Xcode cache and derived data. `Free` `Open Source`
