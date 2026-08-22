@@ -284,6 +284,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [Craft](https://www.craft.do/) - Native document editor with sharing. `Freemium`
 - [DEVONthink](https://www.devontechnologies.com/apps/devonthink) - Document and information management. `Paid`
 - [Knopo](https://github.com/alkalim/Knopo) - Local-first Markdown outliner with backlinks and queries. `Free` `Open Source`
+- [Meemo AI](https://meemo-ai.app/) - Local-first menu bar meeting notes with on-device transcription; optional cloud LLM for text. `Freemium` `Open Source`
 - [FSNotes](https://fsnot.es/) - Modern notes manager for macOS. `Free` `Open Source`
 - [iA Writer](https://ia.net/writer) - Focused writing app with beautiful typography. `Paid`
 - [Notational Velocity](http://notational.net/) - Modeless note-taking application. `Free` `Open Source`
