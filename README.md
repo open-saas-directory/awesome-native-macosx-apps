@@ -267,6 +267,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [Thaw](https://github.com/stonerl/Thaw) - Powerful menu bar management tool. Fork of Ice, lower resource usage. `Free` `Open Source`
 - [TickerPad](https://tickerpad.app) - Real-time crypto prices in your macOS menu bar.  `Freemium`
 - [TranslateAir](https://www.translateair.com/) - AI translation and OCR from the menu bar, 100+ languages. `Freemium`
+- [Zisla](https://github.com/wzz6423/zisla) - Native notch workspace for media, files, system tools, and local AI activity. `Free` `Open Source`
 
 ## Network Tools
 
