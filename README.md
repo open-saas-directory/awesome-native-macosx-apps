@@ -239,6 +239,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 
 - [Glance](https://glance.md/) - Native Markdown viewer and Quick Look extension. `Free`
 - [iA Writer](https://ia.net/writer) - Focused writing app with beautiful typography. `Paid`
+- [Imark](https://github.com/migsilva89/imark) - Markdown reader that stores comments inside the file, with Quick Look preview and a review loop for coding agents. `Free` `Open Source`
 - [MacDown](https://macdown.uranusjr.com/) - Open source Markdown editor for macOS. `Free` `Open Source`
 - [Marked 2](https://marked2app.com/) - Markdown preview and conversion. `Paid`
 - [MD Preview](https://vorojar.github.io/md-preview/) - Lightweight Markdown preview app using Rust and native WebView. `Free` `Open Source`
