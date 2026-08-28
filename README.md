@@ -248,6 +248,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 
 ## Menu Bar Apps
 
+- [Abendrot](https://abendrot.app) - Screen warmer that cuts nighttime blue light on every display. `Free` `Open Source`
 - [Bartender](https://www.macbartender.com/) - Organize your menu bar icons. `Paid`
 - [Commitments](https://commitments.pages.dev/) - Your tasks in menu bar. `Paid`
 - [DatWeatherDoe](https://github.com/inderdhir/DatWeatherDoe) - Simple menu bar weather app. `Free` `Open Source`
