@@ -308,6 +308,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 ## Productivity
 
 - [Alfred](https://www.alfredapp.com/) - Productivity app for macOS with powerful workflows. `Freemium`
+- [Ask Iris](https://askiris.store/) - Private on-device AI workspaces for chatting with images, documents, and video clips. `Freemium`
 - [BetterTouchTool](https://folivora.ai/) - Customize input devices on your Mac. `Paid` `EU`
 - [Blurt](https://blurtblurt.com) - Hold-a-hotkey dictation that pastes cleaned-up text into any app, using AssemblyAI cloud speech-to-text. `Free` `Open Source`
 - [Due](https://www.dueapp.com/) - Reminders with persistent alerts. `Paid`
