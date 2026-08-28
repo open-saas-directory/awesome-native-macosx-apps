@@ -262,6 +262,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [MenubarX](https://menubarx.app/) - Browser in your menu bar. `Freemium`
 - [One Thing](https://sindresorhus.com/one-thing) - Put a single task in your menu bar. `Paid`
 - [OpenQuack](https://github.com/larryxiao/openquack) - Transcribes a 5-minute clip in 2.8 s — local WhisperKit dictation, noise-robust. ~8 MB native Swift. `Free` `Open Source`
+- [Orbly](https://github.com/lou1s19/Orbly) - Hold Fn, speak, let go, and the transcript lands at your cursor. Bundled whisper.cpp, no account and no cloud. Native Swift and SwiftUI. `Free` `Open Source` `EU`
 - [SaneBar](https://sanebar.com) - Privacy-first menu bar manager. Hide and organize icons. `Freemium`
 - [Stargazer Bar](https://jazzyalex.github.io/stargazer-bar/) - Track one public GitHub repo's stars and release downloads from your menu bar. `Free` `Open Source`
 - [Thaw](https://github.com/stonerl/Thaw) - Powerful menu bar management tool. Fork of Ice, lower resource usage. `Free` `Open Source`
