@@ -369,6 +369,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [Pearcleaner](https://pearcleaner.com/) - Powerful Mac app cleaner `Free` `Open Source`
 - [Rectangle](https://rectangleapp.com/) - Window management with keyboard shortcuts. `Free` `Open Source`
 - [Stats](https://github.com/exelban/stats) - macOS system monitor. `Free` `Open Source`
+- [Sundown](https://trysundown.com/) - Warm and dim the display beyond Night Shift's limits on a sunset-to-sunrise schedule. `Paid` `Subscription`
 - [The Unarchiver](https://theunarchiver.com/) - Extract many archive formats. `Free`
 
 ## Terminal & Shell
