@@ -315,6 +315,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [Focus](https://heyfocus.com/) - Block distracting websites and applications. `Paid`
 - [Keyboard Maestro](https://www.keyboardmaestro.com/) - Automate applications and websites. `Paid`
 - [OmniFocus](https://www.omnigroup.com/omnifocus/) - Professional-grade task management. `Paid`
+- [Optimal Desktop](https://optimal-desktop.pages.dev/) - A native, lightweight and privacy-first macOS productivity app with zero cloud tracking and a zero-signup trial. 'Paid'
 - [Raycast](https://www.raycast.com/) - Blazingly fast extendable launcher. `Freemium`
 - [Revu](https://revu.cards) - Local-first spaced repetition app with FSRS scheduling, Anki import, and study guides. `Free` `Open Source`
 - [SelfControl](https://selfcontrolapp.com/) - Block distracting websites. `Free` `Open Source`
