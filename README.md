@@ -307,6 +307,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 
 ## Productivity
 
+- [AI Dictation](https://aidictation.com/) - Speech-to-text for Mac with auto-switching offline/online recognition; AI removes filler words, fixes grammar, and formats text per app. `Freemium`
 - [Alfred](https://www.alfredapp.com/) - Productivity app for macOS with powerful workflows. `Freemium`
 - [BetterTouchTool](https://folivora.ai/) - Customize input devices on your Mac. `Paid` `EU`
 - [Blurt](https://blurtblurt.com) - Hold-a-hotkey dictation that pastes cleaned-up text into any app, using AssemblyAI cloud speech-to-text. `Free` `Open Source`
