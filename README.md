@@ -328,6 +328,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 
 - [BetterCapture](https://bettercapture.app/) - A lightweight, and intuitive screen recorder with a native look and feel. `Free` `Open Source`
 - [CleanShot X](https://cleanshot.com/) - Capture your Mac's screen like a pro. `Paid`
+- [echo99](https://www.echo99.app/) - Records calls with on-device transcription and separate mic and system tracks. `Free`
 - [Gifox](https://gifox.app/) - Delightful GIF recording and sharing. `Paid`
 - [Kap](https://getkap.co/) - Open-source screen recorder. `Free` `Open Source`
 - [Keyty](https://keyty.app/) - Visualize keyboard and mouse actions for demos and recordings. `Free` `Open Source`
