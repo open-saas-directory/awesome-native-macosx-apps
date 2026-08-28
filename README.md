@@ -146,6 +146,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 
 ## Browsers & Web
 
+- [Kestrel](https://github.com/Megapixel99/kestrel) - WebKit browser that hibernates background tabs to reduce memory use. `Free` `Open Source`
 - [Orion](https://browser.kagi.com/) - Lightweight WebKit browser with zero telemetry. `Free`
 - [Zen Browser](https://zen-browser.app/) - Privacy-focused, customizable browser built on Firefox. `Free` `Open Source`
 
