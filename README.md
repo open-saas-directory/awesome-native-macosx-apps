@@ -211,6 +211,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 ## File Management
 
 - [Commander One](https://mac.eltima.com/file-manager.html) - Dual-pane file manager for macOS. `Freemium`
+- [FileShipper](https://getapps.cafe/app/fileshipper) - Send files between Mac, PC and phone over local Wi-Fi. `Free`
 - [ForkLift](https://binarynights.com/) - Advanced dual-pane file manager and FTP client. `Paid`
 - [Hazel](https://www.noodlesoft.com/) - Automated organization for your Mac. `Paid`
 - [NameQuick](https://www.namequick.app) - AI-powered file renaming using GPT, Gemini, or local LLMs. `Paid`
@@ -232,7 +233,9 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [ImageOptim](https://imageoptim.com/) - Compress images without losing quality. `Free` `Open Source`
 - [Pixave](https://www.pixaveapp.com/) - Ultimate image organizer and viewer. `Paid`
 - [Pixelmator Pro](https://www.pixelmator.com/pro/) - Powerful native image editor. `Paid` `EU`
+- [Pixpresso](https://getapps.cafe/app/pixpresso) - Image viewer and editor with crop, resize, annotation and format conversion. `Free`
 - [Retrobatch](https://flyingmeat.com/retrobatch/) - Batch image processing for Mac. `Paid`
+- [TinyImage](https://getapps.cafe/app/tinyimage) - Compress PNG, JPEG and WebP images without visible quality loss. `Free`
 - [xScope](https://xscopeapp.com/) - Measure, inspect and test on-screen graphics. `Paid`
 
 ## Markdown Editors
@@ -402,6 +405,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [Permute](https://software.charliemonroe.net/permute/) - Easy-to-use media converter. `Paid`
 - [QuickTime Player](https://support.apple.com/guide/quicktime-player/) - Built-in media player for macOS. `Free`
 - [Subler](https://subler.org/) - Mux and tag MP4 files. `Free` `Open Source`
+- [TorrentMilk](https://getapps.cafe/app/torrentmilk) - Streaming torrent client that plays media while it downloads. `Free`
 - [VLC](https://www.videolan.org/vlc/) - Cross-platform multimedia player. `Free` `Open Source` `EU`
 
 ## Wallpaper Apps
