@@ -266,6 +266,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [Stargazer Bar](https://jazzyalex.github.io/stargazer-bar/) - Track one public GitHub repo's stars and release downloads from your menu bar. `Free` `Open Source`
 - [Thaw](https://github.com/stonerl/Thaw) - Powerful menu bar management tool. Fork of Ice, lower resource usage. `Free` `Open Source`
 - [TickerPad](https://tickerpad.app) - Real-time crypto prices in your macOS menu bar.  `Freemium`
+- [Tomatino](https://tomatino.app) - Pomodoro timer that switches your Focus mode and your music with each session. `Free` `Open Source`
 - [TranslateAir](https://www.translateair.com/) - AI translation and OCR from the menu bar, 100+ languages. `Freemium`
 
 ## Network Tools
