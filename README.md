@@ -326,6 +326,33 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 
 ## Screenshot & Recording
 
+<table>
+<tr>
+<td width="50%" align="center">
+  <a href="https://shottr.cc/">
+    <img src="resources/screenshots/screenshot-recording/shottr.jpg" width="400" height="300" alt="Shottr">
+  </a>
+  <br>
+  <b><a href="https://shottr.cc/">Shottr</a></b>
+  <br>
+  <sub>Screenshot tool with advanced features.</sub>
+  <br>
+  <code>Free</code>
+</td>
+<td width="50%" align="center">
+  <a href="https://getkap.co/">
+    <img src="resources/screenshots/screenshot-recording/kap.jpg" width="400" height="300" alt="Kap">
+  </a>
+  <br>
+  <b><a href="https://getkap.co/">Kap</a></b>
+  <br>
+  <sub>Open-source screen recorder.</sub>
+  <br>
+  <code>Free</code> <code>Open Source</code>
+</td>
+</tr>
+</table>
+
 - [BetterCapture](https://bettercapture.app/) - A lightweight, and intuitive screen recorder with a native look and feel. `Free` `Open Source`
 - [CleanShot X](https://cleanshot.com/) - Capture your Mac's screen like a pro. `Paid`
 - [Gifox](https://gifox.app/) - Delightful GIF recording and sharing. `Paid`
@@ -348,6 +375,33 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [Shieldxy](https://rockxy.io/shieldxy) - Native macOS application firewall for monitoring and controlling outbound connections by app. `Free` `Open Source`
 
 ## System Utilities
+
+<table>
+<tr>
+<td width="50%" align="center">
+  <a href="https://mole.fit/">
+    <img src="resources/screenshots/system-utilities/mole.jpg" width="400" height="300" alt="Mole">
+  </a>
+  <br>
+  <b><a href="https://mole.fit/">Mole</a></b>
+  <br>
+  <sub>Clean caches, manage apps, analyze disk space, and monitor system status.</sub>
+  <br>
+  <code>Paid</code>
+</td>
+<td width="50%" align="center">
+  <a href="https://displaybuddy.app/">
+    <img src="resources/screenshots/system-utilities/displaybuddy.jpg" width="400" height="300" alt="DisplayBuddy">
+  </a>
+  <br>
+  <b><a href="https://displaybuddy.app/">DisplayBuddy</a></b>
+  <br>
+  <sub>Control the real brightness of monitors directly from Mac.</sub>
+  <br>
+  <code>Paid</code>
+</td>
+</tr>
+</table>
 
 - [AlDente](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter) - Charge limiter to extend MacBook battery life. `Freemium` `Open Source`
 - [AppCleaner](https://freemacsoft.net/appcleaner/) - Thoroughly uninstall unwanted apps. `Free`
@@ -372,6 +426,33 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [The Unarchiver](https://theunarchiver.com/) - Extract many archive formats. `Free`
 
 ## Terminal & Shell
+
+<table>
+<tr>
+<td width="50%" align="center">
+  <a href="https://iterm2.com/">
+    <img src="resources/screenshots/terminal-shell/iterm2.jpg" width="400" height="300" alt="iTerm2">
+  </a>
+  <br>
+  <b><a href="https://iterm2.com/">iTerm2</a></b>
+  <br>
+  <sub>Terminal emulator for macOS.</sub>
+  <br>
+  <code>Free</code> <code>Open Source</code>
+</td>
+<td width="50%" align="center">
+  <a href="https://alacritty.org/">
+    <img src="resources/screenshots/terminal-shell/alacritty.jpg" width="400" height="300" alt="Alacritty">
+  </a>
+  <br>
+  <b><a href="https://alacritty.org/">Alacritty</a></b>
+  <br>
+  <sub>GPU-accelerated terminal emulator.</sub>
+  <br>
+  <code>Free</code> <code>Open Source</code>
+</td>
+</tr>
+</table>
 
 - [Alacritty](https://alacritty.org/) - GPU-accelerated terminal emulator. `Free` `Open Source`
 - [iTerm2](https://iterm2.com/) - Terminal emulator for macOS. `Free` `Open Source`
@@ -409,6 +490,33 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [Wallspace](https://wallspace.app/) - Live Wallpapers for Macos, with custom lock screen. `Freemium`
 
 ## Window Management
+
+<table>
+<tr>
+<td width="50%" align="center">
+  <a href="https://rectangleapp.com/">
+    <img src="resources/screenshots/window-management/rectangle.jpg" width="400" height="300" alt="Rectangle">
+  </a>
+  <br>
+  <b><a href="https://rectangleapp.com/">Rectangle</a></b>
+  <br>
+  <sub>Window snapping via keyboard shortcuts.</sub>
+  <br>
+  <code>Free</code> <code>Open Source</code>
+</td>
+<td width="50%" align="center">
+  <a href="https://magnet.crowdcafe.com/">
+    <img src="resources/screenshots/window-management/magnet.jpg" width="400" height="300" alt="Magnet">
+  </a>
+  <br>
+  <b><a href="https://magnet.crowdcafe.com/">Magnet</a></b>
+  <br>
+  <sub>Window manager that snaps windows into position.</sub>
+  <br>
+  <code>Paid</code>
+</td>
+</tr>
+</table>
 
 - [Amethyst](https://ianyh.com/amethyst/) - Automatic tiling window manager. `Free` `Open Source`
 - [BetterSnapTool](https://folivora.ai/bettersnaptool) - Window management via snap areas. `Paid` `EU`
