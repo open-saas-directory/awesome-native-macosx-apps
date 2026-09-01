@@ -385,7 +385,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
   <br>
   <b><a href="https://mole.fit/">Mole</a></b>
   <br>
-  <sub>Clean caches, manage apps, analyze disk space, and monitor system status.</sub>
+  <sub>Clean caches, manage apps, and monitor status.</sub>
   <br>
   <code>Paid</code>
 </td>
@@ -396,7 +396,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
   <br>
   <b><a href="https://displaybuddy.app/">DisplayBuddy</a></b>
   <br>
-  <sub>Control the real brightness of monitors directly from Mac.</sub>
+  <sub>Control real monitor brightness from your Mac.</sub>
   <br>
   <code>Paid</code>
 </td>
