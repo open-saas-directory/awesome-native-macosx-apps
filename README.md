@@ -366,6 +366,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [Mole](https://mole.fit/) - Clean caches, manage apps, analyze disk space, and monitor system status. `Paid`
 - [MonitorControl](https://github.com/MonitorControl/MonitorControl) - Control external display brightness and volume. `Free` `Open Source`
 - [Onyx](https://www.titanium-software.fr/en/onyx.html) - Multifunction utility for macOS. `Free` `EU`
+- [MacOSCleaner](https://github.com/AlexTkDev/MacOSCleaner) - macOS utility for cleaning caches, temporary files, app leftovers, and duplicate files. `Free` `Open Source`
 - [Pearcleaner](https://pearcleaner.com/) - Powerful Mac app cleaner `Free` `Open Source`
 - [Rectangle](https://rectangleapp.com/) - Window management with keyboard shortcuts. `Free` `Open Source`
 - [Stats](https://github.com/exelban/stats) - macOS system monitor. `Free` `Open Source`
