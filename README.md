@@ -408,7 +408,6 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 
 ## Wallpaper Apps
 
-- [Backspace](https://www.backspacemac.app/) - Provides 1,000+ 4K live wallpapers for the desktop and Lock Screen. `Paid`
 - [Wallspace](https://wallspace.app/) - Live Wallpapers for Macos, with custom lock screen. `Freemium`
 
 ## Window Management
