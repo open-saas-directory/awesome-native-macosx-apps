@@ -244,6 +244,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [Marked 2](https://marked2app.com/) - Markdown preview and conversion. `Paid`
 - [MD Preview](https://vorojar.github.io/md-preview/) - Lightweight Markdown preview app using Rust and native WebView. `Free` `Open Source`
 - [MWeb](https://www.mweb.im/) - Pro Markdown writing and note-taking. `Paid`
+- [Nice.md](https://nicemd.app/) - Markdown viewer with Quick Look preview, outline sidebar, and optional edit mode. `Freemium` `EU`
 - [Typora](https://typora.io/) - Minimal Markdown editor and reader. `Paid`
 - [Writer](https://writer.computer/) - Local-first markdown editor with a Rust backend and native WKWebView. `Free` `Open Source`
 
