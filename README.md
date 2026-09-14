@@ -407,6 +407,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 
 ## Wallpaper Apps
 
+- [SpreadPaper](https://spreadpaper.app) - Spans one wallpaper across multiple monitors with bezel compensation. `Free` `Open Source` `EU`
 - [Wallspace](https://wallspace.app/) - Live Wallpapers for Macos, with custom lock screen. `Freemium`
 
 ## Window Management
