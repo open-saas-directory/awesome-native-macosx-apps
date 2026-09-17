@@ -154,6 +154,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 ## Calendar & Time
 
 - [Fantastical](https://flexibits.com/fantastical) - Calendar app with natural language input. `Subscription`
+- [hora Calendar](https://horacal.app) - Google Calendar client for macOS with API connection. `Suscription`
 - [Itsycal](https://www.mowglii.com/itsycal/) - Tiny menu bar calendar. `Free` `Open Source`
 - [Meeting Bar](https://github.com/leits/MeetingBar) - Menu bar app for your calendar meetings. `Free` `Open Source`
 
