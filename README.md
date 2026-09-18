@@ -272,6 +272,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [TickerPad](https://tickerpad.app) - Real-time crypto prices in your macOS menu bar.  `Freemium`
 - [Tomatino](https://tomatino.app) - Pomodoro timer that switches your Focus mode and your music with each session. `Paid`
 - [TranslateAir](https://www.translateair.com/) - AI translation and OCR from the menu bar, 100+ languages. `Freemium`
+- [usage](https://github.com/aqua5230/usage) - Claude Code, Codex, and Antigravity quota pinned to the menu bar, with burn-rate predictions and offline HTML reports. No LLM API calls — Claude Code and Codex read local files only. `Free` `Open Source`
 
 ## Network Tools
 
