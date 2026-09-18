@@ -256,6 +256,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [Commitments](https://commitments.pages.dev/) - Your tasks in menu bar. `Paid`
 - [DatWeatherDoe](https://github.com/inderdhir/DatWeatherDoe) - Simple menu bar weather app. `Free` `Open Source`
 - [Dozer](https://github.com/Mortennn/Dozer) - Hide menu bar icons to give your Mac a cleaner look. `Free` `Open Source`
+- [DynamicHorizon](https://www.dynamichorizon.app/) - Shows media, notifications, timers, downloads, and controls around the Mac notch. `Paid`
 - [Hand Mirror](https://handmirror.app/) - One-click camera check from menu bar. `Free`
 - [Headroom](https://github.com/patwalls/headroom) - Live Claude Code session (5h) and weekly (7d) usage in your menu bar — zero network calls, reads what Claude Code already writes locally. `Free` `Open Source`
 - [Hidden Bar](https://github.com/dwarvesf/hidden) - Hide menu bar items. `Free` `Open Source`
