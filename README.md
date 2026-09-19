@@ -164,6 +164,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [Paste](https://pasteapp.io/) - Beautiful clipboard manager with cloud sync. `Subscription`
 - [Pesty](https://github.com/momenbasel/pesty) - Native clipboard manager with pinboards and keyboard-driven pasting. `Free` `Open Source`
 - [Unclutter](https://unclutterapp.com/) - Files, notes, and clipboard manager in one. `Paid`
+- [Whisk](https://github.com/nathan-poncet/whisk) - Paste-style clipboard manager with pins, search operators, paste stack and rich previews. `Free` `Open Source`
 
 ## Color Pickers
 
