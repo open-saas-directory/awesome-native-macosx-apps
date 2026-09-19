@@ -252,6 +252,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 
 ## Menu Bar Apps
 
+- [AgentIsland](https://agentislandapp.github.io) - Answer your AI coding agents' permission prompts from the notch. `Freemium`
 - [Bartender](https://www.macbartender.com/) - Organize your menu bar icons. `Paid`
 - [Commitments](https://commitments.pages.dev/) - Your tasks in menu bar. `Paid`
 - [DatWeatherDoe](https://github.com/inderdhir/DatWeatherDoe) - Simple menu bar weather app. `Free` `Open Source`
