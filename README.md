@@ -303,6 +303,7 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 - [Revu](https://revu.cards) - Local-first spaced repetition app with FSRS scheduling, Anki import, and study guides. `Free` `Open Source`
 - [SelfControl](https://selfcontrolapp.com/) - Block distracting websites. `Free` `Open Source`
 - [Snippety](https://snippety.app) - Advanced snippets manager for macOS and iOS. `Paid`
+- [Spokenly](https://spokenly.app/) - Dictation for macOS with free on-device models and free cloud transcription via your own API keys. `Freemium`
 - [TaskPaper](https://www.taskpaper.com/) - Plain text to-do lists. `Paid`
 - [Things](https://culturedcode.com/things/) - Award-winning task manager. `Paid`
 - [Tot](https://tot.rocks/) - Elegant text collection on menu bar. `Freemium`
