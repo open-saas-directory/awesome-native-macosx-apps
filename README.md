@@ -405,6 +405,7 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 - [Rectangle](https://rectangleapp.com/) - Window snapping via keyboard shortcuts. `Free` `Open Source`
 - [Rectangle Pro](https://rectangleapp.com/pro) - Professional window management. `Paid`
 - [Swish](https://highlyopinionated.co/swish/) - Control windows with trackpad gestures. `Paid`
+- [Waindow](https://www.waindow.app/) - Arrange windows with linked resizing, notes, capture, and Keep Awake. `Free`
 - [Wins](https://wins.cool) - Bring system-level window management features to macOS. `Paid`
 - [Yabai](https://github.com/koekeishiya/yabai) - Tiling window manager for macOS. `Free` `Open Source`
 
