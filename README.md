@@ -297,6 +297,7 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 - [Due](https://www.dueapp.com/) - Reminders with persistent alerts. `Paid`
 - [Fantastical](https://flexibits.com/fantastical) - Calendar app with natural language input. `Subscription`
 - [Focus](https://heyfocus.com/) - Block distracting websites and applications. `Paid`
+- [Halopen](https://halopen.com) - Hold-to-talk menu bar dictation that types verbatim at your cursor, with an on-device mode. `Paid`
 - [Keyboard Maestro](https://www.keyboardmaestro.com/) - Automate applications and websites. `Paid`
 - [OmniFocus](https://www.omnigroup.com/omnifocus/) - Professional-grade task management. `Paid`
 - [Raycast](https://www.raycast.com/) - Blazingly fast extendable launcher. `Freemium`
