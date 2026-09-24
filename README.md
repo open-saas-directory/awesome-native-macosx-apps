@@ -233,6 +233,7 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 - [Bartender](https://www.macbartender.com/) - Organize your menu bar icons. `Paid`
 - [Commitments](https://commitments.pages.dev/) - Your tasks in menu bar. `Paid`
 - [DatWeatherDoe](https://github.com/inderdhir/DatWeatherDoe) - Simple menu bar weather app. `Free` `Open Source`
+- [Dimmerly](https://github.com/olujicz/Dimmerly) - Control display brightness, warmth, and contrast from the menu bar. `Free` `Open Source`
 - [Dozer](https://github.com/Mortennn/Dozer) - Hide menu bar icons to give your Mac a cleaner look. `Free` `Open Source`
 - [DynamicHorizon](https://www.dynamichorizon.app/) - Shows media, notifications, timers, downloads, and controls around the Mac notch. `Paid`
 - [Hand Mirror](https://handmirror.app/) - One-click camera check from menu bar. `Free`
