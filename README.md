@@ -254,6 +254,7 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 
 ## Network Tools
 
+- [FeedsBar](https://feeds.bar/) - Always-on news ticker for the desktop with a hand-scored source catalogue. `Paid` `EU`
 - [Holeberry](https://github.com/pedrovieira/Holeberry) - Monitor and control your Pi-hole instances from the menu bar. `Free` `Open Source`
 - [Little Snitch](https://www.obdev.at/products/littlesnitch/) - Network monitor and firewall. `Paid` `EU`
 - [Micro Snitch](https://www.obdev.at/products/microsnitch/) - Monitor camera and microphone access. `Paid` `EU`
