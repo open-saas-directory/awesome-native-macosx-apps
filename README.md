@@ -334,6 +334,7 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 ## System Utilities
 
 - [AlDente](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter) - Charge limiter to extend MacBook battery life. `Freemium` `Open Source`
+- [ApolloShell](https://silvertree2010.github.io/ApolloShell/) - Desktop shell with a sidebar dock, launcher, dashboard and control centre. `Free` `Open Source`
 - [AppCleaner](https://freemacsoft.net/appcleaner/) - Thoroughly uninstall unwanted apps. `Free`
 - [Background Music](https://github.com/kyleneideck/BackgroundMusic) - Control audio per-application. `Free` `Open Source`
 - [coconutBattery](https://www.coconut-flavour.com/coconutbattery/) - Check battery health and status. `Free`
