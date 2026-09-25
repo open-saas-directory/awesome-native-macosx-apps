@@ -382,6 +382,7 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 - [HandBrake](https://handbrake.fr/) - Open source video transcoder. `Free` `Open Source`
 - [IINA](https://iina.io/) - Modern media player for macOS. `Free` `Open Source`
 - [Itsytv](https://github.com/nickustinov/itsytv-macos) - The missing Apple TV remote app. `Free` `Open Source`
+- [Kulve](https://apps.apple.com/us/app/kulve/id6476389316) - Fully native and highly efficient Twitch client. `Freemium`
 - [Movist Pro](https://movistprime.com/) - Powerful movie player for macOS. `Paid`
 - [Permute](https://software.charliemonroe.net/permute/) - Easy-to-use media converter. `Paid`
 - [QuickTime Player](https://support.apple.com/guide/quicktime-player/) - Built-in media player for macOS. `Free`
