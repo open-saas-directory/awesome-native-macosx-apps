@@ -210,6 +210,7 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 ## Image & Graphics
 
 - [Acorn](https://flyingmeat.com/acorn/) - Full-featured photo editor designed for humans. `Paid`
+- [GalleryMagic](https://usegallerymagic.com/) - Quick & easy HTML image gallery creator. `Freemium`
 - [ImageOptim](https://imageoptim.com/) - Compress images without losing quality. `Free` `Open Source`
 - [Pixave](https://www.pixaveapp.com/) - Ultimate image organizer and viewer. `Paid`
 - [Pixelmator Pro](https://www.pixelmator.com/pro/) - Powerful native image editor. `Paid` `EU`
