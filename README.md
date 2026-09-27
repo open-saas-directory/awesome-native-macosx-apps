@@ -353,6 +353,7 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 - [Pearcleaner](https://pearcleaner.com/) - Powerful Mac app cleaner `Free` `Open Source`
 - [Rectangle](https://rectangleapp.com/) - Window management with keyboard shortcuts. `Free` `Open Source`
 - [Stats](https://github.com/exelban/stats) - macOS system monitor. `Free` `Open Source`
+- [Sundown](https://trysundown.com/) - Menu bar app that warms and dims the display, from 6500K down to 500K. `Paid` `Subscription`
 - [The Unarchiver](https://theunarchiver.com/) - Extract many archive formats. `Free`
 
 ## Terminal & Shell
