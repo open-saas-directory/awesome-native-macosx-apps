@@ -392,6 +392,7 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 
 - [Backspace](https://www.backspacemac.app/) - Provides 1,000+ 4K live wallpapers for the desktop and Lock Screen. `Paid`
 - [Wallspace](https://wallspace.app/) - Live Wallpapers for Macos, with custom lock screen. `Freemium`
+- [Walyro](https://walyro.com) - Plays your own videos and draws animated scenes as live desktop wallpapers. `Freemium`
 
 ## Window Management
 
