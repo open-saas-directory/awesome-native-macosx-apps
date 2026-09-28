@@ -307,6 +307,7 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 - [Things](https://culturedcode.com/things/) - Award-winning task manager. `Paid`
 - [Tot](https://tot.rocks/) - Elegant text collection on menu bar. `Freemium`
 - [Speakmac](https://www.speakmac.app/) - Offline hotkey dictation for macOS that types into any app using on-device transcription. `One-Time Subscription`
+- [Voz](https://www.vozwhisper.com) - Hotkey dictation that types transcribed speech into any app, with the Whisper model bundled so it works offline with no setup. Also records meetings and transcribes audio files locally. `Paid` `Open Source`
 
 ## Screenshot & Recording
 
