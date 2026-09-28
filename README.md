@@ -167,6 +167,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <td><strong><a href="https://iina.io/">IINA</a></strong><br><sub>Modern video player with native macOS design. <code>Free</code> <code>Open Source</code></sub></td>
 </tr>
 <tr>
+<td width="64"><img src="resources/icons/mooziac.png" width="48" height="48" alt="Mooziac icon"></td>
+<td><strong><a href="https://github.com/shirkeharsh/mooziac">Mooziac</a></strong><br><sub>Native menu bar YouTube Music and local lossless audio player with trackpad gestures. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
 <td width="64"><img src="resources/icons/muxie.png" width="48" height="48" alt="Muxie icon"></td>
 <td><strong><a href="https://muxie.duhnnie.com">Muxie</a></strong><br><sub>Last.fm scrobbler for Apple Music, Spotify Desktop, iPod Classic, Rockbox devices and some others. <code>Free</code></sub></td>
 </tr>
