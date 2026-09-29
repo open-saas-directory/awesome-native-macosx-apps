@@ -218,6 +218,7 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 
 ## Markdown Editors
 
+- [Downright](https://downright.cc/) - Native Markdown editor and reader with Quick Look and Finder previews. `Free` `Open Source`
 - [Glance](https://glance.md/) - Native Markdown viewer and Quick Look extension. `Free`
 - [iA Writer](https://ia.net/writer) - Focused writing app with beautiful typography. `Paid`
 - [MacDown](https://macdown.uranusjr.com/) - Open source Markdown editor for macOS. `Free` `Open Source`
