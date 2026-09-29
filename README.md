@@ -231,6 +231,7 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 ## Menu Bar Apps
 
 - [Bartender](https://www.macbartender.com/) - Organize your menu bar icons. `Paid`
+- [Browser Cookie Bridge](https://cookiebridge.apoorvdarshan.com/) - Move authenticated Chromium sessions between browsers and automation tools. `Free` `Open Source`
 - [Commitments](https://commitments.pages.dev/) - Your tasks in menu bar. `Paid`
 - [DatWeatherDoe](https://github.com/inderdhir/DatWeatherDoe) - Simple menu bar weather app. `Free` `Open Source`
 - [Dozer](https://github.com/Mortennn/Dozer) - Hide menu bar icons to give your Mac a cleaner look. `Free` `Open Source`
