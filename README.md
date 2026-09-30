@@ -294,6 +294,7 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 - [Alfred](https://www.alfredapp.com/) - Productivity app for macOS with powerful workflows. `Freemium`
 - [BetterTouchTool](https://folivora.ai/) - Customize input devices on your Mac. `Paid` `EU`
 - [Blurt](https://blurtblurt.com) - Hold-a-hotkey dictation that pastes cleaned-up text into any app, using AssemblyAI cloud speech-to-text. `Free` `Open Source`
+- [Compact Contacts](https://compactcontacts.com/) - Search, organize, and edit system contacts in a native table. `Paid`
 - [Due](https://www.dueapp.com/) - Reminders with persistent alerts. `Paid`
 - [Fantastical](https://flexibits.com/fantastical) - Calendar app with natural language input. `Subscription`
 - [Focus](https://heyfocus.com/) - Block distracting websites and applications. `Paid`
