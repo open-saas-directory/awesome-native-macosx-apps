@@ -220,6 +220,7 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 
 - [Glance](https://glance.md/) - Native Markdown viewer and Quick Look extension. `Free`
 - [iA Writer](https://ia.net/writer) - Focused writing app with beautiful typography. `Paid`
+- [Inkstone](https://inkstone.md/) - Native WYSIWYG Markdown editor with spaces that group any folders of plain .md files. `Paid`
 - [MacDown](https://macdown.uranusjr.com/) - Open source Markdown editor for macOS. `Free` `Open Source`
 - [Marked 2](https://marked2app.com/) - Markdown preview and conversion. `Paid`
 - [MD Preview](https://vorojar.github.io/md-preview/) - Lightweight Markdown preview app using Rust and native WebView. `Free` `Open Source`
