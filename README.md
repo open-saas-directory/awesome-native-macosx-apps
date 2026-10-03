@@ -192,6 +192,7 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 ## File Management
 
 - [Commander One](https://mac.eltima.com/file-manager.html) - Dual-pane file manager for macOS. `Freemium`
+- [Folia Files](https://foliafiles.com/) - Multi-pane file manager with search inside files and servers mounted as disks. `Paid` `EU`
 - [ForkLift](https://binarynights.com/) - Advanced dual-pane file manager and FTP client. `Paid`
 - [Hazel](https://www.noodlesoft.com/) - Automated organization for your Mac. `Paid`
 - [NameQuick](https://www.namequick.app) - AI-powered file renaming using GPT, Gemini, or local LLMs. `Paid`
