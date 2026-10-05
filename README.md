@@ -273,6 +273,7 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 - [iA Writer](https://ia.net/writer) - Focused writing app with beautiful typography. `Paid`
 - [Notational Velocity](http://notational.net/) - Modeless note-taking application. `Free` `Open Source`
 - [Notebooks](https://www.notebooksapp.com/) - Write, organize, and manage information. `Paid`
+- [Noticky](https://www.noticky.app/en) - Sticky notes that stay above every window, including fullscreen apps. `Paid` `EU`
 - [nvALT](https://brettterpstra.com/projects/nvalt/) - Fork of Notational Velocity with additional features. `Free` `Open Source`
 - [SeqLog](https://seqlog.com/) - Outliner that stores every note as a plain Markdown file, with backlinks and built-in Git. `Free`
 - [The Archive](https://zettelkasten.de/the-archive/) - Note-taking app for writers and researchers. `Paid`
