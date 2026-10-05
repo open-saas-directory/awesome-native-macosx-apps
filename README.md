@@ -170,6 +170,7 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 - [Macsmith](https://macsmith.app/) - GUI for CLI dev tools like Homebrew, mise, nvm, Colima, and local databases. `Freemium`
 - [Paw](https://paw.cloud/) - Advanced API tool for Mac. `Paid`
 - [Proxyman](https://proxyman.io/) - Native HTTP debugging proxy. `Freemium`
+- [RelayBar](https://github.com/lx2026/RelayBar) - Manage SSH tunnels and preview remote files from the menu bar. `Free` `Open Source`
 - [RocketSim](https://www.rocketsim.app/) - Enhance Xcode Simulator productivity. `Freemium`
 - [Rockxy](https://rockxy.io) - macOS HTTP/HTTPS debugging proxy to capture, inspect, modify, and replay traffic. `Freemium` `Open Source`
 - [SnipperApp 3](https://snipperapp.com) - Code snippet manager with iCloud and Gist sync, and a bundled MCP server. `Paid (one-time)`
