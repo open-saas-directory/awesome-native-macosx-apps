@@ -298,6 +298,7 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 - [Due](https://www.dueapp.com/) - Reminders with persistent alerts. `Paid`
 - [Fantastical](https://flexibits.com/fantastical) - Calendar app with natural language input. `Subscription`
 - [Focus](https://heyfocus.com/) - Block distracting websites and applications. `Paid`
+- [Grux](https://gruxai.com) - AI agent that runs terminal sessions it can undo and reaches local mail, calendar, notes, and files. `Free` `Open Source`
 - [Keyboard Maestro](https://www.keyboardmaestro.com/) - Automate applications and websites. `Paid`
 - [OmniFocus](https://www.omnigroup.com/omnifocus/) - Professional-grade task management. `Paid`
 - [Raycast](https://www.raycast.com/) - Blazingly fast extendable launcher. `Freemium`
