@@ -247,6 +247,7 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 - [One Thing](https://sindresorhus.com/one-thing) - Put a single task in your menu bar. `Paid`
 - [OpenQuack](https://github.com/larryxiao/openquack) - Transcribes a 5-minute clip in 2.8 s — local WhisperKit dictation, noise-robust. ~8 MB native Swift. `Free` `Open Source`
 - [SaneBar](https://sanebar.com) - Privacy-first menu bar manager. Hide and organize icons. `Freemium`
+- [SkillKeeper](https://skillkeeper.app/) - Shows which skills, agents, MCP servers and tools your Claude Code, Codex, Cursor and Gemini CLI sessions ran, and what they cost in tokens. `Freemium`
 - [Stargazer Bar](https://jazzyalex.github.io/stargazer-bar/) - Track one public GitHub repo's stars and release downloads from your menu bar. `Free` `Open Source`
 - [Thaw](https://github.com/stonerl/Thaw) - Powerful menu bar management tool. Fork of Ice, lower resource usage. `Free` `Open Source`
 - [TickerPad](https://tickerpad.app) - Real-time crypto prices in your macOS menu bar.  `Freemium`
