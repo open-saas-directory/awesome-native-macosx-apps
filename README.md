@@ -511,6 +511,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <td><strong><a href="https://ia.net/writer">iA Writer</a></strong><br><sub>Focused writing app with beautiful typography. <code>Paid</code></sub></td>
 </tr>
 <tr>
+<td width="64"><img src="resources/icons/macaroni.png" width="48" height="48" alt="Macaroni icon"></td>
+<td><strong><a href="https://macaroni.noodledragon.studio">Macaroni</a></strong><br><sub>Read-only Markdown viewer that diffs each file against the version you last read. <code>Paid</code></sub></td>
+</tr>
+<tr>
 <td width="64"><img src="resources/icons/macdown.png" width="48" height="48" alt="MacDown icon"></td>
 <td><strong><a href="https://macdown.uranusjr.com/">MacDown</a></strong><br><sub>Open source Markdown editor for macOS. <code>Free</code> <code>Open Source</code></sub></td>
 </tr>
