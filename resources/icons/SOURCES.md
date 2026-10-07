@@ -112,6 +112,7 @@ Each icon was resized to 64x64px for display; no crops or edits beyond resizing/
 | OmniFocus | `resources/icons/omnifocus.png` | https://www.omnigroup.com/assets/img/logo/BlueOmni.png (official site) |
 | One Thing | `resources/icons/one-thing.png` | https://sindresorhus.com/apps/one-thing/icon.png (official site) |
 | Onyx | `resources/icons/onyx.png` | https://www.titanium-software.fr/apple-icon-180x180.png (official site) |
+| Open Contexts | `resources/icons/open-contexts.png` | https://raw.githubusercontent.com/zshnb/open-contexts/v0.3.7/assets/AppIcon.png (official GitHub release tag; original 128×128 PNG, unmodified) |
 | OpenQuack | `resources/icons/openquack.png` | GitHub repo larryxiao/openquack — docs/images/icon-512.png |
 | Orion | `resources/icons/orion.png` | https://orionbrowser.com/apple-touch-icon.png (official site; browser.kagi.com redirects here) |
 | OverSight | `resources/icons/oversight.png` | https://objective-see.org/images/favicon.png (official site) |
