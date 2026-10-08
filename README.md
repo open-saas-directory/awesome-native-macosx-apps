@@ -964,6 +964,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <td><strong><a href="https://sindresorhus.com/lungo">Lungo</a></strong><br><sub>Prevent your Mac from going to sleep. <code>Paid</code></sub></td>
 </tr>
 <tr>
+<td width="64"><img src="resources/icons/macoscleaner.png" width="48" height="48" alt="MacOSCleaner icon"></td>
+<td><strong><a href="https://alextkdev.github.io/MacOSCleaner/">MacOSCleaner</a></strong><br><sub>Native SwiftUI cleaner and uninstaller for Apple Silicon with review before cleaning. <code>Free</code></sub></td>
+</tr>
+<tr>
 <td width="64"><img src="resources/icons/mole.png" width="48" height="48" alt="Mole icon"></td>
 <td><strong><a href="https://mole.fit/">Mole</a></strong><br><sub>Clean caches, manage apps, analyze disk space, and monitor system status. <code>Paid</code></sub></td>
 </tr>
