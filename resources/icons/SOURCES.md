@@ -30,6 +30,7 @@ Each icon was resized to 64x64px for display; no crops or edits beyond resizing/
 | CodeEdit | `resources/icons/codeedit.png` | https://codeedit.app/favicon.png (official site) |
 | Cog | `resources/icons/cog.png` | https://cog.losno.co/apple-touch-icon.png (official site) |
 | ColorSlurp | `resources/icons/colorslurp.png` | https://colorslurp.com/favicons/apple-touch-icon.png (official site) |
+| Command Reopen | `resources/icons/command-reopen.png` | GitHub repo Feng6611/mac-command-reopen — CmdReopen/Resources/Assets.xcassets/AppIcon.appiconset/CommandTab-iOS-Default-1024x1024@1x.png |
 | Commander One | `resources/icons/commander-one.png` | https://mac.eltima.com/apple-touch-icon.png (official site) |
 | Commitments | `resources/icons/commitments.png` | https://commitments.pages.dev/favicon/apple-touch-icon.png (official site) |
 | Copilot | `resources/icons/copilot.png` | https://framerusercontent.com/images/Ee1b14M1PJ0JDxNUK6Dz8dnBgQ.png (official site) |

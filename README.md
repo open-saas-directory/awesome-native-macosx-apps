@@ -1124,6 +1124,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <td><strong><a href="https://folivora.ai/bettersnaptool">BetterSnapTool</a></strong><br><sub>Window management via snap areas. <code>Paid</code> <code>EU</code></sub></td>
 </tr>
 <tr>
+<td width="64"><img src="resources/icons/command-reopen.png" width="48" height="48" alt="Command Reopen icon"></td>
+<td><strong><a href="https://commandreopen.com/">Command Reopen</a></strong><br><sub>Permission-free Cmd+Tab fix that restores minimized windows. <code>Paid</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
 <td width="64"><img src="resources/icons/divvy.png" width="48" height="48" alt="Divvy icon"></td>
 <td><strong><a href="https://mizage.com/divvy/">Divvy</a></strong><br><sub>Window management at its finest. <code>Paid</code></sub></td>
 </tr>
