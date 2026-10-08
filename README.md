@@ -564,6 +564,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <td><strong><a href="https://www.dynamichorizon.app/">DynamicHorizon</a></strong><br><sub>Shows media, notifications, timers, downloads, and controls around the Mac notch. <code>Paid</code></sub></td>
 </tr>
 <tr>
+<td width="64"><img src="resources/icons/extrabar.png" width="48" height="48" alt="ExtraBar icon"></td>
+<td><strong><a href="https://extrabar.app/">ExtraBar</a></strong><br><sub>Customizable menu bar with shortcuts, quick actions, and deep links. No permissions needed. <code>Paid</code> <code>EU</code></sub></td>
+</tr>
+<tr>
 <td width="64"><img src="resources/icons/hand-mirror.png" width="48" height="48" alt="Hand Mirror icon"></td>
 <td><strong><a href="https://handmirror.app/">Hand Mirror</a></strong><br><sub>One-click camera check from menu bar. <code>Free</code></sub></td>
 </tr>
