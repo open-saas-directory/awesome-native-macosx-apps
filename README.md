@@ -948,6 +948,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <td><strong><a href="https://etrecheck.com/">EtreCheck</a></strong><br><sub>System configuration and diagnostic reporting. <code>Free</code></sub></td>
 </tr>
 <tr>
+<td width="64"><img src="resources/icons/extradock.png" width="48" height="48" alt="ExtraDock icon"></td>
+<td><strong><a href="https://extradock.app/">ExtraDock</a></strong><br><sub>Add extra docks to macOS with folders, widgets, and per-display layouts. <code>Paid</code> <code>EU</code></sub></td>
+</tr>
+<tr>
 <td width="64"><img src="resources/icons/hand-mirror.png" width="48" height="48" alt="Hand Mirror icon"></td>
 <td><strong><a href="https://handmirror.app/">Hand Mirror</a></strong><br><sub>One-click camera check from menu bar. <code>Free</code></sub></td>
 </tr>
