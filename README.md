@@ -801,6 +801,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <td><strong><a href="https://selfcontrolapp.com/">SelfControl</a></strong><br><sub>Block distracting websites. <code>Free</code> <code>Open Source</code></sub></td>
 </tr>
 <tr>
+<td width="64"><img src="resources/icons/shiori.png" width="48" height="48" alt="Shiori icon"></td>
+<td><strong><a href="https://shioriapp.io/">Shiori</a></strong><br><sub>Bookmark manager that keeps every link in one fast, organized place. <code>Paid</code> <code>EU</code></sub></td>
+</tr>
+<tr>
 <td width="64"><img src="resources/icons/snippety.png" width="48" height="48" alt="Snippety icon"></td>
 <td><strong><a href="https://snippety.app">Snippety</a></strong><br><sub>Advanced snippets manager for macOS and iOS. <code>Paid</code></sub></td>
 </tr>
