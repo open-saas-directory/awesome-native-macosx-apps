@@ -89,6 +89,7 @@ Each icon was resized to 64x64px for display; no crops or edits beyond resizing/
 | MD Preview | `resources/icons/md-preview.png` | GitHub repo vorojar/md-preview — assets/icon_1024.png |
 | MWeb | `resources/icons/mweb.png` | https://www.mweb.im/asset/icon_192.png (official site) |
 | MacDown | `resources/icons/macdown.png` | https://macdown.uranusjr.com/static/images/logo.png (official site) |
+| MacOSCleaner | `resources/icons/macoscleaner.png` | https://github.com/AlexTkDev/MacOSCleaner/releases/latest/download/MacOSCleaner.dmg — MacOSCleaner.app/Contents/Resources/AppIcon.icns (official release DMG) |
 | MacVim | `resources/icons/macvim.png` | https://macvim.org/images/favicon-macvim-256.png (official site) |
 | Maccy | `resources/icons/maccy.png` | https://maccy.app/Logo-favicon-32w.png (official site) |
 | Magnet | `resources/icons/magnet.png` | https://magnet.crowdcafe.com/apple-touch-icon.png (official site) |
