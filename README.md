@@ -1148,6 +1148,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <td><strong><a href="https://nudge.run">Nudge</a></strong><br><sub>Free window manager with keyboard shortcuts and drag-to-edge snapping. <code>Free</code> <code>Open Source</code></sub></td>
 </tr>
 <tr>
+<td width="64"><img src="resources/icons/open-contexts.png" width="48" height="48" alt="Open Contexts icon"></td>
+<td><strong><a href="https://opencontexts.zshnb.com/">Open Contexts</a></strong><br><sub>Window switcher with customizable shortcuts, an app bar, and saved window groups. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
 <td width="64"><img src="resources/icons/rectangle.png" width="48" height="48" alt="Rectangle icon"></td>
 <td><strong><a href="https://rectangleapp.com/">Rectangle</a></strong><br><sub>Window snapping via keyboard shortcuts. <code>Free</code> <code>Open Source</code></sub></td>
 </tr>
