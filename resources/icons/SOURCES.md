@@ -88,6 +88,7 @@ Each icon was resized to 64x64px for display; no crops or edits beyond resizing/
 | Macsmith | `resources/icons/macsmith.png` | https://macsmith.app/assets/macsmith-icon-64.png (official site) |
 | MD Preview | `resources/icons/md-preview.png` | GitHub repo vorojar/md-preview — assets/icon_1024.png |
 | MWeb | `resources/icons/mweb.png` | https://www.mweb.im/asset/icon_192.png (official site) |
+| Macaroni | `resources/icons/macaroni.png` | https://macaroni.noodledragon.studio/apple-touch-icon.png (official site) |
 | MacDown | `resources/icons/macdown.png` | https://macdown.uranusjr.com/static/images/logo.png (official site) |
 | MacVim | `resources/icons/macvim.png` | https://macvim.org/images/favicon-macvim-256.png (official site) |
 | Maccy | `resources/icons/maccy.png` | https://maccy.app/Logo-favicon-32w.png (official site) |
