@@ -222,6 +222,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <td><strong><a href="https://flexibits.com/fantastical">Fantastical</a></strong><br><sub>Calendar app with natural language input. <code>Subscription</code></sub></td>
 </tr>
 <tr>
+<td width="64"><img src="resources/icons/honeyday.png" width="48" height="48" alt="Honeyday icon"></td>
+<td><strong><a href="https://honeyday.app">Honeyday</a></strong><br><sub>Birthdays and anniversaries from your contacts, with widgets and reminders. <code>Paid</code></sub></td>
+</tr>
+<tr>
 <td width="64"><img src="resources/icons/hora-calendar.png" width="48" height="48" alt="hora Calendar icon"></td>
 <td><strong><a href="https://horacal.app">hora Calendar</a></strong><br><sub>Google Calendar client for macOS with API connection. <code>Suscription</code></sub></td>
 </tr>

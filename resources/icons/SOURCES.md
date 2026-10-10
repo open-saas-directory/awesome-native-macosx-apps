@@ -65,6 +65,7 @@ Each icon was resized to 64x64px for display; no crops or edits beyond resizing/
 | Hidden Bar | `resources/icons/hidden-bar.png` | GitHub repo dwarvesf/hidden — hidden/Assets.xcassets/AppIcon.appiconset/icon_256@2x.png |
 | Holeberry | `resources/icons/holeberry.png` | https://github.githubassets.com/assets/apple-touch-icon-180x180-a80b8e11abe2.png (official site) |
 | HomeBar for Homey Pro | `resources/icons/homebar-for-homey-pro.png` | https://homebar.pro/favicon.ico?favicon.346d54aa.ico (official site) |
+| Honeyday | `resources/icons/honeyday.png` | https://honeyday.app/assets/apple-touch-icon.png?v=0e20c218 (official site) |
 | hora Calendar | `resources/icons/hora-calendar.png` | https://horacal.app/assets/brand/apple-touch-icon-180.png (official site) |
 | IINA | `resources/icons/iina.png` | https://iina.io/images/apple-touch-icon.png (official site) |
 | IconJar | `resources/icons/iconjar.png` | https://geticonjar.com/favicon32.png (official site) |
