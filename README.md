@@ -337,6 +337,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <td><strong><a href="https://macsmith.app/">Macsmith</a></strong><br><sub>GUI for CLI dev tools like Homebrew, mise, nvm, Colima, and local databases. <code>Freemium</code></sub></td>
 </tr>
 <tr>
+<td width="64"><img src="resources/icons/oh-my-android.png" width="48" height="48" alt="Oh My Android icon"></td>
+<td><strong><a href="https://github.com/ateymoori/oh-my-android">Oh My Android</a></strong><br><sub>Control panel for the Android Emulator and adb devices, with an MCP server. <code>Free</code> <code>Open Source</code> <code>EU</code></sub></td>
+</tr>
+<tr>
 <td width="64"><img src="resources/icons/paw.png" width="48" height="48" alt="Paw icon"></td>
 <td><strong><a href="https://paw.cloud/">Paw</a></strong><br><sub>Advanced API tool for Mac. <code>Paid</code></sub></td>
 </tr>
