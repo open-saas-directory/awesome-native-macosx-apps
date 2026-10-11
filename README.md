@@ -988,6 +988,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <td><strong><a href="https://github.com/exelban/stats">Stats</a></strong><br><sub>macOS system monitor. <code>Free</code> <code>Open Source</code></sub></td>
 </tr>
 <tr>
+<td width="64"><img src="resources/icons/tap2click.png" width="48" height="48" alt="Tap2Click icon"></td>
+<td><strong><a href="https://tap2click.me">Tap2Click</a></strong><br><sub>Tap-to-click for the Magic Mouse: a light touch is a click, two fingers a right-click. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
 <td width="64"><img src="resources/icons/the-unarchiver.png" width="48" height="48" alt="The Unarchiver icon"></td>
 <td><strong><a href="https://theunarchiver.com/">The Unarchiver</a></strong><br><sub>Extract many archive formats. <code>Free</code></sub></td>
 </tr>
