@@ -184,6 +184,7 @@ Each icon was resized to 64x64px for display; no crops or edits beyond resizing/
 | Unclutter | `resources/icons/unclutter.png` | https://unclutterapp.com/images/unclutter/app-icon/256.png (official site) |
 | Usage | `resources/icons/usage.png` | https://framerusercontent.com/images/DjRjdI3VbfdbORh5tXnsvnimJ0.png (official site) |
 | VLC | `resources/icons/vlc.png` | https://images.videolan.org/images/favicon.ico (official site) |
+| VPN Bypass | `resources/icons/vpn-bypass.png` | GitHub repo GeiserX/VPN-Bypass — assets/VPNBypass.png |
 | Vibedock | `resources/icons/vibedock.png` | https://vibedock.dev/icon.png (official site) |
 | VimR | `resources/icons/vimr.png` | https://twitter.com/apple-touch-icon.png (official site) |
 | Wallspace | `resources/icons/wallspace.png` | https://s4.wallspace.app/assets/logo.png (official site) |

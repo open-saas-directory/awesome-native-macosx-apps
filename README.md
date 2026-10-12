@@ -669,6 +669,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <td><strong><a href="https://rockxy.io/tracexy">Tracexy</a></strong><br><sub>Native macOS packet analyzer for live and saved PCAP/PCAPNG captures. <code>Free</code> <code>Open Source</code></sub></td>
 </tr>
 <tr>
+<td width="64"><img src="resources/icons/vpn-bypass.png" width="48" height="48" alt="VPN Bypass icon"></td>
+<td><strong><a href="https://github.com/GeiserX/VPN-Bypass">VPN Bypass</a></strong><br><sub>Menu bar app that routes chosen domains and services around a VPN, or only those through it. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
 <td width="64"><img src="resources/icons/wifi-explorer.png" width="48" height="48" alt="WiFi Explorer icon"></td>
 <td><strong><a href="https://www.intuitibits.com/products/wifi-explorer/">WiFi Explorer</a></strong><br><sub>Scan, monitor and troubleshoot wireless networks. <code>Paid</code></sub></td>
 </tr>
