@@ -912,6 +912,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <td width="64"><img src="resources/icons/shieldxy.png" width="48" height="48" alt="Shieldxy icon"></td>
 <td><strong><a href="https://rockxy.io/shieldxy">Shieldxy</a></strong><br><sub>Native macOS application firewall for monitoring and controlling outbound connections by app. <code>Free</code> <code>Open Source</code></sub></td>
 </tr>
+<tr>
+<td width="64"><img src="resources/icons/wardlume.png" width="48" height="48" alt="Wardlume icon"></td>
+<td><strong><a href="https://wardlume.github.io">Wardlume</a></strong><br><sub>Lock keyboard, mouse, and trackpad while the screen stays visible and work keeps running. <code>Free</code></sub></td>
+</tr>
 </table>
 
 ## System Utilities
