@@ -1003,6 +1003,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <td width="64"><img src="resources/icons/the-unarchiver.png" width="48" height="48" alt="The Unarchiver icon"></td>
 <td><strong><a href="https://theunarchiver.com/">The Unarchiver</a></strong><br><sub>Extract many archive formats. <code>Free</code></sub></td>
 </tr>
+<tr>
+<td width="64"><img src="resources/icons/widgetscape.png" width="48" height="48" alt="Widgetscape icon"></td>
+<td><strong><a href="https://widgetscape.vpolabs.com">Widgetscape</a></strong><br><sub>Live desktop widgets (calendar, weather, system stats) on a shared grid and palette. <code>Freemium</code> <code>EU</code></sub></td>
+</tr>
 </table>
 
 ## Terminal & Shell

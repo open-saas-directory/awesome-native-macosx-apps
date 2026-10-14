@@ -189,6 +189,7 @@ Each icon was resized to 64x64px for display; no crops or edits beyond resizing/
 | Wallspace | `resources/icons/wallspace.png` | https://s4.wallspace.app/assets/logo.png (official site) |
 | Warp | `resources/icons/warp.png` | https://www.warp.dev/apple-touch-icon-180x180.png (official site) |
 | WiFi Explorer | `resources/icons/wifi-explorer.png` | https://www.intuitibits.com/wp-content/uploads/2026/07/intuitibits-apple-touch-180x180-1.png (official site) |
+| Widgetscape | `resources/icons/widgetscape.png` | https://widgetscape.vpolabs.com/apple-touch-icon.png (official site) |
 | Wins | `resources/icons/wins.png` | https://wins.cool/favicon.ico (official site) |
 | Writer | `resources/icons/writer.png` | https://writer.computer/favicon.png (official site) |
 | Xnapper | `resources/icons/xnapper.png` | https://xnapper.com/apple-icon-180x180.png (official site) |
