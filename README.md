@@ -341,6 +341,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <td><strong><a href="https://github.com/vashpan/xcode-dev-cleaner">DevCleaner</a></strong><br><sub>Clean Xcode cache and derived data. <code>Free</code> <code>Open Source</code></sub></td>
 </tr>
 <tr>
+<td width="64"><img src="resources/icons/device-hub-pro.png" width="48" height="48" alt="Device Hub Pro icon"></td>
+<td><strong><a href="https://github.com/gitemre/device-hub-pro">Device Hub Pro</a></strong><br><sub>Manage and mirror Android emulators, Android phones and iOS simulators side by side. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
 <td width="64"><img src="resources/icons/devutils.png" width="48" height="48" alt="DevUtils icon"></td>
 <td><strong><a href="https://devutils.com/">DevUtils</a></strong><br><sub>All-in-one offline toolbox for developers (42+ tools). <code>Freemium</code></sub></td>
 </tr>

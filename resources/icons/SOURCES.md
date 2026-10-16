@@ -41,6 +41,7 @@ Each icon was resized to 64x64px for display; no crops or edits beyond resizing/
 | DaisyDisk | `resources/icons/daisydisk.png` | https://daisydiskapp.com/favicon/favicon.ico (official site) |
 | DatWeatherDoe | `resources/icons/datweatherdoe.png` | GitHub repo inderdhir/DatWeatherDoe — DatWeatherDoe/Resources/Assets.xcassets/AppIcon.appiconset/256.png |
 | DevCleaner | `resources/icons/devcleaner.png` | GitHub repo vashpan/xcode-dev-cleaner — DevCleaner/Resources/Assets.xcassets/DevCleanerIcon.imageset/DevCleaner Icon - Tahoe-macOS-Default-256x256@2x.png |
+| Device Hub Pro | `resources/icons/device-hub-pro.png` | GitHub repo gitemre/device-hub-pro — docs/assets/icon-256.png (scaled to 64 px) |
 | DevUtils | `resources/icons/devutils.png` | https://devutils.com/apple.png (official site) |
 | DisplayBuddy | `resources/icons/displaybuddy.png` | https://displaybuddy.app/images/apple-touch-icon.png (official site) |
 | Divvy | `resources/icons/divvy.png` | https://mizage.com/favicon-152.png (official site) |
