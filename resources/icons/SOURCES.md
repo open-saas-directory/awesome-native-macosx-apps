@@ -110,6 +110,7 @@ Each icon was resized to 64x64px for display; no crops or edits beyond resizing/
 | Notational Velocity | `resources/icons/notational-velocity.png` | GitHub repo scrod/nv — Images/Notality.icns (original product name; converted from .icns) |
 | Notebooks | `resources/icons/notebooks.png` | https://www.notebooksapp.com/wp-content/uploads/2026/02/cropped-Header-Logo-2026-light@2x-1-180x180.png (official site) |
 | Nova | `resources/icons/nova.png` | https://nova.app/apple-touch-icon.png (official site) |
+| Oh My Android | `resources/icons/oh-my-android.png` | GitHub release ateymoori/oh-my-android v0.4.5 — OhMyAndroid-0.4.5.zip, Oh My Android.app/Contents/Resources/AppIcon.icns (extracted with scripts/extract-icon.sh) |
 | OmniFocus | `resources/icons/omnifocus.png` | https://www.omnigroup.com/assets/img/logo/BlueOmni.png (official site) |
 | One Thing | `resources/icons/one-thing.png` | https://sindresorhus.com/apps/one-thing/icon.png (official site) |
 | Onyx | `resources/icons/onyx.png` | https://www.titanium-software.fr/apple-icon-180x180.png (official site) |
