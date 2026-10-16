@@ -51,6 +51,7 @@ Each icon was resized to 64x64px for display; no crops or edits beyond resizing/
 | EtreCheck | `resources/icons/etrecheck.png` | https://etrecheck.com/favicons/apple-icon-180x180.png (official site) |
 | FSNotes | `resources/icons/fsnotes.png` | https://fsnot.es/apple-touch-icon.png (official site) |
 | Fantastical | `resources/icons/fantastical.png` | https://flexibits.com/apple-touch-icon-152x152.png (official site) |
+| Floodtide | `resources/icons/floodtide.png` | https://bhopstudio.com/floodtide/floodtide-icon-512.png (official site) |
 | Flow Diagram | `resources/icons/flow-diagram.png` | https://assets.macnative.io/logo/f62774f4-91e0-450f-8dc5-de1af4cc9ae9.png (MacNative.io listing) |
 | Focus | `resources/icons/focus.png` | https://heyfocus.com/apple-touch-icon.png (official site) |
 | Fork | `resources/icons/fork.png` | https://git-fork.com/favicon.ico (official site) |
