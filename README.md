@@ -972,6 +972,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <td><strong><a href="https://handmirror.app/">Hand Mirror</a></strong><br><sub>One-click camera check from menu bar. <code>Free</code></sub></td>
 </tr>
 <tr>
+<td width="64"></td>
+<td><strong><a href="https://gethatoba.com/">Hatoba</a></strong><br><sub>Second Dock on any screen edge with apps, links, live widgets and window snapping. <code>Paid</code></sub></td>
+</tr>
+<tr>
 <td width="64"><img src="resources/icons/istat-menus.png" width="48" height="48" alt="iStat Menus icon"></td>
 <td><strong><a href="https://bjango.com/mac/istatmenus/">iStat Menus</a></strong><br><sub>Advanced Mac system monitor. <code>Paid</code></sub></td>
 </tr>
