@@ -785,6 +785,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <td><strong><a href="https://www.alfredapp.com/">Alfred</a></strong><br><sub>Productivity app for macOS with powerful workflows. <code>Freemium</code></sub></td>
 </tr>
 <tr>
+<td width="64"><img src="resources/icons/arcpad.png" width="48" height="48" alt="ArcPad icon"></td>
+<td><strong><a href="https://www.voq.no/arcpad">ArcPad</a></strong><br><sub>Spatial app launcher that arranges apps in circles by category, with type-to-search. <code>Free</code></sub></td>
+</tr>
+<tr>
 <td width="64"><img src="resources/icons/bettertouchtool.png" width="48" height="48" alt="BetterTouchTool icon"></td>
 <td><strong><a href="https://folivora.ai/">BetterTouchTool</a></strong><br><sub>Customize input devices on your Mac. <code>Paid</code> <code>EU</code></sub></td>
 </tr>

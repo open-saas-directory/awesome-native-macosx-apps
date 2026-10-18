@@ -12,6 +12,7 @@ Each icon was resized to 64x64px for display; no crops or edits beyond resizing/
 | Alacritty | `resources/icons/alacritty.png` | https://alacritty.org/alacritty-simple.svg (official site, rasterized from SVG) |
 | Alfred | `resources/icons/alfred.png` | https://www.alfredapp.com/apple-touch-icon.png (official site) |
 | Amethyst | `resources/icons/amethyst.png` | https://ianyh.com/images/amethyst.png (official site) |
+| ArcPad | `resources/icons/arcpad.png` | https://www.voq.no/arcpad/icon.png (official site) |
 | Arq | `resources/icons/arq.png` | https://www.arqbackup.com/apple-icon-180x180.png (official site) |
 | BBEdit | `resources/icons/bbedit.png` | https://www.barebones.com/favicon.png (official site) |
 | Background Music | `resources/icons/background-music.png` | GitHub repo kyleneideck/BackgroundMusic — BGMApp/BGMApp/Images.xcassets/AppIcon.appiconset/appicon_256.png |
