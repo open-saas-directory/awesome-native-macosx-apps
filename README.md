@@ -616,6 +616,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <td><strong><a href="https://github.com/nickustinov/itsyhome-macos">Itsyhome</a></strong><br><sub>Smart home meets menu bar. <code>Freemium</code> <code>Open Source</code></sub></td>
 </tr>
 <tr>
+<td width="64"><img src="resources/icons/lumepane.png" width="48" height="48" alt="LumePane icon"></td>
+<td><strong><a href="https://lumepane.com/">LumePane</a></strong><br><sub>Display, scroll and window console with a draggable orb dock. <code>Paid</code></sub></td>
+</tr>
+<tr>
 <td width="64"><img src="resources/icons/menubarx.png" width="48" height="48" alt="MenubarX icon"></td>
 <td><strong><a href="https://menubarx.app/">MenubarX</a></strong><br><sub>Browser in your menu bar. <code>Freemium</code></sub></td>
 </tr>

@@ -95,6 +95,7 @@ Each icon was resized to 64x64px for display; no crops or edits beyond resizing/
 | MacVim | `resources/icons/macvim.png` | https://macvim.org/images/favicon-macvim-256.png (official site) |
 | Maccy | `resources/icons/maccy.png` | https://maccy.app/Logo-favicon-32w.png (official site) |
 | Magnet | `resources/icons/magnet.png` | https://magnet.crowdcafe.com/apple-touch-icon.png (official site) |
+| LumePane | `resources/icons/lumepane.png` | https://lumepane.com/img/icon.png (official site) |
 | MailMate | `resources/icons/mailmate.png` | https://freron.com/favicon.ico (official site) |
 | Marked 2 | `resources/icons/marked-2.png` | https://marked2app.com/apple-touch-icon-144x144.png (official site) |
 | Meeting Bar | `resources/icons/meeting-bar.png` | https://meetingbar.app/favicon.png (official site) |
