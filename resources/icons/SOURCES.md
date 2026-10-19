@@ -45,6 +45,7 @@ Each icon was resized to 64x64px for display; no crops or edits beyond resizing/
 | DevUtils | `resources/icons/devutils.png` | https://devutils.com/apple.png (official site) |
 | DisplayBuddy | `resources/icons/displaybuddy.png` | https://displaybuddy.app/images/apple-touch-icon.png (official site) |
 | Divvy | `resources/icons/divvy.png` | https://mizage.com/favicon-152.png (official site) |
+| Dockaroo | `resources/icons/dockaroo.png` | https://dockaroo.com/assets/app-icon.png (official site) |
 | Dozer | `resources/icons/dozer.png` | GitHub repo Mortennn/Dozer — Dozer/Other/Assets.xcassets/AppIcon.appiconset/Icon_256x256.png |
 | Due | `resources/icons/due.png` | https://www.dueapp.com/apple-touch-icon.png (official site) |
 | DynamicHorizon | `resources/icons/dynamichorizon.png` | https://dynamichorizon.app/assets/brand/apple-touch-icon.png (official site) |
