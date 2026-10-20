@@ -186,6 +186,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <td><strong><a href="https://muxie.duhnnie.com">Muxie</a></strong><br><sub>Last.fm scrobbler for Apple Music, Spotify Desktop, iPod Classic, Rockbox devices and some others. <code>Free</code></sub></td>
 </tr>
 <tr>
+<td width="64"><img src="resources/icons/overdrive.png" width="48" height="48" alt="Overdrive icon"></td>
+<td><strong><a href="https://github.com/skhaz/overdrive">Overdrive</a></strong><br><sub>Lightweight player for your music folders with synced lyrics, Last.fm and YouTube videos. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
 <td width="64"><img src="resources/icons/petrichor.png" width="48" height="48" alt="Petrichor icon"></td>
 <td><strong><a href="https://github.com/kushalpandya/Petrichor">Petrichor</a></strong><br><sub>Offline music player with support for over 20 file formats and a lot of other features. <code>Free</code> <code>Open Source</code></sub></td>
 </tr>
