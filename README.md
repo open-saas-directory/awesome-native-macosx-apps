@@ -955,6 +955,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <td><strong><a href="https://github.com/bysiber/cleardisk">ClearDisk</a></strong><br><sub>macOS menu bar utility that monitors 44+ developer cache paths and helps reclaim disk space. <code>Free</code> <code>Open Source</code></sub></td>
 </tr>
 <tr>
+<td width="64"><img src="resources/icons/continuo.png" width="48" height="48" alt="Continuo icon"></td>
+<td><strong><a href="https://usecontinuo.app">Continuo</a></strong><br><sub>Keyboard, mouse and native trackpad gestures across Macs, even at lock and login. Shares folders. <code>Freemium</code></sub></td>
+</tr>
+<tr>
 <td width="64"><img src="resources/icons/cooldock.png" width="48" height="48" alt="CoolDock icon"></td>
 <td><strong><a href="https://cooldock.app/">CoolDock</a></strong><br><sub>Second Dock for Mac with live widgets for music, calendar, weather, and system stats. <code>Paid</code> <code>EU</code></sub></td>
 </tr>
