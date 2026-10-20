@@ -82,6 +82,7 @@ Each icon was resized to 64x64px for display; no crops or edits beyond resizing/
 | Kitty | `resources/icons/kitty.png` | https://sw.kovidgoyal.net/kitty/_static/kitty.svg (official site, rasterized from SVG) |
 | KnockKnock | `resources/icons/knockknock.png` | https://objective-see.org/images/favicon.png (official site) |
 | Knopo | `resources/icons/knopo.png` | GitHub repo alkalim/Knopo — Icon/AppIcon.svg (rasterized from SVG) |
+| LayoutKeeper | `resources/icons/layoutkeeper.png` | https://github.com/tumingke0/LayoutKeeper/blob/main/docs/images/icon.png (official GitHub repo) |
 | LinearMouse | `resources/icons/linearmouse.png` | https://linearmouse.app/apple-touch-icon.png (official site) |
 | Little Snitch | `resources/icons/little-snitch.png` | https://www.obdev.at/apple-touch-icon.png (official site) |
 | Lockpaw | `resources/icons/lockpaw.png` | https://getlockpaw.com/apple-touch-icon.png (official site) |

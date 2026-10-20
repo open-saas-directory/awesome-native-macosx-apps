@@ -1163,6 +1163,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <td><strong><a href="https://mizage.com/divvy/">Divvy</a></strong><br><sub>Window management at its finest. <code>Paid</code></sub></td>
 </tr>
 <tr>
+<td width="64"><img src="resources/icons/layoutkeeper.png" width="48" height="48" alt="LayoutKeeper icon"></td>
+<td><strong><a href="https://github.com/tumingke0/LayoutKeeper">LayoutKeeper</a></strong><br><sub>Restores window positions and Spaces when an external monitor is reconnected. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
 <td width="64"><img src="resources/icons/loop.png" width="48" height="48" alt="Loop icon"></td>
 <td><strong><a href="https://github.com/MrKai77/Loop">Loop</a></strong><br><sub>Window management made elegant. <code>Free</code> <code>Open Source</code></sub></td>
 </tr>
