@@ -118,6 +118,7 @@ Each icon was resized to 64x64px for display; no crops or edits beyond resizing/
 | Onyx | `resources/icons/onyx.png` | https://www.titanium-software.fr/apple-icon-180x180.png (official site) |
 | OpenQuack | `resources/icons/openquack.png` | GitHub repo larryxiao/openquack — docs/images/icon-512.png |
 | Orion | `resources/icons/orion.png` | https://orionbrowser.com/apple-touch-icon.png (official site; browser.kagi.com redirects here) |
+| Ostgate | `resources/icons/ostgate.png` | https://ostgate.app/assets/app-icon.png (official site) |
 | OverSight | `resources/icons/oversight.png` | https://objective-see.org/images/favicon.png (official site) |
 | Parendi | `resources/icons/parendi.png` | https://parendi.app/assets/icon-128.png (official site, scaled to 64 px) |
 | PDF Expert | `resources/icons/pdf-expert.png` | https://cdn-rdstaticassets.readdle.com/assets/pdfexpert/20220504/common/favicon-icons/pdfexpert-fav-180.png?1770636111 (official site) |

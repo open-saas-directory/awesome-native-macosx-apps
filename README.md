@@ -360,6 +360,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <td><strong><a href="https://macsmith.app/">Macsmith</a></strong><br><sub>GUI for CLI dev tools like Homebrew, mise, nvm, Colima, and local databases. <code>Freemium</code></sub></td>
 </tr>
 <tr>
+<td width="64"><img src="resources/icons/ostgate.png" width="48" height="48" alt="Ostgate icon"></td>
+<td><strong><a href="https://ostgate.app/">Ostgate</a></strong><br><sub>SSH, RDP, SFTP and TCP tunnels to Google Compute Engine VMs over Identity-Aware Proxy. <code>Paid</code> <code>EU</code></sub></td>
+</tr>
+<tr>
 <td width="64"><img src="resources/icons/paw.png" width="48" height="48" alt="Paw icon"></td>
 <td><strong><a href="https://paw.cloud/">Paw</a></strong><br><sub>Advanced API tool for Mac. <code>Paid</code></sub></td>
 </tr>
