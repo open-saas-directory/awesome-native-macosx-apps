@@ -136,6 +136,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 
 <table>
 <tr>
+<td width="64"></td>
+<td><strong><a href="https://aide.tinyapps.space">Aide</a></strong><br><sub>Menu bar load indicator that lists only the apps over your CPU or memory limit. <code>Paid</code></sub></td>
+</tr>
+<tr>
 <td width="64"><img src="resources/icons/istat-menus.png" width="48" height="48" alt="iStat Menus icon"></td>
 <td><strong><a href="https://bjango.com/mac/istatmenus/">iStat Menus</a></strong><br><sub>Advanced Mac system monitor in your menu bar. <code>Paid</code></sub></td>
 </tr>
