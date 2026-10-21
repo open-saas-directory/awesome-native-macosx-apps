@@ -155,6 +155,7 @@ Each icon was resized to 64x64px for display; no crops or edits beyond resizing/
 | Sip | `resources/icons/sip.png` | https://sipapp.io/assets/img/favicon/192x192.png (official site) |
 | Sketch | `resources/icons/sketch.png` | https://www.sketch.com/images/metadata/icon-180.png (official site) |
 | Skim | `resources/icons/skim.png` | https://skim-app.sourceforge.io/images/skim32.png (official site) |
+| TextDocket | `resources/icons/textdocket.png` | https://textdocket.app (official site app icon, 128×128 source downscaled to 48×48) |
 | Sleeve | `resources/icons/sleeve.png` | https://replay.software/sleeve/favicon-180.png (official site) |
 | SnipperApp 3 | `resources/icons/snipperapp-3.png` | https://snipperapp.com/app_icon_light.png (official site) |
 | Snippety | `resources/icons/snippety.png` | https://snippety.app/images/apple-touch-icon.png (official site) |
