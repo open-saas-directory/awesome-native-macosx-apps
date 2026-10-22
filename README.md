@@ -572,6 +572,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <td><strong><a href="https://github.com/inderdhir/DatWeatherDoe">DatWeatherDoe</a></strong><br><sub>Simple menu bar weather app. <code>Free</code> <code>Open Source</code></sub></td>
 </tr>
 <tr>
+<td width="64"><img src="resources/icons/dopamine.png" width="48" height="48" alt="Dopamine icon"></td>
+<td><strong><a href="https://dopamine.33rd.pro/">Dopamine</a></strong><br><sub>Keep Apple Silicon Mac awake with screen closed without baking your display. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
 <td width="64"><img src="resources/icons/dozer.png" width="48" height="48" alt="Dozer icon"></td>
 <td><strong><a href="https://github.com/Mortennn/Dozer">Dozer</a></strong><br><sub>Hide menu bar icons to give your Mac a cleaner look. <code>Free</code> <code>Open Source</code></sub></td>
 </tr>
