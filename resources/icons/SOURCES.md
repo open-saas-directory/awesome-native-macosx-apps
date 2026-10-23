@@ -126,6 +126,7 @@ Each icon was resized to 64x64px for display; no crops or edits beyond resizing/
 | Paste | `resources/icons/paste.png` | https://pasteapp.io/apple-icon.png?apple-icon.30lesxnlnsdqu.png (official site) |
 | Paw | `resources/icons/paw.png` | https://cdn-static.paw.cloud/img/favicons/apple-touch-icon-bca26f2b6a.png (official site) |
 | Pearcleaner | `resources/icons/pearcleaner.png` | https://pearcleaner.com/pear.ico (official site) |
+| Perch | `resources/icons/perch.png` | GitHub repo asafofer/perch — docs/assets/icon-256.png |
 | Permute | `resources/icons/permute.png` | https://software.charliemonroe.net/assets/img/favicon.png (official site) |
 | Pesty | `resources/icons/pesty.png` | https://www.moamenbasel.com/pesty/assets/icon.png (official site) |
 | Petrichor | `resources/icons/petrichor.png` | https://petrichor.page/images/apple-touch-icon.png (official site) |
