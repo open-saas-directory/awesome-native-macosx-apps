@@ -208,6 +208,9 @@ Each icon was resized to 64x64px for display; no crops or edits beyond resizing/
 | nvALT | `resources/icons/nvalt.png` | https://brettterpstra.com/favicon-180.png (official site) |
 | xScope | `resources/icons/xscope.png` | https://xscopeapp.com/apple-touch-icon.png (official site) |
 
+| CoolDock | `resources/icons/cooldock.png` | https://cooldock.app/favicon.png (official site) |
+| MacClean | `resources/icons/macclean.png` | https://thulem.com/assets/img/apple-touch-icon.png (official site) |
+
 ## Apps without a usable icon
 
 These apps are listed text-only in the README because no real, official icon could be sourced:
@@ -223,4 +226,3 @@ These apps are listed text-only in the README because no real, official icon cou
 | Pixave | official domain pixaveapp.com does not resolve (DNS failure) — appears defunct |
 | Quick Look plugins | entry represents a curated collection of many third-party plugins, not a single app — no single icon applies |
 | Thaw | stonerl/Thaw GitHub repo contains no app icon assets (repo has only 2 files) |
-| CoolDock | `resources/icons/cooldock.png` | https://cooldock.app/favicon.png (official site) |
