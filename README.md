@@ -345,6 +345,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <td><strong><a href="https://devutils.com/">DevUtils</a></strong><br><sub>All-in-one offline toolbox for developers (42+ tools). <code>Freemium</code></sub></td>
 </tr>
 <tr>
+<td width="64"><img src="resources/icons/lokstack.png" width="48" height="48" alt="Lokstack icon"></td>
+<td><strong><a href="https://lokstack.app">Lokstack</a></strong><br><sub>Local projects, ports, databases and containers in one window, with lanes for AI agents. <code>Freemium</code></sub></td>
+</tr>
+<tr>
 <td width="64"><img src="resources/icons/macsmith.png" width="48" height="48" alt="Macsmith icon"></td>
 <td><strong><a href="https://macsmith.app/">Macsmith</a></strong><br><sub>GUI for CLI dev tools like Homebrew, mise, nvm, Colima, and local databases. <code>Freemium</code></sub></td>
 </tr>
