@@ -173,6 +173,7 @@ Each icon was resized to 64x64px for display; no crops or edits beyond resizing/
 | TablePlus | `resources/icons/tableplus.png` | https://tableplus.com/resources/favicons/apple-icon-180x180.png (official site) |
 | TablePro | `resources/icons/tablepro.png` | https://tablepro.app/logo.png (official site) |
 | TaskPaper | `resources/icons/taskpaper.png` | https://www.taskpaper.com/favicon.ico (official site) |
+| Teclo | `resources/icons/teclo.png` | AppIcon.icns from https://teclo.app/download/Teclo.dmg (official download) |
 | Terminal | `resources/icons/terminal.png` | https://support.apple.com/favicon.ico (official site) |
 | TextMate | `resources/icons/textmate.png` | https://macromates.com/textmate/favicon.ico (official site) |
 | The Archive | `resources/icons/the-archive.png` | https://zettelkasten.de/favicon.ico (official site) |
