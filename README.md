@@ -190,6 +190,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <td width="64"><img src="resources/icons/soundsource.png" width="48" height="48" alt="SoundSource icon"></td>
 <td><strong><a href="https://rogueamoeba.com/soundsource/">SoundSource</a></strong><br><sub>Superior sound control for macOS. <code>Paid</code></sub></td>
 </tr>
+<tr>
+<td width="64"><img src="resources/icons/spatialaudio.png" width="48" height="48" alt="SpatialAudio icon"></td>
+<td><strong><a href="https://github.com/vladsboev-web/SpatialAudio">SpatialAudio</a></strong><br><sub>System-wide Apple HRTFHQ spatial soundstage for any headphones in the menu bar. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
 </table>
 
 ## Backup & Sync
