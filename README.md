@@ -833,6 +833,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <td><strong><a href="https://tot.rocks/">Tot</a></strong><br><sub>Elegant text collection on menu bar. <code>Freemium</code></sub></td>
 </tr>
 <tr>
+<td width="64"><img src="resources/icons/voxflow-pro.png" width="48" height="48" alt="VoxFlow Pro icon"></td>
+<td><strong><a href="https://bemooore.com/voxflow/mac/?utm_source=native_macos_apps">VoxFlow Pro</a></strong><br><sub>Hold a hotkey, talk, and text appears in any app. On-device WhisperKit, Apple Silicon and Intel. <code>Free</code> <code>EU</code></sub></td>
+</tr>
+<tr>
 <td width="64"><img src="resources/icons/speakmac.png" width="48" height="48" alt="Speakmac icon"></td>
 <td><strong><a href="https://www.speakmac.app/">Speakmac</a></strong><br><sub>Offline hotkey dictation for macOS that types into any app using on-device transcription. <code>One-Time Subscription</code></sub></td>
 </tr>
