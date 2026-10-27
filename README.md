@@ -203,6 +203,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <td width="64"><img src="resources/icons/carbon-copy-cloner.png" width="48" height="48" alt="Carbon Copy Cloner icon"></td>
 <td><strong><a href="https://bombich.com/">Carbon Copy Cloner</a></strong><br><sub>Reliable Mac backup and cloning solution. <code>Paid</code></sub></td>
 </tr>
+<tr>
+<td width="64"><img src="resources/icons/iphone-data-manager.png" width="48" height="48" alt="iPhone Data Manager icon"></td>
+<td><strong><a href="https://iphonedatamanager.com">iPhone Data Manager</a></strong><br><sub>Local iPhone backups, Data Time Machine diffing, and SHA-256 WhatsApp PDF exports. <code>Freemium</code></sub></td>
+</tr>
 </table>
 
 ## Browsers & Web
