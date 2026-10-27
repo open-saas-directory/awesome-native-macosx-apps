@@ -86,6 +86,18 @@ Get 5-10 handpicked native apps, hidden gems, and free/open-source picks deliver
 <td width="64"><img src="resources/icons/flow-diagram.png" width="48" height="48" alt="Flow Diagram icon"></td>
 <td><strong><a href="https://www.pointbluetech.com/flowdiagram/index.html?utm_source=awesome-native-macosx-apps&utm_medium=readme&utm_campaign=featured">Flow Diagram</a></strong><br><sub>Flow Diagram turns a messy photo or a quick sketch into a diagram you can edit, share and keep.</sub></td>
 </tr>
+<tr>
+<td width="64"><img src="resources/icons/fuse-caption-studio.png" width="48" height="48" alt="Fuse Caption Studio icon"></td>
+<td><strong><a href="https://fusecaptionstudio.com?utm_source=awesome-native-macosx-apps&utm_medium=readme&utm_campaign=featured">Fuse Caption Studio</a></strong><br><sub>Transcribes and translates media into editable captions with a video-editor-style timeline.</sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/strata-files.png" width="48" height="48" alt="Strata Files icon"></td>
+<td><strong><a href="https://stratafiles.app?utm_source=awesome-native-macosx-apps&utm_medium=readme&utm_campaign=featured">Strata Files</a></strong><br><sub>A free, open-source Finder alternative with instant search, folder sizes, and a disk usage map.</sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/dmgkit.png" width="48" height="48" alt="DMGKit icon"></td>
+<td><strong><a href="https://dmgkit.app?utm_source=awesome-native-macosx-apps&utm_medium=readme&utm_campaign=featured">DMGKit</a></strong><br><sub>Signs, notarizes, staples, and packages Mac apps into DMG or PKG installers, ready to share.</sub></td>
+</tr>
 </table>
 
 ---
