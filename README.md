@@ -163,6 +163,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <td><strong><a href="https://cog.losno.co/">Cog</a></strong><br><sub>Audio player for macOS with broad format support. <code>Free</code> <code>Open Source</code></sub></td>
 </tr>
 <tr>
+<td width="64"><img src="resources/icons/dot.png" width="48" height="48" alt="DOT icon"></td>
+<td><strong><a href="https://plastic.audio/dot/">DOT</a></strong><br><sub>Records any audio the Mac plays, no driver, with key, tempo and chords. <code>Freemium</code></sub></td>
+</tr>
+<tr>
 <td width="64"><img src="resources/icons/eqmac.png" width="48" height="48" alt="eqMac icon"></td>
 <td><strong><a href="https://eqmac.app/">eqMac</a></strong><br><sub>System-wide audio equalizer for macOS. <code>Free</code> <code>Open Source</code></sub></td>
 </tr>
