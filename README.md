@@ -245,6 +245,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <td width="64"><img src="resources/icons/meeting-bar.png" width="48" height="48" alt="Meeting Bar icon"></td>
 <td><strong><a href="https://github.com/leits/MeetingBar">Meeting Bar</a></strong><br><sub>Menu bar app for your calendar meetings. <code>Free</code> <code>Open Source</code></sub></td>
 </tr>
+<tr>
+<td width="64"><img src="resources/icons/umst.png" width="48" height="48" alt="UMST icon"></td>
+<td><strong><a href="https://nicoleyangcoding.github.io/UMST-UltimateMacSchedulingTool/">UMST</a></strong><br><sub>Desktop calendar widget combining Google, iCloud, Outlook, Reminders, Canvas and Todoist. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
 </table>
 
 ## Clipboard Managers
