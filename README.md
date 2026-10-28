@@ -580,6 +580,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <td><strong><a href="https://github.com/inderdhir/DatWeatherDoe">DatWeatherDoe</a></strong><br><sub>Simple menu bar weather app. <code>Free</code> <code>Open Source</code></sub></td>
 </tr>
 <tr>
+<td width="64"><img src="resources/icons/dimmerly.png" width="48" height="48" alt="Dimmerly icon"></td>
+<td><strong><a href="https://dimmerly.olujic.in.rs/">Dimmerly</a></strong><br><sub>Control external monitor brightness, warmth, contrast, and volume from the menu bar. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
 <td width="64"><img src="resources/icons/dozer.png" width="48" height="48" alt="Dozer icon"></td>
 <td><strong><a href="https://github.com/Mortennn/Dozer">Dozer</a></strong><br><sub>Hide menu bar icons to give your Mac a cleaner look. <code>Free</code> <code>Open Source</code></sub></td>
 </tr>

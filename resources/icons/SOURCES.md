@@ -43,6 +43,7 @@ Each icon was resized to 64x64px for display; no crops or edits beyond resizing/
 | DevCleaner | `resources/icons/devcleaner.png` | GitHub repo vashpan/xcode-dev-cleaner — DevCleaner/Resources/Assets.xcassets/DevCleanerIcon.imageset/DevCleaner Icon - Tahoe-macOS-Default-256x256@2x.png |
 | Device Hub Pro | `resources/icons/device-hub-pro.png` | GitHub repo gitemre/device-hub-pro — docs/assets/icon-256.png (scaled to 64 px) |
 | DevUtils | `resources/icons/devutils.png` | https://devutils.com/apple.png (official site) |
+| Dimmerly | `resources/icons/dimmerly.png` | https://dimmerly.olujic.in.rs/assets/dimmerly-icon.png (official site) |
 | DisplayBuddy | `resources/icons/displaybuddy.png` | https://displaybuddy.app/images/apple-touch-icon.png (official site) |
 | Divvy | `resources/icons/divvy.png` | https://mizage.com/favicon-152.png (official site) |
 | DMGKit | `resources/icons/dmgkit.png` | https://assets.macnative.io/logo/a99887e3-932d-4098-8867-d96e01474233.png (MacNative.io listing) |
