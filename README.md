@@ -936,6 +936,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <td><strong><a href="https://github.com/AppHouseKitchen/AlDente-Charge-Limiter">AlDente</a></strong><br><sub>Charge limiter to extend MacBook battery life. <code>Freemium</code> <code>Open Source</code></sub></td>
 </tr>
 <tr>
+<td width="64"><img src="resources/icons/aion.png" width="48" height="48" alt="Aion icon"></td>
+<td><strong><a href="https://aion.7caifei.com/?utm_source=macnative&utm_medium=directory&utm_campaign=aion-distribution-2026-10">Aion</a></strong><br><sub>Automatically quit idle Mac apps without interrupting active work. <code>Freemium</code></sub></td>
+</tr>
+<tr>
 <td width="64"></td>
 <td><strong><a href="https://freemacsoft.net/appcleaner/">AppCleaner</a></strong><br><sub>Thoroughly uninstall unwanted apps. <code>Free</code></sub></td>
 </tr>
