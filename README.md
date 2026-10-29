@@ -1145,7 +1145,7 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 </tr>
 <tr>
 <td width="64"><img src="resources/icons/open-contexts.png" width="48" height="48" alt="Open Contexts icon"></td>
-<td><strong><a href="https://opencontexts.zshnb.com/">Open Contexts</a></strong><br><sub>Window switcher with customizable shortcuts, an app bar, and saved window groups. <code>Free</code> <code>Open Source</code></sub></td>
+<td><strong><a href="https://opencontexts.app/">Open Contexts</a></strong><br><sub>Window switcher with customizable shortcuts, an app bar, and saved window groups. <code>Free</code> <code>Open Source</code></sub></td>
 </tr>
 <tr>
 <td width="64"><img src="resources/icons/rectangle.png" width="48" height="48" alt="Rectangle icon"></td>
