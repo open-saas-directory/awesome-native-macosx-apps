@@ -458,6 +458,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <td><strong><a href="https://github.com/sindresorhus/quick-look-plugins">Quick Look plugins</a></strong><br><sub>Useful Quick Look plugins for developers. <code>Free</code> <code>Open Source</code></sub></td>
 </tr>
 <tr>
+<td width="64"><img src="resources/icons/satf.png" width="48" height="48" alt="SATF icon"></td>
+<td><strong><a href="https://github.com/tran-minh-khoi/SATF">SATF</a></strong><br><sub>Shake a dragged file to convert, merge, zip, or extract it from a radial menu. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
 <td width="64"><img src="resources/icons/encrypto.png" width="48" height="48" alt="Encrypto icon"></td>
 <td><strong><a href="https://macpaw.com/encrypto">Encrypto</a></strong><br><sub>Encrypt files with AES-256 encryption. <code>Free</code></sub></td>
 </tr>
