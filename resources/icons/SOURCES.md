@@ -229,3 +229,4 @@ These apps are listed text-only in the README because no real, official icon cou
 | Quick Look plugins | entry represents a curated collection of many third-party plugins, not a single app — no single icon applies |
 | Thaw | stonerl/Thaw GitHub repo contains no app icon assets (repo has only 2 files) |
 | CoolDock | `resources/icons/cooldock.png` | https://cooldock.app/favicon.png (official site) |
+| Halopen | `resources/icons/halopen.png` | https://halopen.com/icon-512.png (official site; 256 px app-bundle icon) |

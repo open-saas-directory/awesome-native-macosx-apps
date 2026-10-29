@@ -805,6 +805,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <td><strong><a href="https://heyfocus.com/">Focus</a></strong><br><sub>Block distracting websites and applications. <code>Paid</code></sub></td>
 </tr>
 <tr>
+<td width="64"><img src="resources/icons/halopen.png" width="48" height="48" alt="Halopen icon"></td>
+<td><strong><a href="https://halopen.com">Halopen</a></strong><br><sub>Hold-to-talk menu bar dictation that types what you said, verbatim, at the cursor. On-device mode. <code>Paid</code></sub></td>
+</tr>
+<tr>
 <td width="64"><img src="resources/icons/keyboard-maestro.png" width="48" height="48" alt="Keyboard Maestro icon"></td>
 <td><strong><a href="https://www.keyboardmaestro.com/">Keyboard Maestro</a></strong><br><sub>Automate applications and websites. <code>Paid</code></sub></td>
 </tr>
