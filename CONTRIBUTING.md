@@ -19,7 +19,7 @@ Thanks for helping improve this list!
 
 ## Entry Format
 
-Submit your app **once**, in the English `README.md`. You do not need to translate your listing or edit the localized READMEs. Maintainers handle translation updates. If you prefer an issue, use [Suggest an App](https://github.com/open-saas-directory/awesome-native-macosx-apps/issues/new?template=app-submission.md); suggestions in English, Arabic, Simplified Chinese, Japanese, or German are welcome. Include the app name, official URL, category, pricing, a short description, and evidence that it is native.
+Submit your app **once**, in the English `README.md`. You do not need to translate your listing or edit the localized READMEs. Maintainers handle translation updates. If you prefer an issue, use [Suggest an App](https://github.com/open-saas-directory/awesome-native-macosx-apps/issues/new?template=app-submission.md); suggestions in English, Arabic, Simplified Chinese, Japanese, German, or Spanish are welcome. Include the app name, official URL, category, pricing, a short description, and evidence that it is native.
 
 Each category is an HTML table of icon-led, two-line rows. Add your app as one `<tr>`, in alphabetical order within the category:
 
@@ -48,9 +48,9 @@ Open an issue first — explain why it's needed, what apps would go in it, and h
 
 ## Translations (for Maintainers and Translators)
 
-No translation API or service is required. When reviewing app changes, ask Codex: "Update all four README translations for the current English README, regenerate them, and check that the app listings and links match." Codex updates the translation catalogs; the script below rebuilds the files but does not perform AI translation itself.
+No translation API or service is required. When reviewing app changes, ask Codex: "Update all README translations for the current English README, regenerate them, and check that the app listings and links match." Codex updates the translation catalogs; the script below rebuilds the files but does not perform AI translation itself.
 
-English `README.md` is the source of truth for apps, order, links, icons, pricing, and sponsorships. `README.ar.md`, `README.zh-CN.md`, `README.ja.md`, and `README.de.md` are generated; do not edit them directly.
+English `README.md` is the source of truth for apps, order, links, icons, pricing, and sponsorships. `README.ar.md`, `README.zh-CN.md`, `README.ja.md`, `README.de.md`, and `README.es.md` are generated; do not edit them directly.
 
 1. Review and merge app submissions against the English README. Contributors do not need to edit translation files.
 2. Run `python3 scripts/sync-translations.py --report`. New or changed text falls back to English in every translated list, so an app is never omitted while translation is pending.

@@ -12,8 +12,8 @@ from pathlib import Path
 import re
 
 ROOT = Path(__file__).resolve().parent.parent
-LOCALES = ('ar', 'zh-CN', 'ja', 'de')
-SELECTOR = '[English](README.md) · [العربية](README.ar.md) · [简体中文](README.zh-CN.md) · [日本語](README.ja.md) · [Deutsch](README.de.md)'
+LOCALES = ('ar', 'zh-CN', 'ja', 'de', 'es')
+SELECTOR = '[English](README.md) · [العربية](README.ar.md) · [简体中文](README.zh-CN.md) · [日本語](README.ja.md) · [Deutsch](README.de.md) · [Español](README.es.md)'
 LINK = re.compile(r'(!?)\[([^\]]*)\]\(([^\s]+?)\)')
 HTML = re.compile(r'(<[^>]*>)')
 
@@ -64,7 +64,7 @@ def render(source, locale, catalog):
                 label = match[1]
                 if label.endswith(' icon'):
                     name = label[:-5]
-                    label = catalog['icon'] + ' ' + name if locale == 'ar' else name + ' ' + catalog['icon']
+                    label = catalog['icon'] + ' ' + name if locale in ('ar', 'es') else name + ' ' + catalog['icon']
                 else:
                     label = catalog.get(label, label)
                 return 'alt="' + html.escape(label, quote=True) + '"'
