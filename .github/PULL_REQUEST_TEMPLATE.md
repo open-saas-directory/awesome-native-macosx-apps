@@ -12,6 +12,8 @@
 
 ## App Details (if adding new app)
 
+<!-- Add your listing only to the English README.md. Maintainers handle all translations; you do not need to edit localized READMEs or translation catalogs. -->
+
 **App Name:**  
 **Category:**  
 **Website:**  

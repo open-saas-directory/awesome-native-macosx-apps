@@ -8,6 +8,8 @@ assignees: ''
 
 ## 📱 App Information
 
+Submit your app once using this form. English, العربية, 简体中文, 日本語, and Deutsch are welcome. Maintainers will review the app and handle the English listing and translations; you do not need to translate it yourself.
+
 **App Name:**  
 <!-- e.g., IINA, Rectangle, Maccy -->
 

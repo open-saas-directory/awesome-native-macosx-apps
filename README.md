@@ -1,5 +1,9 @@
 # Best Mac Apps (2026) — Native macOS Apps
 
+[English](README.md) · [العربية](README.ar.md) · [简体中文](README.zh-CN.md) · [日本語](README.ja.md) · [Deutsch](README.de.md)
+
+**Want to add an app?** [Suggest an app](https://github.com/open-saas-directory/awesome-native-macosx-apps/issues/new?template=app-submission.md) or follow the [contribution guide](CONTRIBUTING.md). Add it once to the English README; maintainers handle translations. Suggestions in any of the listed languages are welcome.
+
 Discover high-quality macOS apps built with Swift, SwiftUI, and AppKit — fast, lightweight, and made for your Mac.
 
 <p align="center">
