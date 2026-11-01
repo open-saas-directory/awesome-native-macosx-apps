@@ -86,6 +86,10 @@ Sponsored by apps on the [MacNative Pro plan](https://macnative.io/pricing). Nat
 <td width="64"><img src="resources/icons/dmgkit.png" width="48" height="48" alt="DMGKit icon"></td>
 <td><strong><a href="https://dmgkit.app?utm_source=awesome-native-macosx-apps&utm_medium=readme&utm_campaign=featured">DMGKit</a></strong><br><sub>Signs, notarizes, staples, and packages Mac apps into DMG or PKG installers, ready to share.</sub></td>
 </tr>
+<tr>
+<td width="64"><img src="resources/icons/footages.png" width="48" height="48" alt="Footages icon"></td>
+<td><strong><a href="https://footages.somenkov.com?utm_source=awesome-native-macosx-apps&utm_medium=readme&utm_campaign=featured">Footages</a></strong><br><sub>Video organizer for Mac: import camera cards safely and keep every clip across all your drives in one library.</sub></td>
+</tr>
 </table>
 
 ---
