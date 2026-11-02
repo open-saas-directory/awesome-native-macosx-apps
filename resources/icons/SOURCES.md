@@ -195,6 +195,7 @@ Each icon was resized to 64x64px for display; no crops or edits beyond resizing/
 | VLC | `resources/icons/vlc.png` | https://images.videolan.org/images/favicon.ico (official site) |
 | Vibedock | `resources/icons/vibedock.png` | https://vibedock.dev/icon.png (official site) |
 | VimR | `resources/icons/vimr.png` | https://twitter.com/apple-touch-icon.png (official site) |
+| Visola | `resources/icons/visola.png` | https://visola.app/assets/icon-128.png (official site, scaled to 64 px) |
 | Wallspace | `resources/icons/wallspace.png` | https://s4.wallspace.app/assets/logo.png (official site) |
 | Warp | `resources/icons/warp.png` | https://www.warp.dev/apple-touch-icon-180x180.png (official site) |
 | WiFi Explorer | `resources/icons/wifi-explorer.png` | https://www.intuitibits.com/wp-content/uploads/2026/07/intuitibits-apple-touch-180x180-1.png (official site) |
