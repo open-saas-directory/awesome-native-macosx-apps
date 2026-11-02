@@ -577,6 +577,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <td><strong><a href="https://www.macbartender.com/">Bartender</a></strong><br><sub>Organize your menu bar icons. <code>Paid</code></sub></td>
 </tr>
 <tr>
+<td width="64"><img src="resources/icons/cockpit.png" width="48" height="48" alt="Cockpit icon"></td>
+<td><strong><a href="https://yorben.me/#cockpit">Cockpit</a></strong><br><sub>Open-source daily productivity heads-up display and menu bar workspace dashboard. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
 <td width="64"><img src="resources/icons/commitments.png" width="48" height="48" alt="Commitments icon"></td>
 <td><strong><a href="https://commitments.pages.dev/">Commitments</a></strong><br><sub>Your tasks in menu bar. <code>Paid</code></sub></td>
 </tr>
@@ -781,6 +785,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <tr>
 <td width="64"><img src="resources/icons/pdfpenpro.png" width="48" height="48" alt="PDFpenPro icon"></td>
 <td><strong><a href="https://pdfpen.com/">PDFpenPro</a></strong><br><sub>Professional PDF editing for Mac. <code>Paid</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/rime.png" width="48" height="48" alt="Rime icon"></td>
+<td><strong><a href="https://yorben.me/#rime">Rime</a></strong><br><sub>Minimalist distraction-free PDF reader with frosted-ice focus backdrop. <code>Free</code> <code>Open Source</code></sub></td>
 </tr>
 <tr>
 <td width="64"><img src="resources/icons/skim.png" width="48" height="48" alt="Skim icon"></td>
