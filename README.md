@@ -151,6 +151,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <td width="64"><img src="resources/icons/usage.png" width="48" height="48" alt="Usage icon"></td>
 <td><strong><a href="https://usage.pro">Usage</a></strong><br><sub>System activity monitor for macOS, iOS, and iPadOS. <code>Freemium</code></sub></td>
 </tr>
+<tr>
+<td width="64"><img src="resources/icons/visola.png" width="48" height="48" alt="Visola icon"></td>
+<td><strong><a href="https://visola.app">Visola</a></strong><br><sub>Google Search Console and Bing Webmaster Tools data, with widgets and alerts. <code>Paid</code></sub></td>
+</tr>
 </table>
 
 ## Audio & Music
