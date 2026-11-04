@@ -1176,6 +1176,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <td><strong><a href="https://manytricks.com/moom/">Moom</a></strong><br><sub>Move and zoom windows with ease. <code>Paid</code></sub></td>
 </tr>
 <tr>
+<td width="64"><img src="resources/icons/multiscreendock.png" width="48" height="48" alt="MultiScreenDock icon"></td>
+<td><strong><a href="https://multiscreendock.fgomsan.here.now/">MultiScreenDock</a></strong><br><sub>Mirrors the live macOS Dock across all connected displays, including stacked rows. <code>Free</code> <code>Open Source</code> <code>EU</code></sub></td>
+</tr>
+<tr>
 <td width="64"></td>
 <td><strong><a href="https://nudge.run">Nudge</a></strong><br><sub>Free window manager with keyboard shortcuts and drag-to-edge snapping. <code>Free</code> <code>Open Source</code></sub></td>
 </tr>
