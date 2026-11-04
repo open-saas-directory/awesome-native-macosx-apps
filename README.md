@@ -297,6 +297,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 
 <table>
 <tr>
+<td width="64"><img src="resources/icons/mad-designer.png" width="48" height="48" alt="MAD Designer icon"></td>
+<td><strong><a href="https://github.com/mthomason/MAD">MAD Designer</a></strong><br><sub>Native SQL query builder and banded report designer for four databases. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
 <td width="64"><img src="resources/icons/postico.png" width="48" height="48" alt="Postico icon"></td>
 <td><strong><a href="https://eggerapps.at/postico2/">Postico</a></strong><br><sub>Modern PostgreSQL client for macOS. <code>Paid</code> <code>EU</code></sub></td>
 </tr>
