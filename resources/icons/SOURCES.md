@@ -145,6 +145,7 @@ Each icon was resized to 64x64px for display; no crops or edits beyond resizing/
 | Roam FM | `resources/icons/roam-fm.png` | https://roamfm.app/app-icon-256.png (official site) |
 | RocketSim | `resources/icons/rocketsim.png` | https://www.rocketsim.app/apple-touch-icon.png (official site) |
 | Rockxy | `resources/icons/rockxy.png` | https://rockxy.io/assets/images/logo-64.png (official site) |
+| SATF | `resources/icons/satf.png` | https://github.com/tran-minh-khoi/SATF/blob/main/assets/logo.png (official repo, supplied by the developer) |
 | SF Symbols | `resources/icons/sf-symbols.png` | https://developer.apple.com/favicon.ico (official site) |
 | SSH Keys Manager | `resources/icons/ssh-keys-manager.png` | GitHub repo Stmol/ssh-keys-manager-macos-app — SSH Keys Manager/Assets.xcassets/AppIcon.appiconset/icon_256x256.png |
 | SaneBar | `resources/icons/sanebar.png` | https://sanebar.com/apple-touch-icon.png (official site) |
