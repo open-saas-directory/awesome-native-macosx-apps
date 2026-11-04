@@ -720,6 +720,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <td><strong><a href="https://ia.net/writer">iA Writer</a></strong><br><sub>Focused writing app with beautiful typography. <code>Paid</code></sub></td>
 </tr>
 <tr>
+<td width="64"><img src="resources/icons/loam.png" width="48" height="48" alt="Loam icon"></td>
+<td><strong><a href="https://loam.md">Loam</a></strong><br><sub>Markdown notebook where every feature is a plugin. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
 <td width="64"><img src="resources/icons/notational-velocity.png" width="48" height="48" alt="Notational Velocity icon"></td>
 <td><strong><a href="http://notational.net/">Notational Velocity</a></strong><br><sub>Modeless note-taking application. <code>Free</code> <code>Open Source</code></sub></td>
 </tr>
