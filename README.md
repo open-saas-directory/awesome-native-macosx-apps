@@ -3,7 +3,7 @@
 Discover high-quality macOS apps built with Swift, SwiftUI, and AppKit — fast, lightweight, and made for your Mac.
 
 <p align="center">
-  <a href="https://nativemacapps.substack.com/"><img src="resources/header-cards/newsletter.svg" width="32%" alt="Newsletter: Native apps, in your inbox. Subscribe →"></a>
+  <a href="https://macnative.substack.com/"><img src="resources/header-cards/newsletter.svg" width="32%" alt="Newsletter: Native apps, in your inbox. Subscribe →"></a>
   <a href="https://macnative.io/?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=native_apps_list&amp;utm_content=readme_header"><img src="resources/header-cards/directory.svg" width="32%" alt="MacNative.io: Find your next favorite app. Explore the website →"></a>
   <a href="https://macnative.io/submit"><img src="resources/header-cards/submit.svg" width="32%" alt="Submit your app: Built something for Mac? Submit your app →"></a>
 </p>
@@ -85,6 +85,10 @@ Sponsored by apps on the [MacNative Pro plan](https://macnative.io/pricing). Nat
 <tr>
 <td width="64"><img src="resources/icons/dmgkit.png" width="48" height="48" alt="DMGKit icon"></td>
 <td><strong><a href="https://dmgkit.app?utm_source=awesome-native-macosx-apps&utm_medium=readme&utm_campaign=featured">DMGKit</a></strong><br><sub>Signs, notarizes, staples, and packages Mac apps into DMG or PKG installers, ready to share.</sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/footages.png" width="48" height="48" alt="Footages icon"></td>
+<td><strong><a href="https://footages.somenkov.com?utm_source=awesome-native-macosx-apps&utm_medium=readme&utm_campaign=featured">Footages</a></strong><br><sub>Video organizer for Mac: import camera cards safely and keep every clip across all your drives in one library.</sub></td>
 </tr>
 </table>
 
@@ -714,6 +718,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <tr>
 <td width="64"><img src="resources/icons/ia-writer.png" width="48" height="48" alt="iA Writer icon"></td>
 <td><strong><a href="https://ia.net/writer">iA Writer</a></strong><br><sub>Focused writing app with beautiful typography. <code>Paid</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/loam.png" width="48" height="48" alt="Loam icon"></td>
+<td><strong><a href="https://loam.md">Loam</a></strong><br><sub>Markdown notebook where every feature is a plugin. <code>Free</code> <code>Open Source</code></sub></td>
 </tr>
 <tr>
 <td width="64"><img src="resources/icons/notational-velocity.png" width="48" height="48" alt="Notational Velocity icon"></td>
