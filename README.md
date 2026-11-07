@@ -450,6 +450,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <td><strong><a href="https://www.noodlesoft.com/">Hazel</a></strong><br><sub>Automated organization for your Mac. <code>Paid</code></sub></td>
 </tr>
 <tr>
+<td width="64"><img src="resources/icons/iruka.png" width="48" height="48" alt="Iruka icon"></td>
+<td><strong><a href="https://iruka.sh">Iruka</a></strong><br><sub>Native file manager with dual panes, previews, and a terminal that follows your folder. <code>Paid</code></sub></td>
+</tr>
+<tr>
 <td width="64"><img src="resources/icons/namequick.png" width="48" height="48" alt="NameQuick icon"></td>
 <td><strong><a href="https://www.namequick.app">NameQuick</a></strong><br><sub>AI-powered file renaming using GPT, Gemini, or local LLMs. <code>Paid</code></sub></td>
 </tr>
