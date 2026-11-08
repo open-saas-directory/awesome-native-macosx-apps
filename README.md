@@ -433,6 +433,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <td width="64"><img src="resources/icons/subscription-day.png" width="48" height="48" alt="Subscription Day icon"></td>
 <td><strong><a href="https://subsday.appps.od.ua/">Subscription Day</a></strong><br><sub>Track your paid subscriptions and analyze spending statistics. <code>Freemium</code></sub></td>
 </tr>
+<tr>
+<td width="64"><img src="resources/icons/tape.png" width="48" height="48" alt="Tape icon"></td>
+<td><strong><a href="https://github.com/Yvsleyen00941/Tape">Tape</a></strong><br><sub>Stock ticker in the empty corner beside the Dock. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
 </table>
 
 ## File Management
