@@ -968,6 +968,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <td><strong><a href="https://daisydiskapp.com/">DaisyDisk</a></strong><br><sub>Analyze disk usage and free up space. <code>Paid</code></sub></td>
 </tr>
 <tr>
+<td width="64"><img src="resources/icons/diskfern.png" width="48" height="48" alt="Diskfern icon"></td>
+<td><strong><a href="https://www.diskfern.com/">Diskfern</a></strong><br><sub>Visual disk analyzer with 44 Smart Highlights, developer storage discovery, and guided cleanup. <code>Freemium</code></sub></td>
+</tr>
+<tr>
 <td width="64"><img src="resources/icons/monitorcontrol.png" width="48" height="48" alt="MonitorControl icon"></td>
 <td><strong><a href="https://github.com/MonitorControl/MonitorControl">MonitorControl</a></strong><br><sub>Control external monitor brightness & volume like native displays. <code>Free</code> <code>Open Source</code></sub></td>
 </tr>
