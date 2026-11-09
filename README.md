@@ -154,6 +154,7 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 </table>
 
 ## Audio & Music
+- [Needle](https://github.com/Yvsleyen00941/Needle) - Native SwiftUI/AppKit Now Playing companion beside the Dock.
 
 [Browse audio and voice apps on MacNative →](https://macnative.io/categories/audio-voice?utm_source=github&utm_medium=referral&utm_campaign=native_apps_list&utm_content=category_audio-voice)
 
