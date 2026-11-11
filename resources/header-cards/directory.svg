@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="230" viewBox="0 0 360 230" role="img" aria-labelledby="title desc">
+<title id="title">MacNative.io — Explore the website</title><desc id="desc">Find your next favorite app. Explore the curated Mac directory.</desc>
+<rect x="1" y="1" width="358" height="228" rx="20" fill="#edf3ff" stroke="#cddcfa"/>
+<g transform="translate(26 25)" fill="none" stroke="#235fc5" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="1" y="2" width="22" height="16" rx="3"/><path d="M8 22h8M12 18v4M2 7h20"/></g>
+<text x="26" y="93" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="25" font-weight="700" fill="#182c36">MacNative.io</text>
+<text x="26" y="123" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#45515d">Find your next favorite app.</text>
+<text x="26" y="145" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="400" fill="#45515d">Explore the curated Mac directory.</text>
+<rect x="24" y="169" width="312" height="40" rx="10" fill="#235fc5"/>
+<text x="40" y="195" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="650" fill="#ffffff">Explore the website</text>
+<text x="305" y="195" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="500" fill="#ffffff">→</text>
+</svg>

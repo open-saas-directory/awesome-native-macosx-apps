@@ -1,87 +1,96 @@
-#  Best MacOS Apps (2026) — Fast, Lightweight, No Electron (2026)
+# Best Mac Apps (2026) — Native macOS Apps
 
-[![Follow on X](https://img.shields.io/badge/X-%40Best__MacApps-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/best_macapps) [![Join Telegram](https://img.shields.io/badge/Telegram-mac__native-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mac_native) [![Subscribe on Substack](https://img.shields.io/badge/Substack-Subscribe-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://nativemacapps.substack.com/)
+Discover high-quality macOS apps built with Swift, SwiftUI, and AppKit — fast, lightweight, and made for your Mac.
 
-Discover high-quality macOS apps built with native technologies (Swift, SwiftUI, AppKit) that are fast, efficient, and respect your Mac's resources. This list focuses on apps that feel like they belong on macOS — no Electron bloat, just pure native performance.
+<p align="center">
+  <a href="https://macnative.substack.com/"><img src="resources/header-cards/newsletter.svg" width="32%" alt="Newsletter: Native apps, in your inbox. Subscribe →"></a>
+  <a href="https://macnative.io/?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=native_apps_list&amp;utm_content=readme_header"><img src="resources/header-cards/directory.svg" width="32%" alt="MacNative.io: Find your next favorite app. Explore the website →"></a>
+  <a href="https://macnative.io/submit"><img src="resources/header-cards/submit.svg" width="32%" alt="Submit your app: Built something for Mac? Submit your app →"></a>
+</p>
 
-Maintained by [MacNative.io](https://macnative.io), a curated directory of quality mac apps.
-
-
-## 📬 Get Monthly Native App Picks in Your Inbox
-
-Subscribe to our newsletter and get 5-10 handpicked native macOS apps delivered monthly.
-
-**What you'll get:**
-
-- 🎯 Curated native apps (no Electron bloat)
-- 💎 Hidden gems you won't find elsewhere
-- 🆓 Free & open-source alternatives
-- 📊 App comparisons & recommendations
-- 🔧 Tips for getting the most out of your Mac
-
-📖 **[Subscribe to the Newsletter →](https://nativemacapps.substack.com/)**
-
-_Join early subscribers and never miss a great native Mac app again. Unsubscribe anytime._
-
+Curated by [MacNative.io](https://macnative.io/) — discover more great Mac apps in our directory.
 
 ---
 
 ## Contents
 
-**Getting Started**
-- [What Makes an App "Native"?](#what-makes-an-app-native)
-- [Electron App Detector](#-electron-app-detector)
-- [New to Mac? Start Here](#-new-to-mac-start-here)
-
 **Categories**
-- [Analytics & Monitoring](#analytics--monitoring)
-- [Audio & Music](#audio--music)
-- [Backup & Sync](#backup--sync)
-- [Browsers & Web](#browsers--web)
-- [Calendar & Time](#calendar--time)
-- [Clipboard Managers](#clipboard-managers)
-- [Color Pickers](#color-pickers)
-- [Database Tools](#database-tools)
-- [Design Tools](#design-tools)
-- [Developer Tools](#developer-tools)
-- [Email & Communication](#email--communication)
-- [Finance](#finance)
-- [File Management](#file-management)
-- [Git & Version Control](#git--version-control)
-- [Image & Graphics](#image--graphics)
-- [Markdown Editors](#markdown-editors)
-- [Menu Bar Apps](#menu-bar-apps)
-- [Network Tools](#network-tools)
-- [Note-Taking & Writing](#note-taking--writing)
-- [Password Managers](#password-managers)
-- [PDF Tools](#pdf-tools)
-- [Productivity](#productivity)
-- [Screenshot & Recording](#screenshot--recording)
-- [Security & Privacy](#security--privacy)
-- [System Utilities](#system-utilities)
-- [Terminal & Shell](#terminal--shell)
-- [Text Editors](#text-editors)
-- [Video & Media](#video--media)
-- [Wallpaper Apps](#wallpaper-apps)
-- [Window Management](#window-management)
-
-**Resources**
-- [Contributing](#contributing)
-- [Star History](#star-history)
-- [License](#license)
+- 🤖 [AI Tools](#ai-tools)
+- 📊 [Analytics & Monitoring](#analytics--monitoring)
+- 🎵 [Audio & Music](#audio--music)
+- 💾 [Backup & Sync](#backup--sync)
+- 🌐 [Browsers & Web](#browsers--web)
+- 📅 [Calendar & Time](#calendar--time)
+- 📋 [Clipboard Managers](#clipboard-managers)
+- 🎨 [Color Pickers](#color-pickers)
+- 🗄️ [Database Tools](#database-tools)
+- 🖌️ [Design Tools](#design-tools)
+- 👨‍💻 [Developer Tools](#developer-tools)
+- ✉️ [Email & Communication](#email--communication)
+- 💰 [Finance](#finance)
+- 🗂️ [File Management](#file-management)
+- 🔀 [Git & Version Control](#git--version-control)
+- 🖼️ [Image & Graphics](#image--graphics)
+- 📝 [Markdown Editors](#markdown-editors)
+- 📌 [Menu Bar Apps](#menu-bar-apps)
+- 📡 [Network Tools](#network-tools)
+- 🗒️ [Note-Taking & Writing](#note-taking--writing)
+- 🔐 [Password Managers](#password-managers)
+- 📄 [PDF Tools](#pdf-tools)
+- ⚡ [Productivity](#productivity)
+- 📸 [Screenshot & Recording](#screenshot--recording)
+- 🛡️ [Security & Privacy](#security--privacy)
+- 🛠️ [System Utilities](#system-utilities)
+- 💻 [Terminal & Shell](#terminal--shell)
+- ✍️ [Text Editors](#text-editors)
+- 🎬 [Video & Media](#video--media)
+- 🌄 [Wallpaper Apps](#wallpaper-apps)
+- 🪟 [Window Management](#window-management)
 
 ---
 
 ### What Makes an App "Native"?
 
-Apps on this list are:
+Only native Mac apps belong on this list: built with macOS frameworks such as SwiftUI and AppKit, using Swift or Objective-C, and designed to feel at home on your Mac.
 
-- ✅ Built with native macOS frameworks (Swift, SwiftUI, AppKit, Objective-C)
-- ✅ Lightweight and resource-efficient
-- ✅ Follow Apple's Human Interface Guidelines
-- ✅ Feel fast and responsive
-- ❌ NOT Electron or web-wrapper apps
-- ❌ NOT resource-heavy cross-platform apps
+Electron apps and web wrappers are not eligible. These requirements apply to every listing, including sponsored placements.
+
+---
+
+## ⭐ Spotlight
+
+Sponsored by apps on the [MacNative Pro plan](https://macnative.io/pricing). Native apps only.
+
+<table>
+<tr>
+<td width="64"><img src="resources/icons/sidenotes.png" width="48" height="48" alt="SideNotes icon"></td>
+<td><strong><a href="https://www.apptorium.com/sidenotes?utm_source=awesome-native-macosx-apps&utm_medium=readme&utm_campaign=featured">SideNotes</a></strong><br><sub>Native macOS notes that slide out from your screen edge to capture tasks, links, and snippets.</sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/notchlight.png" width="48" height="48" alt="Notchlight icon"></td>
+<td><strong><a href="https://notchlight.com?utm_source=awesome-native-macosx-apps&utm_medium=readme&utm_campaign=featured">Notchlight</a></strong><br><sub>Live widgets on your Mac's lock screen and a Dynamic Island in the notch for music, calls, and trips.</sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/flow-diagram.png" width="48" height="48" alt="Flow Diagram icon"></td>
+<td><strong><a href="https://www.pointbluetech.com/flowdiagram/index.html?utm_source=awesome-native-macosx-apps&utm_medium=readme&utm_campaign=featured">Flow Diagram</a></strong><br><sub>Flow Diagram turns a messy photo or a quick sketch into a diagram you can edit, share and keep.</sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/fuse-caption-studio.png" width="48" height="48" alt="Fuse Caption Studio icon"></td>
+<td><strong><a href="https://fusecaptionstudio.com?utm_source=awesome-native-macosx-apps&utm_medium=readme&utm_campaign=featured">Fuse Caption Studio</a></strong><br><sub>Transcribes and translates media into editable captions with a video-editor-style timeline.</sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/strata-files.png" width="48" height="48" alt="Strata Files icon"></td>
+<td><strong><a href="https://stratafiles.app?utm_source=awesome-native-macosx-apps&utm_medium=readme&utm_campaign=featured">Strata Files</a></strong><br><sub>A free, open-source Finder alternative with instant search, folder sizes, and a disk usage map.</sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/dmgkit.png" width="48" height="48" alt="DMGKit icon"></td>
+<td><strong><a href="https://dmgkit.app?utm_source=awesome-native-macosx-apps&utm_medium=readme&utm_campaign=featured">DMGKit</a></strong><br><sub>Signs, notarizes, staples, and packages Mac apps into DMG or PKG installers, ready to share.</sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/footages.png" width="48" height="48" alt="Footages icon"></td>
+<td><strong><a href="https://footages.somenkov.com?utm_source=awesome-native-macosx-apps&utm_medium=readme&utm_campaign=featured">Footages</a></strong><br><sub>Video organizer for Mac: import camera cards safely and keep every clip across all your drives in one library.</sub></td>
+</tr>
+</table>
 
 ---
 
@@ -89,401 +98,1154 @@ Apps on this list are:
 
 Not sure where to begin? These 6 apps are the most universally useful — install them first and thank yourself later.
 
-| App | Why it's essential |
-|-----|--------------------|
-| [Rectangle](https://rectangleapp.com/) | Snap windows into place with keyboard shortcuts. You'll use this every single day. |
-| [Maccy](https://github.com/p0deje/Maccy) | Clipboard history that just works. Never lose a copied item again. |
-| [IINA](https://iina.io/) | Plays any video format natively. Makes QuickTime feel like a toy. |
-| [AppCleaner](https://freemacsoft.net/appcleaner/) | Uninstall apps properly — removes all leftover files, not just the `.app`. |
-| [iTerm2](https://iterm2.com/) | The terminal macOS should have shipped with. Tabs, split panes, search, and more. |
-| [Raycast](https://www.raycast.com/) | Supercharged Spotlight replacement. Launch apps, manage clipboard, run scripts, and more — all from one keystroke. |
+<table>
+<tr>
+<td width="64"><img src="resources/icons/rectangle.png" width="48" height="48" alt="Rectangle icon"></td>
+<td><strong><a href="https://rectangleapp.com/">Rectangle</a></strong><br><sub>Snap windows into place with keyboard shortcuts. You'll use this every single day.</sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/maccy.png" width="48" height="48" alt="Maccy icon"></td>
+<td><strong><a href="https://github.com/p0deje/Maccy">Maccy</a></strong><br><sub>Clipboard history that just works. Never lose a copied item again.</sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/iina.png" width="48" height="48" alt="IINA icon"></td>
+<td><strong><a href="https://iina.io/">IINA</a></strong><br><sub>Plays any video format natively. Makes QuickTime feel like a toy.</sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/mole.png" width="48" height="48" alt="Mole icon"></td>
+<td><strong><a href="https://mole.fit/">Mole</a></strong><br><sub>Uninstall apps properly, clean caches, and reclaim disk space — all in one tool.</sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/iterm2.png" width="48" height="48" alt="iTerm2 icon"></td>
+<td><strong><a href="https://iterm2.com/">iTerm2</a></strong><br><sub>The terminal macOS should have shipped with. Tabs, split panes, search, and more.</sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/tinycast.png" width="48" height="48" alt="TinyCast icon"></td>
+<td><strong><a href="https://tinycast.dev/">TinyCast</a></strong><br><sub>Supercharged Spotlight replacement. Launch apps, manage clipboard, run scripts, and more — all from one keystroke.</sub></td>
+</tr>
+</table>
 
 ---
 
-## 🔍 Electron App Detector
+## AI Tools
 
-A fun, visually appealing script to detect Electron-based applications on your Mac.
+[Browse AI and automation apps on MacNative →](https://macnative.io/categories/ai-automation?utm_source=github&utm_medium=referral&utm_campaign=native_apps_list&utm_content=category_ai-automation)
 
-### Quick Start
+<!-- No entries yet — see CONTRIBUTING.md for how to add one. Keep entries alphabetical and native (no Electron AI wrappers). -->
 
-**One-line install and run:**
-
-```bash
-curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-macosx-apps/main/find-electron-apps-macos.sh | bash
-```
-
-### What It Does
-
-- 🔎 Scans `/Applications` folder for Electron apps
-- ⚡ Identifies apps built with Electron framework
-- 📊 Shows app names, sizes, and versions
-- 🎨 Beautiful, colorful terminal output
-
-📖 **[Read more about the detector →](ELECTRON-DETECTOR.md)**
-
----
+<table>
+</table>
 
 ## Analytics & Monitoring
 
-- [iStat Menus](https://bjango.com/mac/istatmenus/) - Advanced Mac system monitor in your menu bar. `Paid`
-- [Stats](https://github.com/exelban/stats) - macOS system monitor for CPU, GPU, memory, disk, and more. `Free` `Open Source`
-- [Usage](https://usage.pro) - System activity monitor for macOS, iOS, and iPadOS. `Freemium`
+<table>
+<tr>
+<td width="64"><img src="resources/icons/istat-menus.png" width="48" height="48" alt="iStat Menus icon"></td>
+<td><strong><a href="https://bjango.com/mac/istatmenus/">iStat Menus</a></strong><br><sub>Advanced Mac system monitor in your menu bar. <code>Paid</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/stats.png" width="48" height="48" alt="Stats icon"></td>
+<td><strong><a href="https://github.com/exelban/stats">Stats</a></strong><br><sub>macOS system monitor for CPU, GPU, memory, disk, and more. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/usage.png" width="48" height="48" alt="Usage icon"></td>
+<td><strong><a href="https://usage.pro">Usage</a></strong><br><sub>System activity monitor for macOS, iOS, and iPadOS. <code>Freemium</code></sub></td>
+</tr>
+</table>
 
 ## Audio & Music
+- [Needle](https://github.com/Yvsleyen00941/Needle) - Native SwiftUI/AppKit Now Playing companion beside the Dock.
 
-- [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - macOS audio utility to control volume per-app. `Free` `Open Source`
-- [Cog](https://cog.losno.co/) - Audio player for macOS with broad format support. `Free` `Open Source`
-- [eqMac](https://eqmac.app/) - System-wide audio equalizer for macOS. `Free` `Open Source`
-- [IINA](https://iina.io/) - Modern video player with native macOS design. `Free` `Open Source`
-- [Muxie](https://muxie.duhnnie.com) - Last.fm scrobbler for Apple Music, Spotify Desktop, iPod Classic, Rockbox devices and some others. `Free`
-- [Petrichor](https://github.com/kushalpandya/Petrichor) - Offline music player with support for over 20 file formats and a lot of other features. `Free` `Open Source`
-- [Roam FM](https://roamfm.app/) - Roam the world through global radio. `Freemium`
-- [Sleeve](https://replay.software/sleeve) - Beautiful now playing display for Apple Music. `Paid`
-- [SoundSource](https://rogueamoeba.com/soundsource/) - Superior sound control for macOS. `Paid`
+[Browse audio and voice apps on MacNative →](https://macnative.io/categories/audio-voice?utm_source=github&utm_medium=referral&utm_campaign=native_apps_list&utm_content=category_audio-voice)
+
+<table>
+<tr>
+<td width="64"><img src="resources/icons/backgroundmusic.png" width="48" height="48" alt="BackgroundMusic icon"></td>
+<td><strong><a href="https://github.com/kyleneideck/BackgroundMusic">BackgroundMusic</a></strong><br><sub>macOS audio utility to control volume per-app. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/cog.png" width="48" height="48" alt="Cog icon"></td>
+<td><strong><a href="https://cog.losno.co/">Cog</a></strong><br><sub>Audio player for macOS with broad format support. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/dot.png" width="48" height="48" alt="DOT icon"></td>
+<td><strong><a href="https://plastic.audio/dot/">DOT</a></strong><br><sub>Records any audio the Mac plays, no driver, with key, tempo and chords. <code>Freemium</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/eqmac.png" width="48" height="48" alt="eqMac icon"></td>
+<td><strong><a href="https://eqmac.app/">eqMac</a></strong><br><sub>System-wide audio equalizer for macOS. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/iina.png" width="48" height="48" alt="IINA icon"></td>
+<td><strong><a href="https://iina.io/">IINA</a></strong><br><sub>Modern video player with native macOS design. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/muxie.png" width="48" height="48" alt="Muxie icon"></td>
+<td><strong><a href="https://muxie.duhnnie.com">Muxie</a></strong><br><sub>Last.fm scrobbler for Apple Music, Spotify Desktop, iPod Classic, Rockbox devices and some others. <code>Free</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/petrichor.png" width="48" height="48" alt="Petrichor icon"></td>
+<td><strong><a href="https://github.com/kushalpandya/Petrichor">Petrichor</a></strong><br><sub>Offline music player with support for over 20 file formats and a lot of other features. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/roam-fm.png" width="48" height="48" alt="Roam FM icon"></td>
+<td><strong><a href="https://roamfm.app/">Roam FM</a></strong><br><sub>Roam the world through global radio. <code>Freemium</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/sleeve.png" width="48" height="48" alt="Sleeve icon"></td>
+<td><strong><a href="https://replay.software/sleeve">Sleeve</a></strong><br><sub>Beautiful now playing display for Apple Music. <code>Paid</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/soundsource.png" width="48" height="48" alt="SoundSource icon"></td>
+<td><strong><a href="https://rogueamoeba.com/soundsource/">SoundSource</a></strong><br><sub>Superior sound control for macOS. <code>Paid</code></sub></td>
+</tr>
+</table>
 
 ## Backup & Sync
 
-- [Arq](https://www.arqbackup.com/) - Backup your files to cloud storage. `Paid`
-- [Carbon Copy Cloner](https://bombich.com/) - Reliable Mac backup and cloning solution. `Paid`
+<table>
+<tr>
+<td width="64"><img src="resources/icons/arq.png" width="48" height="48" alt="Arq icon"></td>
+<td><strong><a href="https://www.arqbackup.com/">Arq</a></strong><br><sub>Backup your files to cloud storage. <code>Paid</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/carbon-copy-cloner.png" width="48" height="48" alt="Carbon Copy Cloner icon"></td>
+<td><strong><a href="https://bombich.com/">Carbon Copy Cloner</a></strong><br><sub>Reliable Mac backup and cloning solution. <code>Paid</code></sub></td>
+</tr>
+</table>
 
 ## Browsers & Web
 
-- [Orion](https://browser.kagi.com/) - Lightweight WebKit browser with zero telemetry. `Free`
-- [Zen Browser](https://zen-browser.app/) - Privacy-focused, customizable browser built on Firefox. `Free` `Open Source`
+<table>
+<tr>
+<td width="64"><img src="resources/icons/orion.png" width="48" height="48" alt="Orion icon"></td>
+<td><strong><a href="https://browser.kagi.com/">Orion</a></strong><br><sub>Lightweight WebKit browser with zero telemetry. <code>Free</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/zen-browser.png" width="48" height="48" alt="Zen Browser icon"></td>
+<td><strong><a href="https://zen-browser.app/">Zen Browser</a></strong><br><sub>Privacy-focused, customizable browser built on Firefox. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+</table>
 
 ## Calendar & Time
 
-- [Fantastical](https://flexibits.com/fantastical) - Calendar app with natural language input. `Subscription`
-- [Itsycal](https://www.mowglii.com/itsycal/) - Tiny menu bar calendar. `Free` `Open Source`
-- [Meeting Bar](https://github.com/leits/MeetingBar) - Menu bar app for your calendar meetings. `Free` `Open Source`
+<table>
+<tr>
+<td width="64"><img src="resources/icons/fantastical.png" width="48" height="48" alt="Fantastical icon"></td>
+<td><strong><a href="https://flexibits.com/fantastical">Fantastical</a></strong><br><sub>Calendar app with natural language input. <code>Subscription</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/honeyday.png" width="48" height="48" alt="Honeyday icon"></td>
+<td><strong><a href="https://honeyday.app">Honeyday</a></strong><br><sub>Birthdays and anniversaries from your contacts, with widgets and reminders. <code>Paid</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/hora-calendar.png" width="48" height="48" alt="hora Calendar icon"></td>
+<td><strong><a href="https://horacal.app">hora Calendar</a></strong><br><sub>Google Calendar client for macOS with API connection. <code>Suscription</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/itsycal.png" width="48" height="48" alt="Itsycal icon"></td>
+<td><strong><a href="https://www.mowglii.com/itsycal/">Itsycal</a></strong><br><sub>Tiny menu bar calendar. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/meeting-bar.png" width="48" height="48" alt="Meeting Bar icon"></td>
+<td><strong><a href="https://github.com/leits/MeetingBar">Meeting Bar</a></strong><br><sub>Menu bar app for your calendar meetings. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+</table>
 
 ## Clipboard Managers
 
-- [Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager with search. `Free` `Open Source`
-- [CopyClip](https://fiplab.com/apps/copyclip-for-mac) - Lightweight clipboard history manager. `Free`
-- [Paste](https://pasteapp.io/) - Beautiful clipboard manager with cloud sync. `Subscription`
-- [Pesty](https://github.com/momenbasel/pesty) - Native clipboard manager with pinboards and keyboard-driven pasting. `Free` `Open Source`
-- [Unclutter](https://unclutterapp.com/) - Files, notes, and clipboard manager in one. `Paid`
-- [Whisk](https://github.com/nathan-poncet/whisk) - Paste-style clipboard manager with pins, search operators, paste stack and rich previews. `Free` `Open Source`
+<table>
+<tr>
+<td width="64"><img src="resources/icons/maccy.png" width="48" height="48" alt="Maccy icon"></td>
+<td><strong><a href="https://github.com/p0deje/Maccy">Maccy</a></strong><br><sub>Lightweight clipboard manager with search. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/copyclip.png" width="48" height="48" alt="CopyClip icon"></td>
+<td><strong><a href="https://fiplab.com/apps/copyclip-for-mac">CopyClip</a></strong><br><sub>Lightweight clipboard history manager. <code>Free</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/paste.png" width="48" height="48" alt="Paste icon"></td>
+<td><strong><a href="https://pasteapp.io/">Paste</a></strong><br><sub>Beautiful clipboard manager with cloud sync. <code>Subscription</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/pesty.png" width="48" height="48" alt="Pesty icon"></td>
+<td><strong><a href="https://github.com/momenbasel/pesty">Pesty</a></strong><br><sub>Native clipboard manager with pinboards and keyboard-driven pasting. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/unclutter.png" width="48" height="48" alt="Unclutter icon"></td>
+<td><strong><a href="https://unclutterapp.com/">Unclutter</a></strong><br><sub>Files, notes, and clipboard manager in one. <code>Paid</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/whisk.png" width="48" height="48" alt="Whisk icon"></td>
+<td><strong><a href="https://github.com/nathan-poncet/whisk">Whisk</a></strong><br><sub>Paste-style clipboard manager with pins, search operators, paste stack and rich previews. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+</table>
 
 ## Color Pickers
 
-- [ColorSlurp](https://colorslurp.com/) - Best color picker and organizer for macOS. `Freemium`
-- [Pika](https://superhighfives.com/pika) - Beautiful color picker for macOS. `Free` `Open Source`
-- [Sip](https://sipapp.io/) - Collect, organize and share colors. `Paid`
+<table>
+<tr>
+<td width="64"><img src="resources/icons/colorslurp.png" width="48" height="48" alt="ColorSlurp icon"></td>
+<td><strong><a href="https://colorslurp.com/">ColorSlurp</a></strong><br><sub>Best color picker and organizer for macOS. <code>Freemium</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/pika.png" width="48" height="48" alt="Pika icon"></td>
+<td><strong><a href="https://superhighfives.com/pika">Pika</a></strong><br><sub>Beautiful color picker for macOS. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/sip.png" width="48" height="48" alt="Sip icon"></td>
+<td><strong><a href="https://sipapp.io/">Sip</a></strong><br><sub>Collect, organize and share colors. <code>Paid</code></sub></td>
+</tr>
+</table>
 
 ## Database Tools
 
-- [Postico](https://eggerapps.at/postico2/) - Modern PostgreSQL client for macOS. `Paid` `EU`
-- [TablePlus](https://tableplus.com/) - Modern native database management tool. `Freemium`
-- [TablePro](https://tablepro.app) - Native database client for MySQL, PostgreSQL, SQLite, MongoDB, Redis, and more. `Free` `Open Source`
+<table>
+<tr>
+<td width="64"><img src="resources/icons/postico.png" width="48" height="48" alt="Postico icon"></td>
+<td><strong><a href="https://eggerapps.at/postico2/">Postico</a></strong><br><sub>Modern PostgreSQL client for macOS. <code>Paid</code> <code>EU</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/tableplus.png" width="48" height="48" alt="TablePlus icon"></td>
+<td><strong><a href="https://tableplus.com/">TablePlus</a></strong><br><sub>Modern native database management tool. <code>Freemium</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/tablepro.png" width="48" height="48" alt="TablePro icon"></td>
+<td><strong><a href="https://tablepro.app">TablePro</a></strong><br><sub>Native database client for MySQL, PostgreSQL, SQLite, MongoDB, Redis, and more. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+</table>
 
 ## Design Tools
 
-- [IconJar](https://geticonjar.com/) - Icon management tool for designers. `Paid`
-- [Sketch](https://www.sketch.com/) - Professional digital design for Mac. `Subscription` `EU`
-- [xScope](https://xscopeapp.com/) - Measure, inspect, and test on-screen graphics. `Paid`
+<table>
+<tr>
+<td width="64"><img src="resources/icons/iconjar.png" width="48" height="48" alt="IconJar icon"></td>
+<td><strong><a href="https://geticonjar.com/">IconJar</a></strong><br><sub>Icon management tool for designers. <code>Paid</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/sketch.png" width="48" height="48" alt="Sketch icon"></td>
+<td><strong><a href="https://www.sketch.com/">Sketch</a></strong><br><sub>Professional digital design for Mac. <code>Subscription</code> <code>EU</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/xscope.png" width="48" height="48" alt="xScope icon"></td>
+<td><strong><a href="https://xscopeapp.com/">xScope</a></strong><br><sub>Measure, inspect, and test on-screen graphics. <code>Paid</code></sub></td>
+</tr>
+</table>
 
 ## Developer Tools
 
-- [BucketMate](https://bucketmate.app/) - Native S3 GUI Client for macOS `Freemium`
-- [CodeEdit](https://github.com/CodeEditApp/CodeEdit) - Native code editor for macOS. `Free` `Open Source`
-- [DevCleaner](https://github.com/vashpan/xcode-dev-cleaner) - Clean Xcode cache and derived data. `Free` `Open Source`
-- [DevUtils](https://devutils.com/) - All-in-one offline toolbox for developers (42+ tools). `Freemium`
-- [Paw](https://paw.cloud/) - Advanced API tool for Mac. `Paid`
-- [Proxyman](https://proxyman.io/) - Native HTTP debugging proxy. `Freemium`
-- [RocketSim](https://www.rocketsim.app/) - Enhance Xcode Simulator productivity. `Freemium`
-- [Rockxy](https://rockxy.io) - macOS HTTP/HTTPS debugging proxy to capture, inspect, modify, and replay traffic. `Freemium` `Open Source`
-- [SnipperApp 3](https://snipperapp.com) - Code snippet manager with iCloud and Gist sync, and a bundled MCP server. `Paid (one-time)`
-- [SSH Keys Manager](https://github.com/Stmol/ssh-keys-manager-macos-app) - Native macOS app for managing SSH keys and SSH config entries. `Free` `Open Source`
-- [SF Symbols](https://developer.apple.com/sf-symbols/) - Browse and export Apple's SF Symbols. `Free`
-- [Vibedock](https://vibedock.dev/) - Manage Claude Code MCP servers from your macOS menu bar. `Paid (one-time)`
+[Browse developer tools with screenshots and pricing on MacNative →](https://macnative.io/categories/developer-tools?utm_source=github&utm_medium=referral&utm_campaign=native_apps_list&utm_content=category_developer-tools)
+
+<table>
+<tr>
+<td width="64"><img src="resources/icons/bucketmate.png" width="48" height="48" alt="BucketMate icon"></td>
+<td><strong><a href="https://bucketmate.app/">BucketMate</a></strong><br><sub>Native S3 GUI Client for macOS <code>Freemium</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/codeedit.png" width="48" height="48" alt="CodeEdit icon"></td>
+<td><strong><a href="https://github.com/CodeEditApp/CodeEdit">CodeEdit</a></strong><br><sub>Native code editor for macOS. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/devcleaner.png" width="48" height="48" alt="DevCleaner icon"></td>
+<td><strong><a href="https://github.com/vashpan/xcode-dev-cleaner">DevCleaner</a></strong><br><sub>Clean Xcode cache and derived data. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/device-hub-pro.png" width="48" height="48" alt="Device Hub Pro icon"></td>
+<td><strong><a href="https://github.com/gitemre/device-hub-pro">Device Hub Pro</a></strong><br><sub>Manage and mirror Android emulators, Android phones and iOS simulators side by side. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/devutils.png" width="48" height="48" alt="DevUtils icon"></td>
+<td><strong><a href="https://devutils.com/">DevUtils</a></strong><br><sub>All-in-one offline toolbox for developers (42+ tools). <code>Freemium</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/macsmith.png" width="48" height="48" alt="Macsmith icon"></td>
+<td><strong><a href="https://macsmith.app/">Macsmith</a></strong><br><sub>GUI for CLI dev tools like Homebrew, mise, nvm, Colima, and local databases. <code>Freemium</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/paw.png" width="48" height="48" alt="Paw icon"></td>
+<td><strong><a href="https://paw.cloud/">Paw</a></strong><br><sub>Advanced API tool for Mac. <code>Paid</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/proxyman.png" width="48" height="48" alt="Proxyman icon"></td>
+<td><strong><a href="https://proxyman.io/">Proxyman</a></strong><br><sub>Native HTTP debugging proxy. <code>Freemium</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/rocketsim.png" width="48" height="48" alt="RocketSim icon"></td>
+<td><strong><a href="https://www.rocketsim.app/">RocketSim</a></strong><br><sub>Enhance Xcode Simulator productivity. <code>Freemium</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/rockxy.png" width="48" height="48" alt="Rockxy icon"></td>
+<td><strong><a href="https://rockxy.io">Rockxy</a></strong><br><sub>macOS HTTP/HTTPS debugging proxy to capture, inspect, modify, and replay traffic. <code>Freemium</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/snipperapp-3.png" width="48" height="48" alt="SnipperApp 3 icon"></td>
+<td><strong><a href="https://snipperapp.com">SnipperApp 3</a></strong><br><sub>Code snippet manager with iCloud and Gist sync, and a bundled MCP server. <code>Paid (one-time)</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/ssh-keys-manager.png" width="48" height="48" alt="SSH Keys Manager icon"></td>
+<td><strong><a href="https://github.com/Stmol/ssh-keys-manager-macos-app">SSH Keys Manager</a></strong><br><sub>Native macOS app for managing SSH keys and SSH config entries. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/sf-symbols.png" width="48" height="48" alt="SF Symbols icon"></td>
+<td><strong><a href="https://developer.apple.com/sf-symbols/">SF Symbols</a></strong><br><sub>Browse and export Apple's SF Symbols. <code>Free</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/vibedock.png" width="48" height="48" alt="Vibedock icon"></td>
+<td><strong><a href="https://vibedock.dev/">Vibedock</a></strong><br><sub>Manage Claude Code MCP servers from your macOS menu bar. <code>Paid (one-time)</code></sub></td>
+</tr>
+</table>
 
 ## Email & Communication
 
-- [Airmail](https://airmailapp.com/) - Lightning fast mail client for Mac. `Paid` `EU`
-- [MailMate](https://freron.com/) - Advanced IMAP email client with keyboard control. `Paid`
-- [Mimestream](https://mimestream.com/) - Native Gmail client for macOS. `Paid`
+<table>
+<tr>
+<td width="64"><img src="resources/icons/airmail.png" width="48" height="48" alt="Airmail icon"></td>
+<td><strong><a href="https://airmailapp.com/">Airmail</a></strong><br><sub>Lightning fast mail client for Mac. <code>Paid</code> <code>EU</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/mailmate.png" width="48" height="48" alt="MailMate icon"></td>
+<td><strong><a href="https://freron.com/">MailMate</a></strong><br><sub>Advanced IMAP email client with keyboard control. <code>Paid</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/mimestream.png" width="48" height="48" alt="Mimestream icon"></td>
+<td><strong><a href="https://mimestream.com/">Mimestream</a></strong><br><sub>Native Gmail client for macOS. <code>Paid</code></sub></td>
+</tr>
+</table>
 
 ## Finance
 
-- [Chronicle](https://chronicleapp.com/) - Bill organizer and payment tracker. `Paid`
-- [Copilot](https://www.copilot.money/) - Personal finance and budgeting app with automatic transaction syncing. `Subscription`
-- [Soulver](https://soulver.app/) - Smart notepad calculator that understands plain English math. `Paid` `EU`
-- [Subscription Day](https://subsday.appps.od.ua/) - Track your paid subscriptions and analyze spending statistics. `Freemium`
+[Browse money & finance apps with screenshots and pricing on MacNative →](https://macnative.io/categories/money-finance?utm_source=github&utm_medium=referral&utm_campaign=native_apps_list&utm_content=category_money-finance)
+
+<table>
+<tr>
+<td width="64"><img src="resources/icons/chronicle.png" width="48" height="48" alt="Chronicle icon"></td>
+<td><strong><a href="https://chronicleapp.com/">Chronicle</a></strong><br><sub>Bill organizer and payment tracker. <code>Paid</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/copilot.png" width="48" height="48" alt="Copilot icon"></td>
+<td><strong><a href="https://www.copilot.money/">Copilot</a></strong><br><sub>Personal finance and budgeting app with automatic transaction syncing. <code>Subscription</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/parendi.png" width="48" height="48" alt="Parendi icon"></td>
+<td><strong><a href="https://parendi.app">Parendi</a></strong><br><sub>Imports bank statements, categorizes transactions and tracks net worth, offline. <code>Paid</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/soulver.png" width="48" height="48" alt="Soulver icon"></td>
+<td><strong><a href="https://soulver.app/">Soulver</a></strong><br><sub>Smart notepad calculator that understands plain English math. <code>Paid</code> <code>EU</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/subscription-day.png" width="48" height="48" alt="Subscription Day icon"></td>
+<td><strong><a href="https://subsday.appps.od.ua/">Subscription Day</a></strong><br><sub>Track your paid subscriptions and analyze spending statistics. <code>Freemium</code></sub></td>
+</tr>
+</table>
 
 ## File Management
 
-- [Commander One](https://mac.eltima.com/file-manager.html) - Dual-pane file manager for macOS. `Freemium`
-- [ForkLift](https://binarynights.com/) - Advanced dual-pane file manager and FTP client. `Paid`
-- [Hazel](https://www.noodlesoft.com/) - Automated organization for your Mac. `Paid`
-- [NameQuick](https://www.namequick.app) - AI-powered file renaming using GPT, Gemini, or local LLMs. `Paid`
-- [Path Finder](https://www.cocoatech.io/) - Powerful Finder alternative. `Paid`
-- [Quick Look plugins](https://github.com/sindresorhus/quick-look-plugins) - Useful Quick Look plugins for developers. `Free` `Open Source`
-- [Encrypto](https://macpaw.com/encrypto) - Encrypt files with AES-256 encryption. `Free`
+<table>
+<tr>
+<td width="64"><img src="resources/icons/commander-one.png" width="48" height="48" alt="Commander One icon"></td>
+<td><strong><a href="https://mac.eltima.com/file-manager.html">Commander One</a></strong><br><sub>Dual-pane file manager for macOS. <code>Freemium</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/forklift.png" width="48" height="48" alt="ForkLift icon"></td>
+<td><strong><a href="https://binarynights.com/">ForkLift</a></strong><br><sub>Advanced dual-pane file manager and FTP client. <code>Paid</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/hazel.png" width="48" height="48" alt="Hazel icon"></td>
+<td><strong><a href="https://www.noodlesoft.com/">Hazel</a></strong><br><sub>Automated organization for your Mac. <code>Paid</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/namequick.png" width="48" height="48" alt="NameQuick icon"></td>
+<td><strong><a href="https://www.namequick.app">NameQuick</a></strong><br><sub>AI-powered file renaming using GPT, Gemini, or local LLMs. <code>Paid</code></sub></td>
+</tr>
+<tr>
+<td width="64"></td>
+<td><strong><a href="https://www.cocoatech.io/">Path Finder</a></strong><br><sub>Powerful Finder alternative. <code>Paid</code></sub></td>
+</tr>
+<tr>
+<td width="64"></td>
+<td><strong><a href="https://github.com/sindresorhus/quick-look-plugins">Quick Look plugins</a></strong><br><sub>Useful Quick Look plugins for developers. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/encrypto.png" width="48" height="48" alt="Encrypto icon"></td>
+<td><strong><a href="https://macpaw.com/encrypto">Encrypto</a></strong><br><sub>Encrypt files with AES-256 encryption. <code>Free</code></sub></td>
+</tr>
+</table>
 
 ## Git & Version Control
 
-- [Fork](https://git-fork.com/) - Fast and friendly Git client for Mac. `Free`
-- [GitFox](https://www.gitfox.app/) - Git client with a focus on simplicity. `Paid`
-- [GitUp](https://gitup.co/) - Git interface you've been missing. `Free` `Open Source`
-- [SourceTree](https://www.sourcetreeapp.com/) - Free Git client from Atlassian. `Free`
-- [Tower](https://www.git-tower.com/mac) - Powerful Git client for Mac. `Paid` `EU`
+<table>
+<tr>
+<td width="64"><img src="resources/icons/fork.png" width="48" height="48" alt="Fork icon"></td>
+<td><strong><a href="https://git-fork.com/">Fork</a></strong><br><sub>Fast and friendly Git client for Mac. <code>Free</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/gitfox.png" width="48" height="48" alt="GitFox icon"></td>
+<td><strong><a href="https://www.gitfox.app/">GitFox</a></strong><br><sub>Git client with a focus on simplicity. <code>Paid</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/gitup.png" width="48" height="48" alt="GitUp icon"></td>
+<td><strong><a href="https://gitup.co/">GitUp</a></strong><br><sub>Git interface you've been missing. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/sourcetree.png" width="48" height="48" alt="SourceTree icon"></td>
+<td><strong><a href="https://www.sourcetreeapp.com/">SourceTree</a></strong><br><sub>Free Git client from Atlassian. <code>Free</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/tower.png" width="48" height="48" alt="Tower icon"></td>
+<td><strong><a href="https://www.git-tower.com/mac">Tower</a></strong><br><sub>Powerful Git client for Mac. <code>Paid</code> <code>EU</code></sub></td>
+</tr>
+</table>
 
 ## Image & Graphics
 
-- [Acorn](https://flyingmeat.com/acorn/) - Full-featured photo editor designed for humans. `Paid`
-- [ImageOptim](https://imageoptim.com/) - Compress images without losing quality. `Free` `Open Source`
-- [Pixave](https://www.pixaveapp.com/) - Ultimate image organizer and viewer. `Paid`
-- [Pixelmator Pro](https://www.pixelmator.com/pro/) - Powerful native image editor. `Paid` `EU`
-- [Retrobatch](https://flyingmeat.com/retrobatch/) - Batch image processing for Mac. `Paid`
-- [xScope](https://xscopeapp.com/) - Measure, inspect and test on-screen graphics. `Paid`
+[Browse photo & video apps with screenshots and pricing on MacNative →](https://macnative.io/categories/photo-video?utm_source=github&utm_medium=referral&utm_campaign=native_apps_list&utm_content=category_photo-video)
+
+<table>
+<tr>
+<td width="64"><img src="resources/icons/acorn.png" width="48" height="48" alt="Acorn icon"></td>
+<td><strong><a href="https://flyingmeat.com/acorn/">Acorn</a></strong><br><sub>Full-featured photo editor designed for humans. <code>Paid</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/imageoptim.png" width="48" height="48" alt="ImageOptim icon"></td>
+<td><strong><a href="https://imageoptim.com/">ImageOptim</a></strong><br><sub>Compress images without losing quality. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"></td>
+<td><strong><a href="https://www.pixaveapp.com/">Pixave</a></strong><br><sub>Ultimate image organizer and viewer. <code>Paid</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/pixelmator-pro.png" width="48" height="48" alt="Pixelmator Pro icon"></td>
+<td><strong><a href="https://www.pixelmator.com/pro/">Pixelmator Pro</a></strong><br><sub>Powerful native image editor. <code>Paid</code> <code>EU</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/retrobatch.png" width="48" height="48" alt="Retrobatch icon"></td>
+<td><strong><a href="https://flyingmeat.com/retrobatch/">Retrobatch</a></strong><br><sub>Batch image processing for Mac. <code>Paid</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/xscope.png" width="48" height="48" alt="xScope icon"></td>
+<td><strong><a href="https://xscopeapp.com/">xScope</a></strong><br><sub>Measure, inspect and test on-screen graphics. <code>Paid</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/zipic.png" width="48" height="48" alt="Zipic icon"></td>
+<td><strong><a href="https://zipic.app/">Zipic</a></strong><br><sub>Compress and convert images locally, with batch processing and a CLI. <code>Freemium</code></sub></td>
+</tr>
+</table>
 
 ## Markdown Editors
 
-- [Glance](https://glance.md/) - Native Markdown viewer and Quick Look extension. `Free`
-- [iA Writer](https://ia.net/writer) - Focused writing app with beautiful typography. `Paid`
-- [MacDown](https://macdown.uranusjr.com/) - Open source Markdown editor for macOS. `Free` `Open Source`
-- [Marked 2](https://marked2app.com/) - Markdown preview and conversion. `Paid`
-- [MD Preview](https://vorojar.github.io/md-preview/) - Lightweight Markdown preview app using Rust and native WebView. `Free` `Open Source`
-- [MWeb](https://www.mweb.im/) - Pro Markdown writing and note-taking. `Paid`
-- [Nice.md](https://nicemd.app/) - Markdown viewer with Quick Look preview, outline sidebar, and optional edit mode. `Freemium` `EU`
-- [Typora](https://typora.io/) - Minimal Markdown editor and reader. `Paid`
-- [Writer](https://writer.computer/) - Local-first markdown editor with a Rust backend and native WKWebView. `Free` `Open Source`
+<table>
+<tr>
+<td width="64"><img src="resources/icons/glance.png" width="48" height="48" alt="Glance icon"></td>
+<td><strong><a href="https://glance.md/">Glance</a></strong><br><sub>Native Markdown viewer and Quick Look extension. <code>Free</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/ia-writer.png" width="48" height="48" alt="iA Writer icon"></td>
+<td><strong><a href="https://ia.net/writer">iA Writer</a></strong><br><sub>Focused writing app with beautiful typography. <code>Paid</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/macdown.png" width="48" height="48" alt="MacDown icon"></td>
+<td><strong><a href="https://macdown.uranusjr.com/">MacDown</a></strong><br><sub>Open source Markdown editor for macOS. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/marked-2.png" width="48" height="48" alt="Marked 2 icon"></td>
+<td><strong><a href="https://marked2app.com/">Marked 2</a></strong><br><sub>Markdown preview and conversion. <code>Paid</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/md-preview.png" width="48" height="48" alt="MD Preview icon"></td>
+<td><strong><a href="https://vorojar.github.io/md-preview/">MD Preview</a></strong><br><sub>Lightweight Markdown preview app using Rust and native WebView. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/mweb.png" width="48" height="48" alt="MWeb icon"></td>
+<td><strong><a href="https://www.mweb.im/">MWeb</a></strong><br><sub>Pro Markdown writing and note-taking. <code>Paid</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/nice-md.png" width="48" height="48" alt="Nice.md icon"></td>
+<td><strong><a href="https://nicemd.app/">Nice.md</a></strong><br><sub>Markdown viewer with Quick Look preview, outline sidebar, and optional edit mode. <code>Freemium</code> <code>EU</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/typora.png" width="48" height="48" alt="Typora icon"></td>
+<td><strong><a href="https://typora.io/">Typora</a></strong><br><sub>Minimal Markdown editor and reader. <code>Paid</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/writer.png" width="48" height="48" alt="Writer icon"></td>
+<td><strong><a href="https://writer.computer/">Writer</a></strong><br><sub>Local-first markdown editor with a Rust backend and native WKWebView. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+</table>
 
 ## Menu Bar Apps
 
-- [Bartender](https://www.macbartender.com/) - Organize your menu bar icons. `Paid`
-- [Commitments](https://commitments.pages.dev/) - Your tasks in menu bar. `Paid`
-- [DatWeatherDoe](https://github.com/inderdhir/DatWeatherDoe) - Simple menu bar weather app. `Free` `Open Source`
-- [Dozer](https://github.com/Mortennn/Dozer) - Hide menu bar icons to give your Mac a cleaner look. `Free` `Open Source`
-- [Hand Mirror](https://handmirror.app/) - One-click camera check from menu bar. `Free`
-- [Headroom](https://github.com/patwalls/headroom) - Live Claude Code session (5h) and weekly (7d) usage in your menu bar — zero network calls, reads what Claude Code already writes locally. `Free` `Open Source`
-- [Hidden Bar](https://github.com/dwarvesf/hidden) - Hide menu bar items. `Free` `Open Source`
-- [Holeberry](https://github.com/pedrovieira/Holeberry) - Monitor and control your Pi-hole instances from the menu bar. `Free` `Open Source`
-- [HomeBar for Homey Pro](https://homebar.pro) - Manage your Homey Pro smart home. `Freemium`
-- [Itsycal](https://www.mowglii.com/itsycal/) - Tiny menu bar calendar. `Free` `Open Source`
-- [Itsyhome](https://github.com/nickustinov/itsyhome-macos) - Smart home meets menu bar. `Freemium` `Open Source`
-- [MenubarX](https://menubarx.app/) - Browser in your menu bar. `Freemium`
-- [One Thing](https://sindresorhus.com/one-thing) - Put a single task in your menu bar. `Paid`
-- [OpenQuack](https://github.com/larryxiao/openquack) - Transcribes a 5-minute clip in 2.8 s — local WhisperKit dictation, noise-robust. ~8 MB native Swift. `Free` `Open Source`
-- [SaneBar](https://sanebar.com) - Privacy-first menu bar manager. Hide and organize icons. `Freemium`
-- [Stargazer Bar](https://jazzyalex.github.io/stargazer-bar/) - Track one public GitHub repo's stars and release downloads from your menu bar. `Free` `Open Source`
-- [Thaw](https://github.com/stonerl/Thaw) - Powerful menu bar management tool. Fork of Ice, lower resource usage. `Free` `Open Source`
-- [TickerPad](https://tickerpad.app) - Real-time crypto prices in your macOS menu bar.  `Freemium`
-- [Tomatino](https://tomatino.app) - Pomodoro timer that switches your Focus mode and your music with each session. `Paid`
-- [TranslateAir](https://www.translateair.com/) - AI translation and OCR from the menu bar, 100+ languages. `Freemium`
+<table>
+<tr>
+<td width="64"><img src="resources/icons/bartender.png" width="48" height="48" alt="Bartender icon"></td>
+<td><strong><a href="https://www.macbartender.com/">Bartender</a></strong><br><sub>Organize your menu bar icons. <code>Paid</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/commitments.png" width="48" height="48" alt="Commitments icon"></td>
+<td><strong><a href="https://commitments.pages.dev/">Commitments</a></strong><br><sub>Your tasks in menu bar. <code>Paid</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/datweatherdoe.png" width="48" height="48" alt="DatWeatherDoe icon"></td>
+<td><strong><a href="https://github.com/inderdhir/DatWeatherDoe">DatWeatherDoe</a></strong><br><sub>Simple menu bar weather app. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/dozer.png" width="48" height="48" alt="Dozer icon"></td>
+<td><strong><a href="https://github.com/Mortennn/Dozer">Dozer</a></strong><br><sub>Hide menu bar icons to give your Mac a cleaner look. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/dynamichorizon.png" width="48" height="48" alt="DynamicHorizon icon"></td>
+<td><strong><a href="https://www.dynamichorizon.app/">DynamicHorizon</a></strong><br><sub>Shows media, notifications, timers, downloads, and controls around the Mac notch. <code>Paid</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/hand-mirror.png" width="48" height="48" alt="Hand Mirror icon"></td>
+<td><strong><a href="https://handmirror.app/">Hand Mirror</a></strong><br><sub>One-click camera check from menu bar. <code>Free</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/headroom.png" width="48" height="48" alt="Headroom icon"></td>
+<td><strong><a href="https://github.com/patwalls/headroom">Headroom</a></strong><br><sub>Live Claude Code session (5h) and weekly (7d) usage in your menu bar — zero network calls, reads what Claude Code already writes locally. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/hidden-bar.png" width="48" height="48" alt="Hidden Bar icon"></td>
+<td><strong><a href="https://github.com/dwarvesf/hidden">Hidden Bar</a></strong><br><sub>Hide menu bar items. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/holeberry.png" width="48" height="48" alt="Holeberry icon"></td>
+<td><strong><a href="https://github.com/pedrovieira/Holeberry">Holeberry</a></strong><br><sub>Monitor and control your Pi-hole instances from the menu bar. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/homebar-for-homey-pro.png" width="48" height="48" alt="HomeBar for Homey Pro icon"></td>
+<td><strong><a href="https://homebar.pro">HomeBar for Homey Pro</a></strong><br><sub>Manage your Homey Pro smart home. <code>Freemium</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/itsycal.png" width="48" height="48" alt="Itsycal icon"></td>
+<td><strong><a href="https://www.mowglii.com/itsycal/">Itsycal</a></strong><br><sub>Tiny menu bar calendar. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/itsyhome.png" width="48" height="48" alt="Itsyhome icon"></td>
+<td><strong><a href="https://github.com/nickustinov/itsyhome-macos">Itsyhome</a></strong><br><sub>Smart home meets menu bar. <code>Freemium</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/menubarx.png" width="48" height="48" alt="MenubarX icon"></td>
+<td><strong><a href="https://menubarx.app/">MenubarX</a></strong><br><sub>Browser in your menu bar. <code>Freemium</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/one-thing.png" width="48" height="48" alt="One Thing icon"></td>
+<td><strong><a href="https://sindresorhus.com/one-thing">One Thing</a></strong><br><sub>Put a single task in your menu bar. <code>Paid</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/openquack.png" width="48" height="48" alt="OpenQuack icon"></td>
+<td><strong><a href="https://github.com/larryxiao/openquack">OpenQuack</a></strong><br><sub>Transcribes a 5-minute clip in 2.8 s — local WhisperKit dictation, noise-robust. ~8 MB native Swift. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/sanebar.png" width="48" height="48" alt="SaneBar icon"></td>
+<td><strong><a href="https://sanebar.com">SaneBar</a></strong><br><sub>Privacy-first menu bar manager. Hide and organize icons. <code>Freemium</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/stargazer-bar.png" width="48" height="48" alt="Stargazer Bar icon"></td>
+<td><strong><a href="https://jazzyalex.github.io/stargazer-bar/">Stargazer Bar</a></strong><br><sub>Track one public GitHub repo's stars and release downloads from your menu bar. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"></td>
+<td><strong><a href="https://github.com/stonerl/Thaw">Thaw</a></strong><br><sub>Powerful menu bar management tool. Fork of Ice, lower resource usage. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/tickerpad.png" width="48" height="48" alt="TickerPad icon"></td>
+<td><strong><a href="https://tickerpad.app">TickerPad</a></strong><br><sub>Real-time crypto prices in your macOS menu bar. <code>Freemium</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/tomatino.png" width="48" height="48" alt="Tomatino icon"></td>
+<td><strong><a href="https://tomatino.app">Tomatino</a></strong><br><sub>Pomodoro timer that switches your Focus mode and your music with each session. <code>Paid</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/translateair.png" width="48" height="48" alt="TranslateAir icon"></td>
+<td><strong><a href="https://www.translateair.com/">TranslateAir</a></strong><br><sub>AI translation and OCR from the menu bar, 100+ languages. <code>Freemium</code></sub></td>
+</tr>
+</table>
 
 ## Network Tools
 
-- [Holeberry](https://github.com/pedrovieira/Holeberry) - Monitor and control your Pi-hole instances from the menu bar. `Free` `Open Source`
-- [Little Snitch](https://www.obdev.at/products/littlesnitch/) - Network monitor and firewall. `Paid` `EU`
-- [Micro Snitch](https://www.obdev.at/products/microsnitch/) - Monitor camera and microphone access. `Paid` `EU`
-- [NetNewsWire](https://netnewswire.com/) - RSS reader for macOS. `Free` `Open Source`
-- [Surge](https://nssurge.com/) - Advanced network toolbox for Mac. `Paid`
-- [Tracexy](https://rockxy.io/tracexy) - Native macOS packet analyzer for live and saved PCAP/PCAPNG captures. `Free` `Open Source`
-- [WiFi Explorer](https://www.intuitibits.com/products/wifi-explorer/) - Scan, monitor and troubleshoot wireless networks. `Paid`
+<table>
+<tr>
+<td width="64"><img src="resources/icons/holeberry.png" width="48" height="48" alt="Holeberry icon"></td>
+<td><strong><a href="https://github.com/pedrovieira/Holeberry">Holeberry</a></strong><br><sub>Monitor and control your Pi-hole instances from the menu bar. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/little-snitch.png" width="48" height="48" alt="Little Snitch icon"></td>
+<td><strong><a href="https://www.obdev.at/products/littlesnitch/">Little Snitch</a></strong><br><sub>Network monitor and firewall. <code>Paid</code> <code>EU</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/micro-snitch.png" width="48" height="48" alt="Micro Snitch icon"></td>
+<td><strong><a href="https://www.obdev.at/products/microsnitch/">Micro Snitch</a></strong><br><sub>Monitor camera and microphone access. <code>Paid</code> <code>EU</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/netnewswire.png" width="48" height="48" alt="NetNewsWire icon"></td>
+<td><strong><a href="https://netnewswire.com/">NetNewsWire</a></strong><br><sub>RSS reader for macOS. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/surge.png" width="48" height="48" alt="Surge icon"></td>
+<td><strong><a href="https://nssurge.com/">Surge</a></strong><br><sub>Advanced network toolbox for Mac. <code>Paid</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/tracexy.png" width="48" height="48" alt="Tracexy icon"></td>
+<td><strong><a href="https://rockxy.io/tracexy">Tracexy</a></strong><br><sub>Native macOS packet analyzer for live and saved PCAP/PCAPNG captures. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/wifi-explorer.png" width="48" height="48" alt="WiFi Explorer icon"></td>
+<td><strong><a href="https://www.intuitibits.com/products/wifi-explorer/">WiFi Explorer</a></strong><br><sub>Scan, monitor and troubleshoot wireless networks. <code>Paid</code></sub></td>
+</tr>
+</table>
 
 ## Note-Taking & Writing
 
-- [Bear](https://bear.app/) - Beautiful, flexible writing app. `Freemium` `EU`
-- [Craft](https://www.craft.do/) - Native document editor with sharing. `Freemium`
-- [DEVONthink](https://www.devontechnologies.com/apps/devonthink) - Document and information management. `Paid`
-- [Knopo](https://github.com/alkalim/Knopo) - Local-first Markdown outliner with backlinks and queries. `Free` `Open Source`
-- [FSNotes](https://fsnot.es/) - Modern notes manager for macOS. `Free` `Open Source`
-- [iA Writer](https://ia.net/writer) - Focused writing app with beautiful typography. `Paid`
-- [Notational Velocity](http://notational.net/) - Modeless note-taking application. `Free` `Open Source`
-- [Notebooks](https://www.notebooksapp.com/) - Write, organize, and manage information. `Paid`
-- [nvALT](https://brettterpstra.com/projects/nvalt/) - Fork of Notational Velocity with additional features. `Free` `Open Source`
-- [SeqLog](https://seqlog.com/) - Outliner that stores every note as a plain Markdown file, with backlinks and built-in Git. `Free`
-- [The Archive](https://zettelkasten.de/the-archive/) - Note-taking app for writers and researchers. `Paid`
-- [Tot](https://tot.rocks/) - Elegant text collection on menu bar. `Freemium`
-- [Ulysses](https://ulysses.app/) - Professional writing environment for Mac. `Subscription` `EU`
+[Browse writing & documents apps with screenshots and pricing on MacNative →](https://macnative.io/categories/writing-documents?utm_source=github&utm_medium=referral&utm_campaign=native_apps_list&utm_content=category_writing-documents)
+
+<table>
+<tr>
+<td width="64"><img src="resources/icons/bear.png" width="48" height="48" alt="Bear icon"></td>
+<td><strong><a href="https://bear.app/">Bear</a></strong><br><sub>Beautiful, flexible writing app. <code>Freemium</code> <code>EU</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/craft.png" width="48" height="48" alt="Craft icon"></td>
+<td><strong><a href="https://www.craft.do/">Craft</a></strong><br><sub>Native document editor with sharing. <code>Freemium</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/devonthink.png" width="48" height="48" alt="DEVONthink icon"></td>
+<td><strong><a href="https://www.devontechnologies.com/apps/devonthink">DEVONthink</a></strong><br><sub>Document and information management. <code>Paid</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/knopo.png" width="48" height="48" alt="Knopo icon"></td>
+<td><strong><a href="https://github.com/alkalim/Knopo">Knopo</a></strong><br><sub>Local-first Markdown outliner with backlinks and queries. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/fsnotes.png" width="48" height="48" alt="FSNotes icon"></td>
+<td><strong><a href="https://fsnot.es/">FSNotes</a></strong><br><sub>Modern notes manager for macOS. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/ia-writer.png" width="48" height="48" alt="iA Writer icon"></td>
+<td><strong><a href="https://ia.net/writer">iA Writer</a></strong><br><sub>Focused writing app with beautiful typography. <code>Paid</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/loam.png" width="48" height="48" alt="Loam icon"></td>
+<td><strong><a href="https://loam.md">Loam</a></strong><br><sub>Markdown notebook where every feature is a plugin. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/notational-velocity.png" width="48" height="48" alt="Notational Velocity icon"></td>
+<td><strong><a href="http://notational.net/">Notational Velocity</a></strong><br><sub>Modeless note-taking application. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/notebooks.png" width="48" height="48" alt="Notebooks icon"></td>
+<td><strong><a href="https://www.notebooksapp.com/">Notebooks</a></strong><br><sub>Write, organize, and manage information. <code>Paid</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/nvalt.png" width="48" height="48" alt="nvALT icon"></td>
+<td><strong><a href="https://brettterpstra.com/projects/nvalt/">nvALT</a></strong><br><sub>Fork of Notational Velocity with additional features. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/pizzinu.png" width="48" height="48" alt="Pizzinu icon"></td>
+<td><strong><a href="https://www.piratepixel.it/pizzinu/">Pizzinu</a></strong><br><sub>Sticky notes that look like real paper, with reminders, checklists and Markdown. <code>Free</code> <code>Open Source</code> <code>EU</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/seqlog.png" width="48" height="48" alt="SeqLog icon"></td>
+<td><strong><a href="https://seqlog.com/">SeqLog</a></strong><br><sub>Outliner that stores every note as a plain Markdown file, with backlinks and built-in Git. <code>Free</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/the-archive.png" width="48" height="48" alt="The Archive icon"></td>
+<td><strong><a href="https://zettelkasten.de/the-archive/">The Archive</a></strong><br><sub>Note-taking app for writers and researchers. <code>Paid</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/tot.png" width="48" height="48" alt="Tot icon"></td>
+<td><strong><a href="https://tot.rocks/">Tot</a></strong><br><sub>Elegant text collection on menu bar. <code>Freemium</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/ulysses.png" width="48" height="48" alt="Ulysses icon"></td>
+<td><strong><a href="https://ulysses.app/">Ulysses</a></strong><br><sub>Professional writing environment for Mac. <code>Subscription</code> <code>EU</code></sub></td>
+</tr>
+</table>
 
 ## Password Managers
 
-- [Strongbox](https://strongboxsafe.com/) - Native KeePass client for macOS. `Freemium`
+<table>
+<tr>
+<td width="64"><img src="resources/icons/strongbox.png" width="48" height="48" alt="Strongbox icon"></td>
+<td><strong><a href="https://strongboxsafe.com/">Strongbox</a></strong><br><sub>Native KeePass client for macOS. <code>Freemium</code></sub></td>
+</tr>
+</table>
 
 ## PDF Tools
 
-- [PDFgear](https://www.pdfgear.com/) - Free PDF editor for macOS. `Free`
-- [PDF Expert](https://pdfexpert.com/) - Fast, robust PDF editor. `Paid`
-- [PDFpenPro](https://pdfpen.com/) - Professional PDF editing for Mac. `Paid`
-- [Skim](https://skim-app.sourceforge.io/) - PDF reader and note-taker. `Free` `Open Source`
+<table>
+<tr>
+<td width="64"><img src="resources/icons/pdfgear.png" width="48" height="48" alt="PDFgear icon"></td>
+<td><strong><a href="https://www.pdfgear.com/">PDFgear</a></strong><br><sub>Free PDF editor for macOS. <code>Free</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/pdf-expert.png" width="48" height="48" alt="PDF Expert icon"></td>
+<td><strong><a href="https://pdfexpert.com/">PDF Expert</a></strong><br><sub>Fast, robust PDF editor. <code>Paid</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/pdfpenpro.png" width="48" height="48" alt="PDFpenPro icon"></td>
+<td><strong><a href="https://pdfpen.com/">PDFpenPro</a></strong><br><sub>Professional PDF editing for Mac. <code>Paid</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/skim.png" width="48" height="48" alt="Skim icon"></td>
+<td><strong><a href="https://skim-app.sourceforge.io/">Skim</a></strong><br><sub>PDF reader and note-taker. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+</table>
 
 ## Productivity
 
-- [Alfred](https://www.alfredapp.com/) - Productivity app for macOS with powerful workflows. `Freemium`
-- [BetterTouchTool](https://folivora.ai/) - Customize input devices on your Mac. `Paid` `EU`
-- [Blurt](https://blurtblurt.com) - Hold-a-hotkey dictation that pastes cleaned-up text into any app, using AssemblyAI cloud speech-to-text. `Free` `Open Source`
-- [Due](https://www.dueapp.com/) - Reminders with persistent alerts. `Paid`
-- [Fantastical](https://flexibits.com/fantastical) - Calendar app with natural language input. `Subscription`
-- [Focus](https://heyfocus.com/) - Block distracting websites and applications. `Paid`
-- [Keyboard Maestro](https://www.keyboardmaestro.com/) - Automate applications and websites. `Paid`
-- [OmniFocus](https://www.omnigroup.com/omnifocus/) - Professional-grade task management. `Paid`
-- [Raycast](https://www.raycast.com/) - Blazingly fast extendable launcher. `Freemium`
-- [Revu](https://revu.cards) - Local-first spaced repetition app with FSRS scheduling, Anki import, and study guides. `Free` `Open Source`
-- [SelfControl](https://selfcontrolapp.com/) - Block distracting websites. `Free` `Open Source`
-- [Snippety](https://snippety.app) - Advanced snippets manager for macOS and iOS. `Paid`
-- [TaskPaper](https://www.taskpaper.com/) - Plain text to-do lists. `Paid`
-- [Things](https://culturedcode.com/things/) - Award-winning task manager. `Paid`
-- [Tot](https://tot.rocks/) - Elegant text collection on menu bar. `Freemium`
-- [Speakmac](https://www.speakmac.app/) - Offline hotkey dictation for macOS that types into any app using on-device transcription. `One-Time Subscription`
+[Browse productivity apps with screenshots and pricing on MacNative →](https://macnative.io/categories/productivity?utm_source=github&utm_medium=referral&utm_campaign=native_apps_list&utm_content=category_productivity)
+
+<table>
+<tr>
+<td width="64"><img src="resources/icons/alfred.png" width="48" height="48" alt="Alfred icon"></td>
+<td><strong><a href="https://www.alfredapp.com/">Alfred</a></strong><br><sub>Productivity app for macOS with powerful workflows. <code>Freemium</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/bettertouchtool.png" width="48" height="48" alt="BetterTouchTool icon"></td>
+<td><strong><a href="https://folivora.ai/">BetterTouchTool</a></strong><br><sub>Customize input devices on your Mac. <code>Paid</code> <code>EU</code></sub></td>
+</tr>
+<tr>
+<td width="64"></td>
+<td><strong><a href="https://blurtblurt.com">Blurt</a></strong><br><sub>Hold-a-hotkey dictation that pastes cleaned-up text into any app, using AssemblyAI cloud speech-to-text. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/due.png" width="48" height="48" alt="Due icon"></td>
+<td><strong><a href="https://www.dueapp.com/">Due</a></strong><br><sub>Reminders with persistent alerts. <code>Paid</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/fantastical.png" width="48" height="48" alt="Fantastical icon"></td>
+<td><strong><a href="https://flexibits.com/fantastical">Fantastical</a></strong><br><sub>Calendar app with natural language input. <code>Subscription</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/focus.png" width="48" height="48" alt="Focus icon"></td>
+<td><strong><a href="https://heyfocus.com/">Focus</a></strong><br><sub>Block distracting websites and applications. <code>Paid</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/keyboard-maestro.png" width="48" height="48" alt="Keyboard Maestro icon"></td>
+<td><strong><a href="https://www.keyboardmaestro.com/">Keyboard Maestro</a></strong><br><sub>Automate applications and websites. <code>Paid</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/omnifocus.png" width="48" height="48" alt="OmniFocus icon"></td>
+<td><strong><a href="https://www.omnigroup.com/omnifocus/">OmniFocus</a></strong><br><sub>Professional-grade task management. <code>Paid</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/raycast.png" width="48" height="48" alt="Raycast icon"></td>
+<td><strong><a href="https://www.raycast.com/">Raycast</a></strong><br><sub>Blazingly fast extendable launcher. <code>Freemium</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/revu.png" width="48" height="48" alt="Revu icon"></td>
+<td><strong><a href="https://revu.cards">Revu</a></strong><br><sub>Local-first spaced repetition app with FSRS scheduling, Anki import, and study guides. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/selfcontrol.png" width="48" height="48" alt="SelfControl icon"></td>
+<td><strong><a href="https://selfcontrolapp.com/">SelfControl</a></strong><br><sub>Block distracting websites. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/snippety.png" width="48" height="48" alt="Snippety icon"></td>
+<td><strong><a href="https://snippety.app">Snippety</a></strong><br><sub>Advanced snippets manager for macOS and iOS. <code>Paid</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/taskpaper.png" width="48" height="48" alt="TaskPaper icon"></td>
+<td><strong><a href="https://www.taskpaper.com/">TaskPaper</a></strong><br><sub>Plain text to-do lists. <code>Paid</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/things.png" width="48" height="48" alt="Things icon"></td>
+<td><strong><a href="https://culturedcode.com/things/">Things</a></strong><br><sub>Award-winning task manager. <code>Paid</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/tot.png" width="48" height="48" alt="Tot icon"></td>
+<td><strong><a href="https://tot.rocks/">Tot</a></strong><br><sub>Elegant text collection on menu bar. <code>Freemium</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/speakmac.png" width="48" height="48" alt="Speakmac icon"></td>
+<td><strong><a href="https://www.speakmac.app/">Speakmac</a></strong><br><sub>Offline hotkey dictation for macOS that types into any app using on-device transcription. <code>One-Time Subscription</code></sub></td>
+</tr>
+</table>
 
 ## Screenshot & Recording
 
-- [BetterCapture](https://bettercapture.app/) - A lightweight, and intuitive screen recorder with a native look and feel. `Free` `Open Source`
-- [CleanShot X](https://cleanshot.com/) - Capture your Mac's screen like a pro. `Paid`
-- [Gifox](https://gifox.app/) - Delightful GIF recording and sharing. `Paid`
-- [Kap](https://getkap.co/) - Open-source screen recorder. `Free` `Open Source`
-- [Keyty](https://keyty.app/) - Visualize keyboard and mouse actions for demos and recordings. `Free` `Open Source`
-- [ScreenFloat](https://eternalstorms.at/screenfloat/) - Screenshot utility with floating thumbnails. `Paid` `EU`
-- [ScreenKite](https://www.screenkite.com) - Screen recording and video editing with auto zoom effect. 4x faster than Screen Studio. `Free`
-- [Shottr](https://shottr.cc/) - Screenshot tool with advanced features. `Free`
-- [Xnapper](https://xnapper.com/) - Take beautiful screenshots instantly. `Freemium`
+<table>
+<tr>
+<td width="64"><img src="resources/icons/bettercapture.png" width="48" height="48" alt="BetterCapture icon"></td>
+<td><strong><a href="https://bettercapture.app/">BetterCapture</a></strong><br><sub>A lightweight, and intuitive screen recorder with a native look and feel. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/cleanshot-x.png" width="48" height="48" alt="CleanShot X icon"></td>
+<td><strong><a href="https://cleanshot.com/">CleanShot X</a></strong><br><sub>Capture your Mac's screen like a pro. <code>Paid</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/gifox.png" width="48" height="48" alt="Gifox icon"></td>
+<td><strong><a href="https://gifox.app/">Gifox</a></strong><br><sub>Delightful GIF recording and sharing. <code>Paid</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/kap.png" width="48" height="48" alt="Kap icon"></td>
+<td><strong><a href="https://getkap.co/">Kap</a></strong><br><sub>Open-source screen recorder. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/keyty.png" width="48" height="48" alt="Keyty icon"></td>
+<td><strong><a href="https://keyty.app/">Keyty</a></strong><br><sub>Visualize keyboard and mouse actions for demos and recordings. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/screenfloat.png" width="48" height="48" alt="ScreenFloat icon"></td>
+<td><strong><a href="https://eternalstorms.at/screenfloat/">ScreenFloat</a></strong><br><sub>Screenshot utility with floating thumbnails. <code>Paid</code> <code>EU</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/screenkite.png" width="48" height="48" alt="ScreenKite icon"></td>
+<td><strong><a href="https://www.screenkite.com">ScreenKite</a></strong><br><sub>Screen recording and video editing with auto zoom effect. 4x faster than Screen Studio. <code>Free</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/shottr.png" width="48" height="48" alt="Shottr icon"></td>
+<td><strong><a href="https://shottr.cc/">Shottr</a></strong><br><sub>Screenshot tool with advanced features. <code>Free</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/xnapper.png" width="48" height="48" alt="Xnapper icon"></td>
+<td><strong><a href="https://xnapper.com/">Xnapper</a></strong><br><sub>Take beautiful screenshots instantly. <code>Freemium</code></sub></td>
+</tr>
+</table>
 
 ## Security & Privacy
 
-- [Cryptomator](https://cryptomator.org/) - Multi-platform client-side encryption. `Free` `Open Source` `EU`
-- [KnockKnock](https://objective-see.org/products/knockknock.html) - See what's persistently installed on your Mac. `Free` `Open Source`
-- [Little Snitch](https://www.obdev.at/products/littlesnitch/) - Network monitor and firewall. `Paid` `EU`
-- [Lockpaw](https://github.com/sorkila/lockpaw) - Lock the screen while background tasks, builds, and AI agents keep running. `Free` `Open Source`
-- [Lulu](https://objective-see.org/products/lulu.html) - Open-source firewall for macOS. `Free` `Open Source`
-- [Micro Snitch](https://www.obdev.at/products/microsnitch/) - Monitor camera and microphone access. `Paid` `EU`
-- [OverSight](https://objective-see.org/products/oversight.html) - Monitor mic and webcam access. `Free` `Open Source`
-- [Shieldxy](https://rockxy.io/shieldxy) - Native macOS application firewall for monitoring and controlling outbound connections by app. `Free` `Open Source`
+[Browse security & privacy apps with screenshots and pricing on MacNative →](https://macnative.io/categories/security-privacy?utm_source=github&utm_medium=referral&utm_campaign=native_apps_list&utm_content=category_security-privacy)
+
+<table>
+<tr>
+<td width="64"><img src="resources/icons/cryptomator.png" width="48" height="48" alt="Cryptomator icon"></td>
+<td><strong><a href="https://cryptomator.org/">Cryptomator</a></strong><br><sub>Multi-platform client-side encryption. <code>Free</code> <code>Open Source</code> <code>EU</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/knockknock.png" width="48" height="48" alt="KnockKnock icon"></td>
+<td><strong><a href="https://objective-see.org/products/knockknock.html">KnockKnock</a></strong><br><sub>See what's persistently installed on your Mac. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/little-snitch.png" width="48" height="48" alt="Little Snitch icon"></td>
+<td><strong><a href="https://www.obdev.at/products/littlesnitch/">Little Snitch</a></strong><br><sub>Network monitor and firewall. <code>Paid</code> <code>EU</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/lockpaw.png" width="48" height="48" alt="Lockpaw icon"></td>
+<td><strong><a href="https://github.com/sorkila/lockpaw">Lockpaw</a></strong><br><sub>Lock the screen while background tasks, builds, and AI agents keep running. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/lulu.png" width="48" height="48" alt="Lulu icon"></td>
+<td><strong><a href="https://objective-see.org/products/lulu.html">Lulu</a></strong><br><sub>Open-source firewall for macOS. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/micro-snitch.png" width="48" height="48" alt="Micro Snitch icon"></td>
+<td><strong><a href="https://www.obdev.at/products/microsnitch/">Micro Snitch</a></strong><br><sub>Monitor camera and microphone access. <code>Paid</code> <code>EU</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/oversight.png" width="48" height="48" alt="OverSight icon"></td>
+<td><strong><a href="https://objective-see.org/products/oversight.html">OverSight</a></strong><br><sub>Monitor mic and webcam access. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/shieldxy.png" width="48" height="48" alt="Shieldxy icon"></td>
+<td><strong><a href="https://rockxy.io/shieldxy">Shieldxy</a></strong><br><sub>Native macOS application firewall for monitoring and controlling outbound connections by app. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+</table>
 
 ## System Utilities
 
-- [AlDente](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter) - Charge limiter to extend MacBook battery life. `Freemium` `Open Source`
-- [AppCleaner](https://freemacsoft.net/appcleaner/) - Thoroughly uninstall unwanted apps. `Free`
-- [Background Music](https://github.com/kyleneideck/BackgroundMusic) - Control audio per-application. `Free` `Open Source`
-- [coconutBattery](https://www.coconut-flavour.com/coconutbattery/) - Check battery health and status. `Free`
-- [ClearDisk](https://github.com/bysiber/cleardisk) - macOS menu bar utility that monitors 44+ developer cache paths and helps reclaim disk space. `Free` `Open Source`
-- [DaisyDisk](https://daisydiskapp.com/) - Analyze disk usage and free up space. `Paid`
-- [MonitorControl](https://github.com/MonitorControl/MonitorControl) - Control external monitor brightness & volume like native displays. `Free` `Open Source`
-- [DisplayBuddy](https://displaybuddy.app/) - Control the real brightness of monitors directly from Mac. `Paid`
-- [Endurance](https://enduranceapp.com/) - Extend your MacBook's battery life. `Paid`
-- [EtreCheck](https://etrecheck.com/) - System configuration and diagnostic reporting. `Free`
-- [Hand Mirror](https://handmirror.app/) - One-click camera check from menu bar. `Free`
-- [iStat Menus](https://bjango.com/mac/istatmenus/) - Advanced Mac system monitor. `Paid`
-- [LinearMouse](https://linearmouse.app) - The mouse and trackpad utility for Mac. `Free` `Open Source`
-- [Lungo](https://sindresorhus.com/lungo) - Prevent your Mac from going to sleep. `Paid`
-- [Mole](https://mole.fit/) - Clean caches, manage apps, analyze disk space, and monitor system status. `Paid`
-- [MonitorControl](https://github.com/MonitorControl/MonitorControl) - Control external display brightness and volume. `Free` `Open Source`
-- [Onyx](https://www.titanium-software.fr/en/onyx.html) - Multifunction utility for macOS. `Free` `EU`
-- [Pearcleaner](https://pearcleaner.com/) - Powerful Mac app cleaner `Free` `Open Source`
-- [Rectangle](https://rectangleapp.com/) - Window management with keyboard shortcuts. `Free` `Open Source`
-- [Stats](https://github.com/exelban/stats) - macOS system monitor. `Free` `Open Source`
-- [The Unarchiver](https://theunarchiver.com/) - Extract many archive formats. `Free`
+[Browse utilities with screenshots and pricing on MacNative →](https://macnative.io/categories/utilities?utm_source=github&utm_medium=referral&utm_campaign=native_apps_list&utm_content=category_utilities)
+
+<table>
+<tr>
+<td width="64"><img src="resources/icons/aldente.png" width="48" height="48" alt="AlDente icon"></td>
+<td><strong><a href="https://github.com/AppHouseKitchen/AlDente-Charge-Limiter">AlDente</a></strong><br><sub>Charge limiter to extend MacBook battery life. <code>Freemium</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"></td>
+<td><strong><a href="https://freemacsoft.net/appcleaner/">AppCleaner</a></strong><br><sub>Thoroughly uninstall unwanted apps. <code>Free</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/background-music.png" width="48" height="48" alt="Background Music icon"></td>
+<td><strong><a href="https://github.com/kyleneideck/BackgroundMusic">Background Music</a></strong><br><sub>Control audio per-application. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/coconutbattery.png" width="48" height="48" alt="coconutBattery icon"></td>
+<td><strong><a href="https://www.coconut-flavour.com/coconutbattery/">coconutBattery</a></strong><br><sub>Check battery health and status. <code>Free</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/cleardisk.png" width="48" height="48" alt="ClearDisk icon"></td>
+<td><strong><a href="https://github.com/bysiber/cleardisk">ClearDisk</a></strong><br><sub>macOS menu bar utility that monitors 44+ developer cache paths and helps reclaim disk space. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/cooldock.png" width="48" height="48" alt="CoolDock icon"></td>
+<td><strong><a href="https://cooldock.app/">CoolDock</a></strong><br><sub>Second Dock for Mac with live widgets for music, calendar, weather, and system stats. <code>Paid</code> <code>EU</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/daisydisk.png" width="48" height="48" alt="DaisyDisk icon"></td>
+<td><strong><a href="https://daisydiskapp.com/">DaisyDisk</a></strong><br><sub>Analyze disk usage and free up space. <code>Paid</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/monitorcontrol.png" width="48" height="48" alt="MonitorControl icon"></td>
+<td><strong><a href="https://github.com/MonitorControl/MonitorControl">MonitorControl</a></strong><br><sub>Control external monitor brightness & volume like native displays. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/displaybuddy.png" width="48" height="48" alt="DisplayBuddy icon"></td>
+<td><strong><a href="https://displaybuddy.app/">DisplayBuddy</a></strong><br><sub>Control the real brightness of monitors directly from Mac. <code>Paid</code></sub></td>
+</tr>
+<tr>
+<td width="64"></td>
+<td><strong><a href="https://enduranceapp.com/">Endurance</a></strong><br><sub>Extend your MacBook's battery life. <code>Paid</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/etrecheck.png" width="48" height="48" alt="EtreCheck icon"></td>
+<td><strong><a href="https://etrecheck.com/">EtreCheck</a></strong><br><sub>System configuration and diagnostic reporting. <code>Free</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/hand-mirror.png" width="48" height="48" alt="Hand Mirror icon"></td>
+<td><strong><a href="https://handmirror.app/">Hand Mirror</a></strong><br><sub>One-click camera check from menu bar. <code>Free</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/istat-menus.png" width="48" height="48" alt="iStat Menus icon"></td>
+<td><strong><a href="https://bjango.com/mac/istatmenus/">iStat Menus</a></strong><br><sub>Advanced Mac system monitor. <code>Paid</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/linearmouse.png" width="48" height="48" alt="LinearMouse icon"></td>
+<td><strong><a href="https://linearmouse.app">LinearMouse</a></strong><br><sub>The mouse and trackpad utility for Mac. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/lungo.png" width="48" height="48" alt="Lungo icon"></td>
+<td><strong><a href="https://sindresorhus.com/lungo">Lungo</a></strong><br><sub>Prevent your Mac from going to sleep. <code>Paid</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/mole.png" width="48" height="48" alt="Mole icon"></td>
+<td><strong><a href="https://mole.fit/">Mole</a></strong><br><sub>Clean caches, manage apps, analyze disk space, and monitor system status. <code>Paid</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/onyx.png" width="48" height="48" alt="Onyx icon"></td>
+<td><strong><a href="https://www.titanium-software.fr/en/onyx.html">Onyx</a></strong><br><sub>Multifunction utility for macOS. <code>Free</code> <code>EU</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/pearcleaner.png" width="48" height="48" alt="Pearcleaner icon"></td>
+<td><strong><a href="https://pearcleaner.com/">Pearcleaner</a></strong><br><sub>Powerful Mac app cleaner <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/rectangle.png" width="48" height="48" alt="Rectangle icon"></td>
+<td><strong><a href="https://rectangleapp.com/">Rectangle</a></strong><br><sub>Window management with keyboard shortcuts. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/stats.png" width="48" height="48" alt="Stats icon"></td>
+<td><strong><a href="https://github.com/exelban/stats">Stats</a></strong><br><sub>macOS system monitor. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/the-unarchiver.png" width="48" height="48" alt="The Unarchiver icon"></td>
+<td><strong><a href="https://theunarchiver.com/">The Unarchiver</a></strong><br><sub>Extract many archive formats. <code>Free</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/widgetscape.png" width="48" height="48" alt="Widgetscape icon"></td>
+<td><strong><a href="https://widgetscape.vpolabs.com">Widgetscape</a></strong><br><sub>Live desktop widgets (calendar, weather, system stats) on a shared grid and palette. <code>Freemium</code> <code>EU</code></sub></td>
+</tr>
+</table>
 
 ## Terminal & Shell
 
-- [Alacritty](https://alacritty.org/) - GPU-accelerated terminal emulator. `Free` `Open Source`
-- [iTerm2](https://iterm2.com/) - Terminal emulator for macOS. `Free` `Open Source`
-- [Kitty](https://sw.kovidgoyal.net/kitty/) - Fast, feature-rich GPU-based terminal. `Free` `Open Source`
-- [Terminal](https://support.apple.com/guide/terminal/) - Built-in macOS terminal. `Free`
-- [Warp](https://www.warp.dev/) - Rust-based terminal with modern features. `Free`
+<table>
+<tr>
+<td width="64"><img src="resources/icons/alacritty.png" width="48" height="48" alt="Alacritty icon"></td>
+<td><strong><a href="https://alacritty.org/">Alacritty</a></strong><br><sub>GPU-accelerated terminal emulator. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/iterm2.png" width="48" height="48" alt="iTerm2 icon"></td>
+<td><strong><a href="https://iterm2.com/">iTerm2</a></strong><br><sub>Terminal emulator for macOS. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/kitty.png" width="48" height="48" alt="Kitty icon"></td>
+<td><strong><a href="https://sw.kovidgoyal.net/kitty/">Kitty</a></strong><br><sub>Fast, feature-rich GPU-based terminal. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/terminal.png" width="48" height="48" alt="Terminal icon"></td>
+<td><strong><a href="https://support.apple.com/guide/terminal/">Terminal</a></strong><br><sub>Built-in macOS terminal. <code>Free</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/warp.png" width="48" height="48" alt="Warp icon"></td>
+<td><strong><a href="https://www.warp.dev/">Warp</a></strong><br><sub>Rust-based terminal with modern features. <code>Free</code></sub></td>
+</tr>
+</table>
 
 ## Text Editors
 
-- [BBEdit](https://www.barebones.com/products/bbedit/) - Professional text and code editor. `Paid`
-- [CodeEdit](https://github.com/CodeEditApp/CodeEdit) - Native code editor for macOS. `Free` `Open Source`
-- [CotEditor](https://coteditor.com/) - Lightweight plain-text editor. `Free` `Open Source`
-- [Itsypad](https://github.com/nickustinov/itsypad-macos) - A tiny, fast scratchpad and clipboard manager. `Free` `Open Source`
-- [MacVim](https://macvim.org/) - Vim text editor for macOS. `Free` `Open Source`
-- [Neon Vision Editor](https://github.com/h3pdesign/Neon-Vision-Editor) - A lightweight and modern macOS code editor. `Free` `Open Source`
-- [Nova](https://nova.app/) - Beautiful native code editor from Panic. `Paid`
-- [SubEthaEdit](https://subethaedit.net/) - Code, write, and edit with collaborative features. `Free` `Open Source`
-- [TextMate](https://macromates.com/) - Powerful text editor for macOS. `Free` `Open Source`
-- [VimR](https://github.com/qvacua/vimr) - Neovim GUI for macOS. `Free` `Open Source`
+<table>
+<tr>
+<td width="64"><img src="resources/icons/bbedit.png" width="48" height="48" alt="BBEdit icon"></td>
+<td><strong><a href="https://www.barebones.com/products/bbedit/">BBEdit</a></strong><br><sub>Professional text and code editor. <code>Paid</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/codeedit.png" width="48" height="48" alt="CodeEdit icon"></td>
+<td><strong><a href="https://github.com/CodeEditApp/CodeEdit">CodeEdit</a></strong><br><sub>Native code editor for macOS. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/coteditor.png" width="48" height="48" alt="CotEditor icon"></td>
+<td><strong><a href="https://coteditor.com/">CotEditor</a></strong><br><sub>Lightweight plain-text editor. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/itsypad.png" width="48" height="48" alt="Itsypad icon"></td>
+<td><strong><a href="https://github.com/nickustinov/itsypad-macos">Itsypad</a></strong><br><sub>A tiny, fast scratchpad and clipboard manager. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/macvim.png" width="48" height="48" alt="MacVim icon"></td>
+<td><strong><a href="https://macvim.org/">MacVim</a></strong><br><sub>Vim text editor for macOS. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/neon-vision-editor.png" width="48" height="48" alt="Neon Vision Editor icon"></td>
+<td><strong><a href="https://github.com/h3pdesign/Neon-Vision-Editor">Neon Vision Editor</a></strong><br><sub>A lightweight and modern macOS code editor. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/nova.png" width="48" height="48" alt="Nova icon"></td>
+<td><strong><a href="https://nova.app/">Nova</a></strong><br><sub>Beautiful native code editor from Panic. <code>Paid</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/subethaedit.png" width="48" height="48" alt="SubEthaEdit icon"></td>
+<td><strong><a href="https://subethaedit.net/">SubEthaEdit</a></strong><br><sub>Code, write, and edit with collaborative features. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/textmate.png" width="48" height="48" alt="TextMate icon"></td>
+<td><strong><a href="https://macromates.com/">TextMate</a></strong><br><sub>Powerful text editor for macOS. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/vimr.png" width="48" height="48" alt="VimR icon"></td>
+<td><strong><a href="https://github.com/qvacua/vimr">VimR</a></strong><br><sub>Neovim GUI for macOS. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+</table>
 
 
 ## Video & Media
 
-- [HandBrake](https://handbrake.fr/) - Open source video transcoder. `Free` `Open Source`
-- [IINA](https://iina.io/) - Modern media player for macOS. `Free` `Open Source`
-- [Itsytv](https://github.com/nickustinov/itsytv-macos) - The missing Apple TV remote app. `Free` `Open Source`
-- [Movist Pro](https://movistprime.com/) - Powerful movie player for macOS. `Paid`
-- [Permute](https://software.charliemonroe.net/permute/) - Easy-to-use media converter. `Paid`
-- [QuickTime Player](https://support.apple.com/guide/quicktime-player/) - Built-in media player for macOS. `Free`
-- [Subler](https://subler.org/) - Mux and tag MP4 files. `Free` `Open Source`
-- [VLC](https://www.videolan.org/vlc/) - Cross-platform multimedia player. `Free` `Open Source` `EU`
+[Browse photo & video apps with screenshots and pricing on MacNative →](https://macnative.io/categories/photo-video?utm_source=github&utm_medium=referral&utm_campaign=native_apps_list&utm_content=category_photo-video)
+
+<table>
+<tr>
+<td width="64"><img src="resources/icons/handbrake.png" width="48" height="48" alt="HandBrake icon"></td>
+<td><strong><a href="https://handbrake.fr/">HandBrake</a></strong><br><sub>Open source video transcoder. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/iina.png" width="48" height="48" alt="IINA icon"></td>
+<td><strong><a href="https://iina.io/">IINA</a></strong><br><sub>Modern media player for macOS. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/itsytv.png" width="48" height="48" alt="Itsytv icon"></td>
+<td><strong><a href="https://github.com/nickustinov/itsytv-macos">Itsytv</a></strong><br><sub>The missing Apple TV remote app. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"></td>
+<td><strong><a href="https://movistprime.com/">Movist Pro</a></strong><br><sub>Powerful movie player for macOS. <code>Paid</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/permute.png" width="48" height="48" alt="Permute icon"></td>
+<td><strong><a href="https://software.charliemonroe.net/permute/">Permute</a></strong><br><sub>Easy-to-use media converter. <code>Paid</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/quicktime-player.png" width="48" height="48" alt="QuickTime Player icon"></td>
+<td><strong><a href="https://support.apple.com/guide/quicktime-player/">QuickTime Player</a></strong><br><sub>Built-in media player for macOS. <code>Free</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/subler.png" width="48" height="48" alt="Subler icon"></td>
+<td><strong><a href="https://subler.org/">Subler</a></strong><br><sub>Mux and tag MP4 files. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/vlc.png" width="48" height="48" alt="VLC icon"></td>
+<td><strong><a href="https://www.videolan.org/vlc/">VLC</a></strong><br><sub>Cross-platform multimedia player. <code>Free</code> <code>Open Source</code> <code>EU</code></sub></td>
+</tr>
+</table>
 
 ## Wallpaper Apps
 
-- [Backspace](https://www.backspacemac.app/) - Provides 1,000+ 4K live wallpapers for the desktop and Lock Screen. `Paid`
-- [Wallspace](https://wallspace.app/) - Live Wallpapers for Macos, with custom lock screen. `Freemium`
+<table>
+<tr>
+<td width="64"><img src="resources/icons/backspace.png" width="48" height="48" alt="Backspace icon"></td>
+<td><strong><a href="https://www.backspacemac.app/">Backspace</a></strong><br><sub>Provides 1,000+ 4K live wallpapers for the desktop and Lock Screen. <code>Paid</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/wallspace.png" width="48" height="48" alt="Wallspace icon"></td>
+<td><strong><a href="https://wallspace.app/">Wallspace</a></strong><br><sub>Live Wallpapers for Macos, with custom lock screen. <code>Freemium</code></sub></td>
+</tr>
+</table>
 
 ## Window Management
 
-- [Amethyst](https://ianyh.com/amethyst/) - Automatic tiling window manager. `Free` `Open Source`
-- [BetterSnapTool](https://folivora.ai/bettersnaptool) - Window management via snap areas. `Paid` `EU`
-- [Divvy](https://mizage.com/divvy/) - Window management at its finest. `Paid`
-- [Loop](https://github.com/MrKai77/Loop) - Window management made elegant. `Free` `Open Source`
-- [Magnet](https://magnet.crowdcafe.com/) - Window manager that snaps windows into position. `Paid`
-- [Moom](https://manytricks.com/moom/) - Move and zoom windows with ease. `Paid`
-- [Nudge](https://nudge.run) - Free window manager with keyboard shortcuts and drag-to-edge snapping. `Free` `Open Source`
-- [Rectangle](https://rectangleapp.com/) - Window snapping via keyboard shortcuts. `Free` `Open Source`
-- [Rectangle Pro](https://rectangleapp.com/pro) - Professional window management. `Paid`
-- [Swish](https://highlyopinionated.co/swish/) - Control windows with trackpad gestures. `Paid`
-- [Wins](https://wins.cool) - Bring system-level window management features to macOS. `Paid`
-- [Yabai](https://github.com/koekeishiya/yabai) - Tiling window manager for macOS. `Free` `Open Source`
+<table>
+<tr>
+<td width="64"><img src="resources/icons/amethyst.png" width="48" height="48" alt="Amethyst icon"></td>
+<td><strong><a href="https://ianyh.com/amethyst/">Amethyst</a></strong><br><sub>Automatic tiling window manager. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/bettersnaptool.png" width="48" height="48" alt="BetterSnapTool icon"></td>
+<td><strong><a href="https://folivora.ai/bettersnaptool">BetterSnapTool</a></strong><br><sub>Window management via snap areas. <code>Paid</code> <code>EU</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/divvy.png" width="48" height="48" alt="Divvy icon"></td>
+<td><strong><a href="https://mizage.com/divvy/">Divvy</a></strong><br><sub>Window management at its finest. <code>Paid</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/loop.png" width="48" height="48" alt="Loop icon"></td>
+<td><strong><a href="https://github.com/MrKai77/Loop">Loop</a></strong><br><sub>Window management made elegant. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/magnet.png" width="48" height="48" alt="Magnet icon"></td>
+<td><strong><a href="https://magnet.crowdcafe.com/">Magnet</a></strong><br><sub>Window manager that snaps windows into position. <code>Paid</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/moom.png" width="48" height="48" alt="Moom icon"></td>
+<td><strong><a href="https://manytricks.com/moom/">Moom</a></strong><br><sub>Move and zoom windows with ease. <code>Paid</code></sub></td>
+</tr>
+<tr>
+<td width="64"></td>
+<td><strong><a href="https://nudge.run">Nudge</a></strong><br><sub>Free window manager with keyboard shortcuts and drag-to-edge snapping. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/rectangle.png" width="48" height="48" alt="Rectangle icon"></td>
+<td><strong><a href="https://rectangleapp.com/">Rectangle</a></strong><br><sub>Window snapping via keyboard shortcuts. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/rectangle-pro.png" width="48" height="48" alt="Rectangle Pro icon"></td>
+<td><strong><a href="https://rectangleapp.com/pro">Rectangle Pro</a></strong><br><sub>Professional window management. <code>Paid</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/swish.png" width="48" height="48" alt="Swish icon"></td>
+<td><strong><a href="https://highlyopinionated.co/swish/">Swish</a></strong><br><sub>Control windows with trackpad gestures. <code>Paid</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/wins.png" width="48" height="48" alt="Wins icon"></td>
+<td><strong><a href="https://wins.cool">Wins</a></strong><br><sub>Bring system-level window management features to macOS. <code>Paid</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/yabai.png" width="48" height="48" alt="Yabai icon"></td>
+<td><strong><a href="https://github.com/koekeishiya/yabai">Yabai</a></strong><br><sub>Tiling window manager for macOS. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+</table>
+
+## Mac App Guides
+
+Go beyond the list with guides from MacNative:
+
+- [How to check whether a Mac app uses Electron](https://macnative.io/blog/how-to-check-if-mac-app-uses-electron?utm_source=github&utm_medium=referral&utm_campaign=native_apps_list&utm_content=guide_electron)
+- [Raycast vs. Tinycast vs. Vicinae vs. SuperCMD](https://macnative.io/blog/raycast-vs-tinycast-vs-vicinae-vs-supercmd?utm_source=github&utm_medium=referral&utm_campaign=native_apps_list&utm_content=guide_launchers)
+- [Mac clipboard managers without a subscription](https://macnative.io/blog/mac-clipboard-managers-no-subscription?utm_source=github&utm_medium=referral&utm_campaign=native_apps_list&utm_content=guide_clipboard_index)
+
+---
 
 ## Contributing
 
-We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING.md) before submitting.
+Know a great native Mac app, or spotted something that needs fixing? [Suggest an app](https://github.com/open-saas-directory/awesome-native-macosx-apps/issues/new?template=app-submission.md), report an issue, or open a pull request.
 
-### How to Contribute
+Read [CONTRIBUTING.md](CONTRIBUTING.md) for eligibility, entry formatting, and icon requirements. Only native Mac apps are accepted; Electron apps and web wrappers are excluded.
 
-1. **Fork** this repository
-2. **Add** your app to the appropriate category in alphabetical order
-3. Follow the format: `[App Name](link) - Brief description. \`License/Price\``
-4. **Verify** the app is truly native (Swift/SwiftUI/AppKit)
-5. Create a **Pull Request**
+## For Mac App Developers
 
-### App Requirements
+[Submit your app to MacNative](https://macnative.io/submit). Spotlight placement in this README is included in the paid [MacNative Pro plan](https://macnative.io/pricing), subject to the same native-app requirements as every other listing.
 
-Apps must meet ALL these criteria:
+Looking for more places to launch? Browse [Awesome Mac Launch Platforms](https://github.com/macnative/awesome-mac-launch-platforms).
 
-- ✅ Built with native macOS technologies
-- ✅ Lightweight and performant
-- ✅ Actively maintained (updated within the last 2 years)
-- ✅ Available for download
-- ✅ No malware/spyware
-
-### What NOT to Include
-
-- ❌ Electron apps
-- ❌ Web wrappers
-- ❌ Abandoned projects (no updates in 2+ years)
-- ❌ Apps with malware/suspicious behavior
-- ❌ Cross-platform apps with poor macOS integration
-
-### Get Your App Spotlighted on X
-
-Beyond adding your app to this list, you can send it to us on [X (@NativeMacApps)](https://x.com/NativeMacApps) for a chance at an individual spotlight post with a screenshot and writeup. [Follow the account](https://x.com/NativeMacApps) to catch new spotlights.
+For an app spotlight, reach us on [X (@mac_native)](https://x.com/mac_native). For sponsorship inquiries, email [hello@macnative.io](mailto:hello@macnative.io).
 
 ## Star History
 
 [![Star History Chart](https://star-history.dera.page/svg?repos=open-saas-directory/awesome-native-macosx-apps&type=Date)](https://star-history.dera.page/#open-saas-directory/awesome-native-macosx-apps&Date)
+
+If this list helps you discover useful apps, consider starring the repository.
 
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, the contributors have waived all copyright and related rights to this work.
-
----
-
-**💡 Found a great native macOS app?** [Submit it here!](../../issues/new?template=app-submission.md)
-
-**⭐ If you find this list useful, please star the repo to help others discover it!**
-
-**🔗 Share:** [Twitter](https://twitter.com/intent/tweet?text=Awesome%20Native%20macOS%20Apps%20%E2%80%93%20A%20curated%20list%20of%20beautiful%2C%20lightweight%20macOS%20applications&url=https://github.com/open-saas-directory/awesome-native-macosx-apps) | [Reddit](https://reddit.com/submit?url=https://github.com/open-saas-directory/awesome-native-macosx-apps&title=Awesome%20Native%20macOS%20Apps)
-
-
-
----
-
-Reach thousands of Mac power users by sponsoring this list. Contact us at [sponsor@opensaas.directory](mailto:sponsor@opensaas.directory)
