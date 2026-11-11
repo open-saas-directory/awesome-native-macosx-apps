@@ -275,6 +275,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <td width="64"><img src="resources/icons/unclutter.png" width="48" height="48" alt="Unclutter icon"></td>
 <td><strong><a href="https://unclutterapp.com/">Unclutter</a></strong><br><sub>Files, notes, and clipboard manager in one. <code>Paid</code></sub></td>
 </tr>
+<tr>
+<td width="64"><img src="resources/icons/whisk.png" width="48" height="48" alt="Whisk icon"></td>
+<td><strong><a href="https://github.com/nathan-poncet/whisk">Whisk</a></strong><br><sub>Paste-style clipboard manager with pins, search operators, paste stack and rich previews. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
 </table>
 
 ## Color Pickers
