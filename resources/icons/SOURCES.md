@@ -183,7 +183,7 @@ Each icon was resized to 64x64px for display; no crops or edits beyond resizing/
 | The Unarchiver | `resources/icons/the-unarchiver.png` | https://cdn.theunarchiver.com/img/the-unarchiver-144x144.png (official site) |
 | Things | `resources/icons/things.png` | https://culturedcode.com/apple-touch-icon.png?breackcache=ddi27f1a (official site) |
 | TickerPad | `resources/icons/tickerpad.png` | https://tickerpad.app/apple-touch-icon.png (official site) |
-| Tomatino | `resources/icons/tomatino.png` | https://tomatino.app/assets/apple-touch-icon.png?v=249c5bb9 (official site) |
+| Tomatino | `resources/icons/tomatino.png` | https://tomatino.app/assets/icon-128.png (official site, scaled to 64 px) |
 | Tot | `resources/icons/tot.png` | https://tot.rocks/favicon.ico (official site) |
 | Tower | `resources/icons/tower.png` | https://www.git-tower.com/assets/img/favicons/apple-touch-icon@192w.1789730868.png (official site) |
 | Tracexy | `resources/icons/tracexy.png` | https://rockxy.io/assets/images/tracexy/logo-256.png (official site) |
