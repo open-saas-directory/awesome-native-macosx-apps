@@ -13,6 +13,7 @@ Each icon was resized to 64x64px for display; no crops or edits beyond resizing/
 | Alfred | `resources/icons/alfred.png` | https://www.alfredapp.com/apple-touch-icon.png (official site) |
 | Amethyst | `resources/icons/amethyst.png` | https://ianyh.com/images/amethyst.png (official site) |
 | Arq | `resources/icons/arq.png` | https://www.arqbackup.com/apple-icon-180x180.png (official site) |
+| Awake | `resources/icons/awake.png` | GitHub repo Illyism/awake — assets/awake-icon.png (official repo, resized to 64x64) |
 | BBEdit | `resources/icons/bbedit.png` | https://www.barebones.com/favicon.png (official site) |
 | Background Music | `resources/icons/background-music.png` | GitHub repo kyleneideck/BackgroundMusic — BGMApp/BGMApp/Images.xcassets/AppIcon.appiconset/appicon_256.png |
 | BackgroundMusic | `resources/icons/backgroundmusic.png` | GitHub repo kyleneideck/BackgroundMusic — BGMApp/BGMApp/Images.xcassets/AppIcon.appiconset/appicon_256.png |
