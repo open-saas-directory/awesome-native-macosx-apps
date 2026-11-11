@@ -433,6 +433,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <td width="64"><img src="resources/icons/subscription-day.png" width="48" height="48" alt="Subscription Day icon"></td>
 <td><strong><a href="https://subsday.appps.od.ua/">Subscription Day</a></strong><br><sub>Track your paid subscriptions and analyze spending statistics. <code>Freemium</code></sub></td>
 </tr>
+<tr>
+<td width="64"><img src="resources/icons/tape.png" width="48" height="48" alt="Tape icon"></td>
+<td><strong><a href="https://github.com/Yvsleyen00941/Tape">Tape</a></strong><br><sub>Stock ticker in the empty corner beside the Dock. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
 </table>
 
 ## File Management
@@ -575,6 +579,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <tr>
 <td width="64"><img src="resources/icons/bartender.png" width="48" height="48" alt="Bartender icon"></td>
 <td><strong><a href="https://www.macbartender.com/">Bartender</a></strong><br><sub>Organize your menu bar icons. <code>Paid</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/cockpit.png" width="48" height="48" alt="Cockpit icon"></td>
+<td><strong><a href="https://yorben.me/#cockpit">Cockpit</a></strong><br><sub>Open-source daily productivity heads-up display and menu bar workspace dashboard. <code>Free</code> <code>Open Source</code></sub></td>
 </tr>
 <tr>
 <td width="64"><img src="resources/icons/commitments.png" width="48" height="48" alt="Commitments icon"></td>
@@ -781,6 +789,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <tr>
 <td width="64"><img src="resources/icons/pdfpenpro.png" width="48" height="48" alt="PDFpenPro icon"></td>
 <td><strong><a href="https://pdfpen.com/">PDFpenPro</a></strong><br><sub>Professional PDF editing for Mac. <code>Paid</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/rime.png" width="48" height="48" alt="Rime icon"></td>
+<td><strong><a href="https://yorben.me/#rime">Rime</a></strong><br><sub>Minimalist distraction-free PDF reader with frosted-ice focus backdrop. <code>Free</code> <code>Open Source</code></sub></td>
 </tr>
 <tr>
 <td width="64"><img src="resources/icons/skim.png" width="48" height="48" alt="Skim icon"></td>
