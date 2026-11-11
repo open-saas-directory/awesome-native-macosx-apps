@@ -736,6 +736,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <td><strong><a href="https://brettterpstra.com/projects/nvalt/">nvALT</a></strong><br><sub>Fork of Notational Velocity with additional features. <code>Free</code> <code>Open Source</code></sub></td>
 </tr>
 <tr>
+<td width="64"><img src="resources/icons/pizzinu.png" width="48" height="48" alt="Pizzinu icon"></td>
+<td><strong><a href="https://www.piratepixel.it/pizzinu/">Pizzinu</a></strong><br><sub>Sticky notes that look like real paper, with reminders, checklists and Markdown. <code>Free</code> <code>Open Source</code> <code>EU</code></sub></td>
+</tr>
+<tr>
 <td width="64"><img src="resources/icons/seqlog.png" width="48" height="48" alt="SeqLog icon"></td>
 <td><strong><a href="https://seqlog.com/">SeqLog</a></strong><br><sub>Outliner that stores every note as a plain Markdown file, with backlinks and built-in Git. <code>Free</code></sub></td>
 </tr>

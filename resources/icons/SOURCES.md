@@ -134,6 +134,7 @@ Each icon was resized to 64x64px for display; no crops or edits beyond resizing/
 | Petrichor | `resources/icons/petrichor.png` | https://petrichor.page/images/apple-touch-icon.png (official site) |
 | Pika | `resources/icons/pika.png` | https://superhighfives.com/assets/favicon-pika.ico (official site) |
 | Pixelmator Pro | `resources/icons/pixelmator-pro.png` | Mac App Store artwork for "Pixelmator Pro" by Apple Inc. (via iTunes Lookup API) |
+| Pizzinu | `resources/icons/pizzinu.png` | https://github.com/piratepxl/pizzinu/blob/main/docs/images/icon.png (official GitHub repository) |
 | Postico | `resources/icons/postico.png` | https://eggerapps.at/postico-icon-bw.png (official site) |
 | Proxyman | `resources/icons/proxyman.png` | https://proxyman.com/favicon/apple-touch-icon.png (official site; proxyman.io redirects here) |
 | QuickTime Player | `resources/icons/quicktime-player.png` | https://support.apple.com/favicon.ico (official site) |
