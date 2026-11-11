@@ -1021,6 +1021,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <td><strong><a href="https://rectangleapp.com/">Rectangle</a></strong><br><sub>Window management with keyboard shortcuts. <code>Free</code> <code>Open Source</code></sub></td>
 </tr>
 <tr>
+<td width="64"><img src="resources/icons/soju.png" width="48" height="48" alt="Soju icon"></td>
+<td><strong><a href="https://didimlabs.com">Soju</a></strong><br><sub>Installs Windows game launchers (Battle.net, Steam, Epic, GOG) on Apple Silicon via Wine. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
 <td width="64"><img src="resources/icons/stats.png" width="48" height="48" alt="Stats icon"></td>
 <td><strong><a href="https://github.com/exelban/stats">Stats</a></strong><br><sub>macOS system monitor. <code>Free</code> <code>Open Source</code></sub></td>
 </tr>
