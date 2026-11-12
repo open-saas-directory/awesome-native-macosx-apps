@@ -128,6 +128,7 @@ Each icon was resized to 64x64px for display; no crops or edits beyond resizing/
 | PDFpenPro | `resources/icons/pdfpenpro.png` | https://www.pdfpen.com/hubfs/favicon-196x196.png (official site) |
 | Paste | `resources/icons/paste.png` | https://pasteapp.io/apple-icon.png?apple-icon.30lesxnlnsdqu.png (official site) |
 | Paw | `resources/icons/paw.png` | https://cdn-static.paw.cloud/img/favicons/apple-touch-icon-bca26f2b6a.png (official site) |
+| Perch | `resources/icons/perch.png` | https://perch.run/icon.png (official site, resized from 256px) |
 | Pearcleaner | `resources/icons/pearcleaner.png` | https://pearcleaner.com/pear.ico (official site) |
 | Permute | `resources/icons/permute.png` | https://software.charliemonroe.net/assets/img/favicon.png (official site) |
 | Pesty | `resources/icons/pesty.png` | https://www.moamenbasel.com/pesty/assets/icon.png (official site) |
