@@ -25,6 +25,7 @@ Each icon was resized to 64x64px for display; no crops or edits beyond resizing/
 | BucketMate | `resources/icons/bucketmate.png` | https://bucketmate.app/apple-touch-icon.png (official site) |
 | Carbon Copy Cloner | `resources/icons/carbon-copy-cloner.png` | https://bombich.com/favicon/ccc.png (official site) |
 | Chronicle | `resources/icons/chronicle.png` | https://i0.wp.com/chronicleapp.com/wp-content/uploads/2021/08/cropped-Icon-MacOS-512x512%401x-1.png?fit=180%2C180&ssl=1 (official site) |
+| ClamDown | `resources/icons/clamdown.png` | https://clamdown.app/assets/icon-512.png (official site, scaled to 64 px) |
 | CleanShot X | `resources/icons/cleanshot-x.png` | https://cleanshot.com/favicon@2x.png (official site) |
 | ClearDisk | `resources/icons/cleardisk.png` | GitHub repo bysiber/cleardisk — Resources/AppIcon.png |
 | CodeEdit | `resources/icons/codeedit.png` | https://codeedit.app/favicon.png (official site) |

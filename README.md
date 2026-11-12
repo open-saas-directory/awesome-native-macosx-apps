@@ -961,6 +961,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <td><strong><a href="https://www.coconut-flavour.com/coconutbattery/">coconutBattery</a></strong><br><sub>Check battery health and status. <code>Free</code></sub></td>
 </tr>
 <tr>
+<td width="64"><img src="resources/icons/clamdown.png" width="48" height="48" alt="ClamDown icon"></td>
+<td><strong><a href="https://clamdown.app">ClamDown</a></strong><br><sub>Keeps a closed MacBook running with fan control; lets it sleep on low battery or high heat. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
 <td width="64"><img src="resources/icons/cleardisk.png" width="48" height="48" alt="ClearDisk icon"></td>
 <td><strong><a href="https://github.com/bysiber/cleardisk">ClearDisk</a></strong><br><sub>macOS menu bar utility that monitors 44+ developer cache paths and helps reclaim disk space. <code>Free</code> <code>Open Source</code></sub></td>
 </tr>
