@@ -818,6 +818,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <td><strong><a href="https://heyfocus.com/">Focus</a></strong><br><sub>Block distracting websites and applications. <code>Paid</code></sub></td>
 </tr>
 <tr>
+<td width="64"><img src="resources/icons/grux.png" width="48" height="48" alt="Grux icon"></td>
+<td><strong><a href="https://gruxai.com">Grux</a></strong><br><sub>Local-first AI agent with a shell it can undo, your mail, calendar and meetings, on your own API key or a local model with no account. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
 <td width="64"><img src="resources/icons/keyboard-maestro.png" width="48" height="48" alt="Keyboard Maestro icon"></td>
 <td><strong><a href="https://www.keyboardmaestro.com/">Keyboard Maestro</a></strong><br><sub>Automate applications and websites. <code>Paid</code></sub></td>
 </tr>
