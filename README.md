@@ -798,6 +798,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <td><strong><a href="https://www.alfredapp.com/">Alfred</a></strong><br><sub>Productivity app for macOS with powerful workflows. <code>Freemium</code></sub></td>
 </tr>
 <tr>
+<td width="64"><img src="resources/icons/annotator.png" width="48" height="48" alt="Annotator icon"></td>
+<td><strong><a href="https://getannotator.app">Annotator</a></strong><br><sub>Draw arrows, boxes, highlights and blur over any app; marks stay editable. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
 <td width="64"><img src="resources/icons/bettertouchtool.png" width="48" height="48" alt="BetterTouchTool icon"></td>
 <td><strong><a href="https://folivora.ai/">BetterTouchTool</a></strong><br><sub>Customize input devices on your Mac. <code>Paid</code> <code>EU</code></sub></td>
 </tr>
