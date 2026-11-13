@@ -8,6 +8,7 @@ Each icon was resized to 64x64px for display; no crops or edits beyond resizing/
 |---|---|---|
 | Acorn | `resources/icons/acorn.png` | https://flyingmeat.com/favicon.ico (official site) |
 | Airmail | `resources/icons/airmail.png` | https://airmailapp.com/static/images/apple-icon-180x180.png (official site) |
+| Aion | `resources/icons/aion.png` | https://aion.7caifei.com/apple-touch-icon.png (official site) |
 | AlDente | `resources/icons/aldente.png` | https://apphousekitchen.com/wp-content/uploads/2024/12/cropped-AHK-Web-Icon-180x180.png (official site) |
 | Alacritty | `resources/icons/alacritty.png` | https://alacritty.org/alacritty-simple.svg (official site, rasterized from SVG) |
 | Alfred | `resources/icons/alfred.png` | https://www.alfredapp.com/apple-touch-icon.png (official site) |
