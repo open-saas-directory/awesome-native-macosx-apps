@@ -213,6 +213,7 @@ Each icon was resized to 64x64px for display; no crops or edits beyond resizing/
 | iTerm2 | `resources/icons/iterm2.png` | https://iterm2.com/favicon.ico (official site) |
 | nvALT | `resources/icons/nvalt.png` | https://brettterpstra.com/favicon-180.png (official site) |
 | xScope | `resources/icons/xscope.png` | https://xscopeapp.com/apple-touch-icon.png (official site) |
+| Shout | `resources/icons/shout.png` | https://apps.apple.com/app/id6818195120 (App Store artwork, resized to 64x64) |
 
 ## Apps without a usable icon
 
