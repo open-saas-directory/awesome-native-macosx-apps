@@ -507,6 +507,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <td><strong><a href="https://imageoptim.com/">ImageOptim</a></strong><br><sub>Compress images without losing quality. <code>Free</code> <code>Open Source</code></sub></td>
 </tr>
 <tr>
+<td width="64"><img src="resources/icons/louppe.png" width="48" height="48" alt="Louppe icon"></td>
+<td><strong><a href="https://louppe.eu/">Louppe</a></strong><br><sub>Cull JPEG, RAW, and video folders in place by keyboard, then copy the keepers out. <code>Free</code> <code>Open Source</code> <code>EU</code></sub></td>
+</tr>
+<tr>
 <td width="64"></td>
 <td><strong><a href="https://www.pixaveapp.com/">Pixave</a></strong><br><sub>Ultimate image organizer and viewer. <code>Paid</code></sub></td>
 </tr>
