@@ -166,6 +166,7 @@ Each icon was resized to 64x64px for display; no crops or edits beyond resizing/
 | SoundSource | `resources/icons/soundsource.png` | https://rogueamoeba.com/global/images/siteimages/iPhoneicon.png?v20231002 (official site) |
 | SourceTree | `resources/icons/sourcetree.png` | https://dam-cdn.atl.orangelogic.com/AssetLink/5140xb7orvf7timubceisv3470t0305a.webp (official site) |
 | Speakmac | `resources/icons/speakmac.png` | https://www.speakmac.app/favicon-180x180.png (official site) |
+| Split | `resources/icons/split.png` | Official app icon supplied by the developer; https://splitformac.com/split-icon.webp (official site, resized to 64x64) |
 | Stargazer Bar | `resources/icons/stargazer-bar.png` | GitHub repo jazzyalex/stargazer-bar — GHMenuStars/Assets.xcassets/AppIcon.appiconset/icon_256.png |
 | Stats | `resources/icons/stats.png` | https://mac-stats.com/apple-touch-icon.png (official site) |
 | Strata Files | `resources/icons/strata-files.png` | https://assets.macnative.io/logo/add-app/strata-files.png (MacNative.io listing) |
