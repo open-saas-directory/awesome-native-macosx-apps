@@ -107,6 +107,7 @@ Each icon was resized to 64x64px for display; no crops or edits beyond resizing/
 | Mole | `resources/icons/mole.png` | https://mole.fit/img/favicon-mole-192-ba32c29d.png (official site) |
 | MonitorControl | `resources/icons/monitorcontrol.png` | GitHub repo MonitorControl/MonitorControl — MonitorControl/Assets.xcassets/AppIcon.appiconset/Icon-256.png |
 | Moom | `resources/icons/moom.png` | https://manytricks.com/apple-touch-icon.png (official site) |
+| MultiScreenDock | `resources/icons/multiscreendock.png` | https://multiscreendock.fgomsan.here.now/media/icon.png (official site) |
 | Muxie | `resources/icons/muxie.png` | https://muxie.duhnnie.com/favicon.png (official site) |
 | NameQuick | `resources/icons/namequick.png` | https://www.namequick.app/favicon-16x16.png (official site) |
 | Neon Vision Editor | `resources/icons/neon-vision-editor.png` | https://h3pdesign.github.io/Neon-Vision-Editor/docs/media/neon-icon-180.png (official site) |
