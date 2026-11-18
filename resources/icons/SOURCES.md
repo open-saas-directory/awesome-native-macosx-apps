@@ -92,6 +92,7 @@ Each icon was resized to 64x64px for display; no crops or edits beyond resizing/
 | Lulu | `resources/icons/lulu.png` | https://objective-see.org/images/favicon.png (official site) |
 | Lungo | `resources/icons/lungo.png` | https://sindresorhus.com/apps/lungo/icon.png (official site) |
 | Macsmith | `resources/icons/macsmith.png` | https://macsmith.app/assets/macsmith-icon-64.png (official site) |
+| MAD Designer | `resources/icons/mad-designer.png` | GitHub repo mthomason/MAD — docs/assets/mad-designer-macos-icon-512.png |
 | MD Preview | `resources/icons/md-preview.png` | GitHub repo vorojar/md-preview — assets/icon_1024.png |
 | MWeb | `resources/icons/mweb.png` | https://www.mweb.im/asset/icon_192.png (official site) |
 | MacDown | `resources/icons/macdown.png` | https://macdown.uranusjr.com/static/images/logo.png (official site) |
