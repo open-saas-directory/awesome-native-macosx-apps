@@ -231,3 +231,4 @@ These apps are listed text-only in the README because no real, official icon cou
 | Thaw | stonerl/Thaw GitHub repo contains no app icon assets (repo has only 2 files) |
 | CoolDock | `resources/icons/cooldock.png` | https://cooldock.app/favicon.png (official site) |
 | Loam | `resources/icons/loam.png` | https://github.com/Azilone/Loam.md — App/Sources/Plugins/IntroUI/Resources/Brand/Icon/Loam.png (official repo, resized to 64x64) |
+| Notch Hero | `resources/icons/notch-hero.png` | https://notchhero.com/apple-touch-icon.png (official site; resized to 64x64 from the developer's 256px app icon) |
