@@ -102,6 +102,7 @@ Each icon was resized to 64x64px for display; no crops or edits beyond resizing/
 | Marked 2 | `resources/icons/marked-2.png` | https://marked2app.com/apple-touch-icon-144x144.png (official site) |
 | Meeting Bar | `resources/icons/meeting-bar.png` | https://meetingbar.app/favicon.png (official site) |
 | MenubarX | `resources/icons/menubarx.png` | https://menubarx-1251679148.file.myqcloud.com/favicon3.png (official site) |
+| NotchDeck | `resources/icons/notchdeck.png` | Official release DMG v2.0.0-preview.2 — NotchDeck.app/Contents/Resources/AppIcon.icns (github.com/systemAdmin-ai/NotchDeck/releases) |
 | Micro Snitch | `resources/icons/micro-snitch.png` | https://www.obdev.at/apple-touch-icon.png (official site) |
 | Mimestream | `resources/icons/mimestream.png` | https://mimestream.com/assets/icons/apple-touch-icon.png (official site) |
 | Mole | `resources/icons/mole.png` | https://mole.fit/img/favicon-mole-192-ba32c29d.png (official site) |
