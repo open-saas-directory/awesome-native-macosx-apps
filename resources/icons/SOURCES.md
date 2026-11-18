@@ -75,6 +75,7 @@ Each icon was resized to 64x64px for display; no crops or edits beyond resizing/
 | IINA | `resources/icons/iina.png` | https://iina.io/images/apple-touch-icon.png (official site) |
 | IconJar | `resources/icons/iconjar.png` | https://geticonjar.com/favicon32.png (official site) |
 | ImageOptim | `resources/icons/imageoptim.png` | https://imageoptim.com/icon.png (official site) |
+| iShot | `resources/icons/ishot.png` | https://ishot.buzz/icons/512x512.png (official site) |
 | Itsycal | `resources/icons/itsycal.png` | https://www.mowglii.com/static/apple-touch-icon.png?v=1789663427 (official site) |
 | Itsyhome | `resources/icons/itsyhome.png` | https://itsyhome.app/apple-touch-icon.png (official site) |
 | Itsypad | `resources/icons/itsypad.png` | https://itsypad.app/apple-touch-icon.png (official site) |
