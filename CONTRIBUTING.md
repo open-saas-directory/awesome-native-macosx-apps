@@ -14,7 +14,8 @@ Thanks for helping improve this list!
 - ✅ Lightweight and fast (typically < 200MB, low resource usage)
 - ✅ Follows macOS Human Interface Guidelines, feels native
 - ✅ Actively maintained (updated within 2 years), with a stable release
-- ❌ Electron/web wrappers (rare exceptions for exceptional apps), abandoned projects, malware/adware, poorly designed apps, or self-promoted apps (unless truly exceptional)
+- ❌ Electron apps or web wrappers — no exceptions, including sponsored placements
+- ❌ Abandoned projects, malware/adware, poorly designed apps, or self-promoted apps (unless truly exceptional)
 
 ## Entry Format
 

@@ -45,6 +45,8 @@ Each icon was resized to 64x64px for display; no crops or edits beyond resizing/
 | DevUtils | `resources/icons/devutils.png` | https://devutils.com/apple.png (official site) |
 | DisplayBuddy | `resources/icons/displaybuddy.png` | https://displaybuddy.app/images/apple-touch-icon.png (official site) |
 | Divvy | `resources/icons/divvy.png` | https://mizage.com/favicon-152.png (official site) |
+| DMGKit | `resources/icons/dmgkit.png` | https://assets.macnative.io/logo/a99887e3-932d-4098-8867-d96e01474233.png (MacNative.io listing) |
+| DOT | `resources/icons/dot.png` | https://plastic.audio/dot/img/apple-touch-icon.png (official site) |
 | Dozer | `resources/icons/dozer.png` | GitHub repo Mortennn/Dozer — Dozer/Other/Assets.xcassets/AppIcon.appiconset/Icon_256x256.png |
 | Due | `resources/icons/due.png` | https://www.dueapp.com/apple-touch-icon.png (official site) |
 | DynamicHorizon | `resources/icons/dynamichorizon.png` | https://dynamichorizon.app/assets/brand/apple-touch-icon.png (official site) |
@@ -56,6 +58,7 @@ Each icon was resized to 64x64px for display; no crops or edits beyond resizing/
 | Focus | `resources/icons/focus.png` | https://heyfocus.com/apple-touch-icon.png (official site) |
 | Fork | `resources/icons/fork.png` | https://git-fork.com/favicon.ico (official site) |
 | ForkLift | `resources/icons/forklift.png` | https://binarynights.com/images/touchicon.png (official site) |
+| Fuse Caption Studio | `resources/icons/fuse-caption-studio.png` | https://assets.macnative.io/logo/fc793a1d-b3ac-4bdb-8320-13d03d6aadf8.png (MacNative.io listing) |
 | Gifox | `resources/icons/gifox.png` | https://gifox.app/asset/favicon/apple-touch-icon.png (official site) |
 | GitFox | `resources/icons/gitfox.png` | https://www.gitfox.app/assets/img/favicon-180.png (official site) |
 | GitUp | `resources/icons/gitup.png` | https://gitup.co/images/icons/favicon_32.png (official site) |
@@ -131,6 +134,7 @@ Each icon was resized to 64x64px for display; no crops or edits beyond resizing/
 | Petrichor | `resources/icons/petrichor.png` | https://petrichor.page/images/apple-touch-icon.png (official site) |
 | Pika | `resources/icons/pika.png` | https://superhighfives.com/assets/favicon-pika.ico (official site) |
 | Pixelmator Pro | `resources/icons/pixelmator-pro.png` | Mac App Store artwork for "Pixelmator Pro" by Apple Inc. (via iTunes Lookup API) |
+| Pizzinu | `resources/icons/pizzinu.png` | https://github.com/piratepxl/pizzinu/blob/main/docs/images/icon.png (official GitHub repository) |
 | Postico | `resources/icons/postico.png` | https://eggerapps.at/postico-icon-bw.png (official site) |
 | Proxyman | `resources/icons/proxyman.png` | https://proxyman.com/favicon/apple-touch-icon.png (official site; proxyman.io redirects here) |
 | QuickTime Player | `resources/icons/quicktime-player.png` | https://support.apple.com/favicon.ico (official site) |
@@ -164,6 +168,7 @@ Each icon was resized to 64x64px for display; no crops or edits beyond resizing/
 | Speakmac | `resources/icons/speakmac.png` | https://www.speakmac.app/favicon-180x180.png (official site) |
 | Stargazer Bar | `resources/icons/stargazer-bar.png` | GitHub repo jazzyalex/stargazer-bar — GHMenuStars/Assets.xcassets/AppIcon.appiconset/icon_256.png |
 | Stats | `resources/icons/stats.png` | https://mac-stats.com/apple-touch-icon.png (official site) |
+| Strata Files | `resources/icons/strata-files.png` | https://assets.macnative.io/logo/add-app/strata-files.png (MacNative.io listing) |
 | Strongbox | `resources/icons/strongbox.png` | https://strongboxsafe.com/wp-content/uploads/2020/09/cropped-markmc2412_app_icon-1-180x180.png (official site) |
 | SubEthaEdit | `resources/icons/subethaedit.png` | https://subethaedit.net/images/favicon180.png (official site) |
 | Subler | `resources/icons/subler.png` | GitHub repo SublerApp/Subler — Assets.xcassets/AppIcon.appiconset/icon_256x256.png |
@@ -179,7 +184,7 @@ Each icon was resized to 64x64px for display; no crops or edits beyond resizing/
 | The Unarchiver | `resources/icons/the-unarchiver.png` | https://cdn.theunarchiver.com/img/the-unarchiver-144x144.png (official site) |
 | Things | `resources/icons/things.png` | https://culturedcode.com/apple-touch-icon.png?breackcache=ddi27f1a (official site) |
 | TickerPad | `resources/icons/tickerpad.png` | https://tickerpad.app/apple-touch-icon.png (official site) |
-| Tomatino | `resources/icons/tomatino.png` | https://tomatino.app/assets/apple-touch-icon.png?v=249c5bb9 (official site) |
+| Tomatino | `resources/icons/tomatino.png` | https://tomatino.app/assets/icon-128.png (official site, scaled to 64 px) |
 | Tot | `resources/icons/tot.png` | https://tot.rocks/favicon.ico (official site) |
 | Tower | `resources/icons/tower.png` | https://www.git-tower.com/assets/img/favicons/apple-touch-icon@192w.1789730868.png (official site) |
 | Tracexy | `resources/icons/tracexy.png` | https://rockxy.io/assets/images/tracexy/logo-256.png (official site) |
@@ -200,6 +205,7 @@ Each icon was resized to 64x64px for display; no crops or edits beyond resizing/
 | Xnapper | `resources/icons/xnapper.png` | https://xnapper.com/apple-icon-180x180.png (official site) |
 | Yabai | `resources/icons/yabai.png` | GitHub repo koekeishiya/yabai — assets/icon/1x/icon-256px.png |
 | Zen Browser | `resources/icons/zen-browser.png` | https://zen-browser.app/favicon.ico (official site) |
+| Zipic | `resources/icons/zipic.png` | Official app icon supplied by the developer; https://zipic.app/favicon.svg (official site) |
 | coconutBattery | `resources/icons/coconutbattery.png` | https://www.coconut-flavour.com/favicon.png (official site) |
 | eqMac | `resources/icons/eqmac.png` | https://eqmac.app/favicon.ico (official site) |
 | iA Writer | `resources/icons/ia-writer.png` | https://static.ia.net/favicon-192.png (official site) |
@@ -225,3 +231,4 @@ These apps are listed text-only in the README because no real, official icon cou
 | Thaw | stonerl/Thaw GitHub repo contains no app icon assets (repo has only 2 files) |
 | CoolDock | `resources/icons/cooldock.png` | https://cooldock.app/favicon.png (official site) |
 | Halopen | `resources/icons/halopen.png` | https://halopen.com/icon-512.png (official site; 256 px app-bundle icon) |
+| Loam | `resources/icons/loam.png` | https://github.com/Azilone/Loam.md — App/Sources/Plugins/IntroUI/Resources/Brand/Icon/Loam.png (official repo, resized to 64x64) |
