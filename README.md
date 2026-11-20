@@ -131,9 +131,11 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 
 [Browse AI and automation apps on MacNative →](https://macnative.io/categories/ai-automation?utm_source=github&utm_medium=referral&utm_campaign=native_apps_list&utm_content=category_ai-automation)
 
-<!-- No entries yet — see CONTRIBUTING.md for how to add one. Keep entries alphabetical and native (no Electron AI wrappers). -->
-
 <table>
+<tr>
+<td width="64"><img src="resources/icons/speakey-for-mac.png" width="48" height="48" alt="Speakey for Mac icon"></td>
+<td><strong><a href="https://getspeakey.com/">Speakey for Mac</a></strong><br><sub>Voice control for Apple silicon Macs, with offline dictation that types into the app you are using. <code>Freemium</code></sub></td>
+</tr>
 </table>
 
 ## Analytics & Monitoring
