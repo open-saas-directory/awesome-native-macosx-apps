@@ -1189,6 +1189,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <td><strong><a href="https://nudge.run">Nudge</a></strong><br><sub>Free window manager with keyboard shortcuts and drag-to-edge snapping. <code>Free</code> <code>Open Source</code></sub></td>
 </tr>
 <tr>
+<td width="64"><img src="resources/icons/qesture.png" width="48" height="48" alt="Qesture icon"></td>
+<td><strong><a href="https://qesture.com">Qesture</a></strong><br><sub>Trackpad and mouse gestures for Spaces and windows. <code>Paid</code></sub></td>
+</tr>
+<tr>
 <td width="64"><img src="resources/icons/rectangle.png" width="48" height="48" alt="Rectangle icon"></td>
 <td><strong><a href="https://rectangleapp.com/">Rectangle</a></strong><br><sub>Window snapping via keyboard shortcuts. <code>Free</code> <code>Open Source</code></sub></td>
 </tr>
