@@ -179,6 +179,7 @@ Each icon was resized to 64x64px for display; no crops or edits beyond resizing/
 | TablePro | `resources/icons/tablepro.png` | https://tablepro.app/logo.png (official site) |
 | TaskPaper | `resources/icons/taskpaper.png` | https://www.taskpaper.com/favicon.ico (official site) |
 | Terminal | `resources/icons/terminal.png` | https://support.apple.com/favicon.ico (official site) |
+| TernaryCode | `resources/icons/ternarycode.png` | GitHub repo ilhamnadhif/ternarycode — assets/icon_256.png |
 | TextMate | `resources/icons/textmate.png` | https://macromates.com/textmate/favicon.ico (official site) |
 | The Archive | `resources/icons/the-archive.png` | https://zettelkasten.de/favicon.ico (official site) |
 | The Unarchiver | `resources/icons/the-unarchiver.png` | https://cdn.theunarchiver.com/img/the-unarchiver-144x144.png (official site) |
