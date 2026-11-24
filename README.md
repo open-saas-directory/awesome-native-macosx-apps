@@ -891,6 +891,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <td><strong><a href="https://www.screenkite.com">ScreenKite</a></strong><br><sub>Screen recording and video editing with auto zoom effect. 4x faster than Screen Studio. <code>Free</code></sub></td>
 </tr>
 <tr>
+<td width="64"><img src="resources/icons/sightline.png" width="48" height="48" alt="Sightline icon"></td>
+<td><strong><a href="https://sightlinemac.com">Sightline</a></strong><br><sub>Screenshot and recording app with an image and video editor, plus an MCP server. <code>Freemium</code> <code>EU</code></sub></td>
+</tr>
+<tr>
 <td width="64"><img src="resources/icons/shottr.png" width="48" height="48" alt="Shottr icon"></td>
 <td><strong><a href="https://shottr.cc/">Shottr</a></strong><br><sub>Screenshot tool with advanced features. <code>Free</code></sub></td>
 </tr>
