@@ -148,6 +148,7 @@ Each icon was resized to 64x64px for display; no crops or edits beyond resizing/
 | Rockxy | `resources/icons/rockxy.png` | https://rockxy.io/assets/images/logo-64.png (official site) |
 | SF Symbols | `resources/icons/sf-symbols.png` | https://developer.apple.com/favicon.ico (official site) |
 | SSH Keys Manager | `resources/icons/ssh-keys-manager.png` | GitHub repo Stmol/ssh-keys-manager-macos-app — SSH Keys Manager/Assets.xcassets/AppIcon.appiconset/icon_256x256.png |
+| Safelight | `resources/icons/safelight.png` | GitHub repo mopfaff/Safelight — docs/icon.png (resized to 64x64) |
 | SaneBar | `resources/icons/sanebar.png` | https://sanebar.com/apple-touch-icon.png (official site) |
 | ScreenFloat | `resources/icons/screenfloat.png` | https://eternalstorms.at/ScreenFloat/favicon.ico (official site) |
 | ScreenKite | `resources/icons/screenkite.png` | https://www.screenkite.com/apple-icon.png?apple-icon.2trjfvr85-yqy.png (official site) |
