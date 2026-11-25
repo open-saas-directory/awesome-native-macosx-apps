@@ -633,6 +633,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <td><strong><a href="https://github.com/larryxiao/openquack">OpenQuack</a></strong><br><sub>Transcribes a 5-minute clip in 2.8 s — local WhisperKit dictation, noise-robust. ~8 MB native Swift. <code>Free</code> <code>Open Source</code></sub></td>
 </tr>
 <tr>
+<td width="64"><img src="resources/icons/remotecrab.png" width="48" height="48" alt="RemoteCrab icon"></td>
+<td><strong><a href="https://vgoapp.com/remotecrab/?utm_source=awesome-native-macosx-apps&utm_medium=readme&utm_campaign=list">RemoteCrab</a></strong><br><sub>iPhone as camera, mic, trackpad and keyboard; share the Mac to a browser. <code>Freemium</code></sub></td>
+</tr>
+<tr>
 <td width="64"><img src="resources/icons/sanebar.png" width="48" height="48" alt="SaneBar icon"></td>
 <td><strong><a href="https://sanebar.com">SaneBar</a></strong><br><sub>Privacy-first menu bar manager. Hide and organize icons. <code>Freemium</code></sub></td>
 </tr>
