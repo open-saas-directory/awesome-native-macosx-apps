@@ -625,6 +625,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <td><strong><a href="https://menubarx.app/">MenubarX</a></strong><br><sub>Browser in your menu bar. <code>Freemium</code></sub></td>
 </tr>
 <tr>
+<td width="64"><img src="resources/icons/noswitch.png" width="48" height="48" alt="noswitch icon"></td>
+<td><strong><a href="https://www.nosub.dev/noswitch">noswitch</a></strong><br><sub>Notch hub for clipboard history, screenshots, a file shelf, Claude Code and Codex status. <code>Paid</code></sub></td>
+</tr>
+<tr>
 <td width="64"><img src="resources/icons/one-thing.png" width="48" height="48" alt="One Thing icon"></td>
 <td><strong><a href="https://sindresorhus.com/one-thing">One Thing</a></strong><br><sub>Put a single task in your menu bar. <code>Paid</code></sub></td>
 </tr>
