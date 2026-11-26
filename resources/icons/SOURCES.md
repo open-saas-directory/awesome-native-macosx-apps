@@ -155,6 +155,7 @@ Each icon was resized to 64x64px for display; no crops or edits beyond resizing/
 | SelfControl | `resources/icons/selfcontrol.png` | https://selfcontrolapp.com/img/apple-touch-icon-144-precomposed.png (official site) |
 | SeqLog | `resources/icons/seqlog.png` | https://seqlog.com/apple-touch-icon.png (official site) |
 | Shieldxy | `resources/icons/shieldxy.png` | https://rockxy.io/assets/images/shieldxy/logo-256.png (official site) |
+| Shotbolt | `resources/icons/shotbolt.png` | https://shotbolt.app/brand/app-icon/preview/icon-composer-default.png (official site) |
 | Shottr | `resources/icons/shottr.png` | https://shottr.cc/assets/favicon.png (official site) |
 | SideNotes | `resources/icons/sidenotes.png` | https://assets.macnative.io/logo/f79dbc56-280f-4437-b0eb-048ae09c25da.png (MacNative.io listing) |
 | Sip | `resources/icons/sip.png` | https://sipapp.io/assets/img/favicon/192x192.png (official site) |

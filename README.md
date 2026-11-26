@@ -895,6 +895,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <td><strong><a href="https://www.screenkite.com">ScreenKite</a></strong><br><sub>Screen recording and video editing with auto zoom effect. 4x faster than Screen Studio. <code>Free</code></sub></td>
 </tr>
 <tr>
+<td width="64"><img src="resources/icons/shotbolt.png" width="48" height="48" alt="Shotbolt icon"></td>
+<td><strong><a href="https://shotbolt.app/">Shotbolt</a></strong><br><sub>Screenshots and recordings with editable layers, text search and share links. <code>Freemium</code> <code>EU</code></sub></td>
+</tr>
+<tr>
 <td width="64"><img src="resources/icons/shottr.png" width="48" height="48" alt="Shottr icon"></td>
 <td><strong><a href="https://shottr.cc/">Shottr</a></strong><br><sub>Screenshot tool with advanced features. <code>Free</code></sub></td>
 </tr>
