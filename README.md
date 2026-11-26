@@ -621,6 +621,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <td><strong><a href="https://github.com/nickustinov/itsyhome-macos">Itsyhome</a></strong><br><sub>Smart home meets menu bar. <code>Freemium</code> <code>Open Source</code></sub></td>
 </tr>
 <tr>
+<td width="64"><img src="resources/icons/lunille.png" width="48" height="48" alt="Lunille icon"></td>
+<td><strong><a href="https://lunille.com/">Lunille</a></strong><br><sub>Notch app with Luni, a little moon that reacts to your Mac, around music, calls and a file tray. <code>Paid</code> <code>EU</code></sub></td>
+</tr>
+<tr>
 <td width="64"><img src="resources/icons/menubarx.png" width="48" height="48" alt="MenubarX icon"></td>
 <td><strong><a href="https://menubarx.app/">MenubarX</a></strong><br><sub>Browser in your menu bar. <code>Freemium</code></sub></td>
 </tr>
