@@ -532,6 +532,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 
 <table>
 <tr>
+<td width="64"><img src="resources/icons/downright.png" width="48" height="48" alt="Downright icon"></td>
+<td><strong><a href="https://downright.cc/">Downright</a></strong><br><sub>Native Markdown reader and editor with Quick Look previews and Finder thumbnails. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
 <td width="64"><img src="resources/icons/glance.png" width="48" height="48" alt="Glance icon"></td>
 <td><strong><a href="https://glance.md/">Glance</a></strong><br><sub>Native Markdown viewer and Quick Look extension. <code>Free</code></sub></td>
 </tr>
