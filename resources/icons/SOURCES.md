@@ -141,6 +141,7 @@ Each icon was resized to 64x64px for display; no crops or edits beyond resizing/
 | Raycast | `resources/icons/raycast.png` | https://www.raycast.com/favicon-production.png (official site) |
 | Rectangle | `resources/icons/rectangle.png` | https://rectangleapp.com/apple-touch-icon.png (official site) |
 | Rectangle Pro | `resources/icons/rectangle-pro.png` | https://rectangleapp.com/apple-touch-icon.png (official Rectangle site; rectangleapp.com/pro serves a broken favicon reference) |
+| Refine | `resources/icons/refine.png` | https://refine.sh/apple-touch-icon.png (official site) |
 | Retrobatch | `resources/icons/retrobatch.png` | Mac App Store artwork for "Retrobatch Pro" by Flying Meat Inc. (via iTunes Lookup API) |
 | Revu | `resources/icons/revu.png` | https://revu.cards/apple-touch-icon.png (official site) |
 | Roam FM | `resources/icons/roam-fm.png` | https://roamfm.app/app-icon-256.png (official site) |
