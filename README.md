@@ -1201,6 +1201,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <td><strong><a href="https://rectangleapp.com/pro">Rectangle Pro</a></strong><br><sub>Professional window management. <code>Paid</code></sub></td>
 </tr>
 <tr>
+<td width="64"><img src="resources/icons/split.png" width="48" height="48" alt="Split icon"></td>
+<td><strong><a href="https://splitformac.com/?utm_source=github&amp;utm_medium=awesome_list&amp;utm_campaign=awesome_native_w47">Split</a></strong><br><sub>Menu bar window manager: pair two windows and resize both with one shared divider. <code>Paid</code></sub></td>
+</tr>
+<tr>
 <td width="64"><img src="resources/icons/swish.png" width="48" height="48" alt="Swish icon"></td>
 <td><strong><a href="https://highlyopinionated.co/swish/">Swish</a></strong><br><sub>Control windows with trackpad gestures. <code>Paid</code></sub></td>
 </tr>
