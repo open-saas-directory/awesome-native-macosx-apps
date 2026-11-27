@@ -63,6 +63,7 @@ Each icon was resized to 64x64px for display; no crops or edits beyond resizing/
 | GitFox | `resources/icons/gitfox.png` | https://www.gitfox.app/assets/img/favicon-180.png (official site) |
 | GitUp | `resources/icons/gitup.png` | https://gitup.co/images/icons/favicon_32.png (official site) |
 | Glance | `resources/icons/glance.png` | https://glance.md/apple-touch-icon.png (official site) |
+| Grux |  | https://github.com/dotcomjack/grux/blob/main/Grux-Mac/Resources/AppIcon.icns (official repository, ICNS to PNG) |
 | Hand Mirror | `resources/icons/hand-mirror.png` | https://handmirror.app/favicon.ico (official site) |
 | HandBrake | `resources/icons/handbrake.png` | https://handbrake.fr/apple-touch-icon.png (official site) |
 | Hazel | `resources/icons/hazel.png` | https://www.noodlesoft.com/favicon.png.pagespeed.ce.MLvWZiLaSL.png (official site) |
