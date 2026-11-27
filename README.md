@@ -965,6 +965,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <td><strong><a href="https://www.coconut-flavour.com/coconutbattery/">coconutBattery</a></strong><br><sub>Check battery health and status. <code>Free</code></sub></td>
 </tr>
 <tr>
+<td width="64"><img src="resources/icons/cleanbit.png" width="48" height="48" alt="CleanBit icon"></td>
+<td><strong><a href="https://getcleanbit.app/">CleanBit</a></strong><br><sub>Sandboxed disk cleaner that explains removal impact for caches, Xcode, and build artifacts. <code>Freemium</code></sub></td>
+</tr>
+<tr>
 <td width="64"><img src="resources/icons/cleardisk.png" width="48" height="48" alt="ClearDisk icon"></td>
 <td><strong><a href="https://github.com/bysiber/cleardisk">ClearDisk</a></strong><br><sub>macOS menu bar utility that monitors 44+ developer cache paths and helps reclaim disk space. <code>Free</code> <code>Open Source</code></sub></td>
 </tr>
