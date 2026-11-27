@@ -117,6 +117,7 @@ Each icon was resized to 64x64px for display; no crops or edits beyond resizing/
 | Notebooks | `resources/icons/notebooks.png` | https://www.notebooksapp.com/wp-content/uploads/2026/02/cropped-Header-Logo-2026-light@2x-1-180x180.png (official site) |
 | Nova | `resources/icons/nova.png` | https://nova.app/apple-touch-icon.png (official site) |
 | OmniFocus | `resources/icons/omnifocus.png` | https://www.omnigroup.com/assets/img/logo/BlueOmni.png (official site) |
+| noswitch | `resources/icons/noswitch.png` | apps/web/public/noswitch/icon.svg in the nosub repo (official app icon, rendered to PNG) |
 | One Thing | `resources/icons/one-thing.png` | https://sindresorhus.com/apps/one-thing/icon.png (official site) |
 | Onyx | `resources/icons/onyx.png` | https://www.titanium-software.fr/apple-icon-180x180.png (official site) |
 | OpenQuack | `resources/icons/openquack.png` | GitHub repo larryxiao/openquack — docs/images/icon-512.png |
