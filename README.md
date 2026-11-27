@@ -1013,6 +1013,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <td><strong><a href="https://mole.fit/">Mole</a></strong><br><sub>Clean caches, manage apps, analyze disk space, and monitor system status. <code>Paid</code></sub></td>
 </tr>
 <tr>
+<td width="64"><img src="resources/icons/mouse-jiggler-for-mac.png" width="48" height="48" alt="Mouse Jiggler for Mac icon"></td>
+<td><strong><a href="https://mousejigglermac.com/">Mouse Jiggler for Mac</a></strong><br><sub>Keep your Mac awake from the menu bar, with optional scheduled cursor movement. <code>Freemium</code></sub></td>
+</tr>
+<tr>
 <td width="64"><img src="resources/icons/onyx.png" width="48" height="48" alt="Onyx icon"></td>
 <td><strong><a href="https://www.titanium-software.fr/en/onyx.html">Onyx</a></strong><br><sub>Multifunction utility for macOS. <code>Free</code> <code>EU</code></sub></td>
 </tr>

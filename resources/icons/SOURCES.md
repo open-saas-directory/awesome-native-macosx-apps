@@ -106,6 +106,7 @@ Each icon was resized to 64x64px for display; no crops or edits beyond resizing/
 | Mimestream | `resources/icons/mimestream.png` | https://mimestream.com/assets/icons/apple-touch-icon.png (official site) |
 | Mole | `resources/icons/mole.png` | https://mole.fit/img/favicon-mole-192-ba32c29d.png (official site) |
 | MonitorControl | `resources/icons/monitorcontrol.png` | GitHub repo MonitorControl/MonitorControl — MonitorControl/Assets.xcassets/AppIcon.appiconset/Icon-256.png |
+| Mouse Jiggler for Mac | `resources/icons/mouse-jiggler-for-mac.png` | https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c8/e6/65/c8e66543-01e9-29c3-05a8-a15c27179d07/Placeholder.mill/64x64bb.png (official Mac App Store listing, 64x64) |
 | Moom | `resources/icons/moom.png` | https://manytricks.com/apple-touch-icon.png (official site) |
 | Muxie | `resources/icons/muxie.png` | https://muxie.duhnnie.com/favicon.png (official site) |
 | NameQuick | `resources/icons/namequick.png` | https://www.namequick.app/favicon-16x16.png (official site) |
