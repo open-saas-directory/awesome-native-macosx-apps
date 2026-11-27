@@ -50,6 +50,7 @@ Each icon was resized to 64x64px for display; no crops or edits beyond resizing/
 | Dozer | `resources/icons/dozer.png` | GitHub repo Mortennn/Dozer — Dozer/Other/Assets.xcassets/AppIcon.appiconset/Icon_256x256.png |
 | Due | `resources/icons/due.png` | https://www.dueapp.com/apple-touch-icon.png (official site) |
 | DynamicHorizon | `resources/icons/dynamichorizon.png` | https://dynamichorizon.app/assets/brand/apple-touch-icon.png (official site) |
+| Earth Now | `resources/icons/earth-now.png` | GitHub repo Hensobo/earth-now — design/icon/png/earth-now-48.png |
 | Encrypto | `resources/icons/encrypto.png` | https://cdn3.macpaw.com/images/favicons/apple-touch-icon.png?id=92af76cf08117ef48964c0c815b89f3b (official site) |
 | EtreCheck | `resources/icons/etrecheck.png` | https://etrecheck.com/favicons/apple-icon-180x180.png (official site) |
 | FSNotes | `resources/icons/fsnotes.png` | https://fsnot.es/apple-touch-icon.png (official site) |
