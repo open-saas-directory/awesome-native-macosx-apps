@@ -1156,6 +1156,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <td><strong><a href="https://www.backspacemac.app/">Backspace</a></strong><br><sub>Provides 1,000+ 4K live wallpapers for the desktop and Lock Screen. <code>Paid</code></sub></td>
 </tr>
 <tr>
+<td width="64"><img src="resources/icons/earth-now.png" width="48" height="48" alt="Earth Now icon"></td>
+<td><strong><a href="https://hensobo.github.io/earth-now/">Earth Now</a></strong><br><sub>Live 3D Earth wallpaper with the real sun position, city lights and satellite clouds. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
 <td width="64"><img src="resources/icons/wallspace.png" width="48" height="48" alt="Wallspace icon"></td>
 <td><strong><a href="https://wallspace.app/">Wallspace</a></strong><br><sub>Live Wallpapers for Macos, with custom lock screen. <code>Freemium</code></sub></td>
 </tr>
