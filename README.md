@@ -362,6 +362,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <td><strong><a href="https://paw.cloud/">Paw</a></strong><br><sub>Advanced API tool for Mac. <code>Paid</code></sub></td>
 </tr>
 <tr>
+<td width="64"><img src="resources/icons/perch.png" width="48" height="48" alt="Perch icon"></td>
+<td><strong><a href="https://perch.run">Perch</a></strong><br><sub>Menu bar status for every AI coding agent session, with approvals from iPhone and Apple Watch. <code>Paid</code></sub></td>
+</tr>
+<tr>
 <td width="64"><img src="resources/icons/proxyman.png" width="48" height="48" alt="Proxyman icon"></td>
 <td><strong><a href="https://proxyman.io/">Proxyman</a></strong><br><sub>Native HTTP debugging proxy. <code>Freemium</code></sub></td>
 </tr>
