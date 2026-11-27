@@ -386,6 +386,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <td><strong><a href="https://developer.apple.com/sf-symbols/">SF Symbols</a></strong><br><sub>Browse and export Apple's SF Symbols. <code>Free</code></sub></td>
 </tr>
 <tr>
+<td width="64"></td>
+<td><strong><a href="https://stratosapp.dev">Stratos</a></strong><br><sub>Native Swift local PHP, Laravel, and WordPress dev environment with Nginx, SSL, and MCP server. <code>Freemium</code></sub></td>
+</tr>
+<tr>
 <td width="64"><img src="resources/icons/vibedock.png" width="48" height="48" alt="Vibedock icon"></td>
 <td><strong><a href="https://vibedock.dev/">Vibedock</a></strong><br><sub>Manage Claude Code MCP servers from your macOS menu bar. <code>Paid (one-time)</code></sub></td>
 </tr>
