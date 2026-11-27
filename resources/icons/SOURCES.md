@@ -17,6 +17,7 @@ Each icon was resized to 64x64px for display; no crops or edits beyond resizing/
 | Background Music | `resources/icons/background-music.png` | GitHub repo kyleneideck/BackgroundMusic — BGMApp/BGMApp/Images.xcassets/AppIcon.appiconset/appicon_256.png |
 | BackgroundMusic | `resources/icons/backgroundmusic.png` | GitHub repo kyleneideck/BackgroundMusic — BGMApp/BGMApp/Images.xcassets/AppIcon.appiconset/appicon_256.png |
 | Backspace | `resources/icons/backspace.png` | https://www.backspacemac.app/assets/brand/backspace-touch-icon-v2.png (official site) |
+| AgentIsland | `resources/icons/agentisland.png` | https://agentislandapp.github.io/icon.png (official site) |
 | Bartender | `resources/icons/bartender.png` | https://www.macbartender.com/Bartender6/img/bartender6icon.png (official site) |
 | Bear | `resources/icons/bear.png` | https://bear.app/images/website-icons/apple-touch-icon.png (official site) |
 | BetterCapture | `resources/icons/bettercapture.png` | https://bettercapture.app/favicon.svg (official site, rasterized from SVG) |

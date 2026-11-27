@@ -573,6 +573,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 
 <table>
 <tr>
+<td width="64"><img src="resources/icons/agentisland.png" width="48" height="48" alt="AgentIsland icon"></td>
+<td><strong><a href="https://agentislandapp.github.io">AgentIsland</a></strong><br><sub>Answer your AI coding agents' permission prompts from the notch. <code>Freemium</code></sub></td>
+</tr>
+<tr>
 <td width="64"><img src="resources/icons/bartender.png" width="48" height="48" alt="Bartender icon"></td>
 <td><strong><a href="https://www.macbartender.com/">Bartender</a></strong><br><sub>Organize your menu bar icons. <code>Paid</code></sub></td>
 </tr>
