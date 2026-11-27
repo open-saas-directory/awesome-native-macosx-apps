@@ -89,6 +89,7 @@ Each icon was resized to 64x64px for display; no crops or edits beyond resizing/
 | Little Snitch | `resources/icons/little-snitch.png` | https://www.obdev.at/apple-touch-icon.png (official site) |
 | Lockpaw | `resources/icons/lockpaw.png` | https://getlockpaw.com/apple-touch-icon.png (official site) |
 | Loop | `resources/icons/loop.png` | GitHub repo MrKai77/Loop — Loop/Assets.xcassets/App Icons/AppIcon-Loop Master.appiconset/appicon_256.png (one of several selectable icon themes; repo has no single default) |
+| Louppe | `resources/icons/louppe.png` | https://apps.apple.com/app/louppe/id6820131477 (official Mac App Store listing artwork, 512 px, resized to 64x64) |
 | Lulu | `resources/icons/lulu.png` | https://objective-see.org/images/favicon.png (official site) |
 | Lungo | `resources/icons/lungo.png` | https://sindresorhus.com/apps/lungo/icon.png (official site) |
 | Macsmith | `resources/icons/macsmith.png` | https://macsmith.app/assets/macsmith-icon-64.png (official site) |
