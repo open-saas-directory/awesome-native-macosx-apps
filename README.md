@@ -577,6 +577,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <td><strong><a href="https://www.macbartender.com/">Bartender</a></strong><br><sub>Organize your menu bar icons. <code>Paid</code></sub></td>
 </tr>
 <tr>
+<td width="64"><img src="resources/icons/cinenotch.png" width="48" height="48" alt="CineNotch icon"></td>
+<td><strong><a href="https://cinenotch.cam">CineNotch</a></strong><br><sub>Docks Picture in Picture into the MacBook notch. <code>Paid</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
 <td width="64"><img src="resources/icons/commitments.png" width="48" height="48" alt="Commitments icon"></td>
 <td><strong><a href="https://commitments.pages.dev/">Commitments</a></strong><br><sub>Your tasks in menu bar. <code>Paid</code></sub></td>
 </tr>
