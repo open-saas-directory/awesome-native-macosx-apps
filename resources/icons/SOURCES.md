@@ -137,6 +137,7 @@ Each icon was resized to 64x64px for display; no crops or edits beyond resizing/
 | Pizzinu | `resources/icons/pizzinu.png` | https://github.com/piratepxl/pizzinu/blob/main/docs/images/icon.png (official GitHub repository) |
 | Postico | `resources/icons/postico.png` | https://eggerapps.at/postico-icon-bw.png (official site) |
 | Proxyman | `resources/icons/proxyman.png` | https://proxyman.com/favicon/apple-touch-icon.png (official site; proxyman.io redirects here) |
+| Qesture | `resources/icons/qesture.png` | https://qesture.com/press/qesture-icon-1024.png (official site, scaled to 64 px) |
 | QuickTime Player | `resources/icons/quicktime-player.png` | https://support.apple.com/favicon.ico (official site) |
 | Raycast | `resources/icons/raycast.png` | https://www.raycast.com/favicon-production.png (official site) |
 | Rectangle | `resources/icons/rectangle.png` | https://rectangleapp.com/apple-touch-icon.png (official site) |
