@@ -1,26 +1,18 @@
 # Best Mac Apps (2026) — Native macOS Apps
 
-[![Follow on X](https://img.shields.io/badge/X-%40mac__native-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mac_native) [![Join Telegram](https://img.shields.io/badge/Telegram-mac__native-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mac_native) [![Subscribe on Substack](https://img.shields.io/badge/Substack-Subscribe-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://nativemacapps.substack.com/)
+Discover high-quality macOS apps built with Swift, SwiftUI, and AppKit — fast, lightweight, and made for your Mac.
 
-Discover high-quality macOS apps built with native technologies (Swift, SwiftUI, AppKit) — fast, efficient, and light on your Mac's resources. No Electron bloat, just pure native performance.
+<p align="center">
+  <a href="https://macnative.substack.com/"><img src="resources/header-cards/newsletter.svg" width="32%" alt="Newsletter: Native apps, in your inbox. Subscribe →"></a>
+  <a href="https://macnative.io/?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=native_apps_list&amp;utm_content=readme_header"><img src="resources/header-cards/directory.svg" width="32%" alt="MacNative.io: Find your next favorite app. Explore the website →"></a>
+  <a href="https://macnative.io/submit"><img src="resources/header-cards/submit.svg" width="32%" alt="Submit your app: Built something for Mac? Submit your app →"></a>
+</p>
 
-Maintained by [MacNative.io](https://macnative.io/?utm_source=github&utm_medium=referral&utm_campaign=native_apps_list&utm_content=readme_intro), a curated directory of Mac apps.
-
-## 📬 Get Monthly Native App Picks in Your Inbox
-
-Get 5-10 handpicked native apps, hidden gems, and free/open-source picks delivered monthly. 📖 **[Subscribe →](https://nativemacapps.substack.com/)** — unsubscribe anytime.
-
-**👨‍💻 Building a Mac app?** This list is for discovering apps — if you're looking to *launch* one, see [Awesome Mac Launch Platforms](https://github.com/macnative/awesome-mac-launch-platforms) for submission platforms, subreddits, and newsletters.
+Curated by [MacNative.io](https://macnative.io/) — discover more great Mac apps in our directory.
 
 ---
 
 ## Contents
-
-**Getting Started**
-- [What Makes an App "Native"?](#what-makes-an-app-native)
-- [Featured](#-featured)
-- [New to Mac? Start Here](#-new-to-mac-start-here)
-- [Featured](#-featured)
 
 **Categories**
 - 🤖 [AI Tools](#ai-tools)
@@ -55,23 +47,19 @@ Get 5-10 handpicked native apps, hidden gems, and free/open-source picks deliver
 - 🌄 [Wallpaper Apps](#wallpaper-apps)
 - 🪟 [Window Management](#window-management)
 
-**Resources**
-- [Mac App Guides](#mac-app-guides)
-- [Contributing](#contributing)
-- [Star History](#star-history)
-- [License](#license)
-
 ---
 
 ### What Makes an App "Native"?
 
-✅ Built with native macOS frameworks (Swift, SwiftUI, AppKit, Objective-C) — lightweight, fast, and follows Apple's Human Interface Guidelines.
+Only native Mac apps belong on this list: built with macOS frameworks such as SwiftUI and AppKit, using Swift or Objective-C, and designed to feel at home on your Mac.
 
-❌ NOT Electron or other resource-heavy cross-platform wrappers.
+Electron apps and web wrappers are not eligible. These requirements apply to every listing, including sponsored placements.
 
 ---
 
-## ⭐ Featured
+## ⭐ Spotlight
+
+Sponsored by apps on the [MacNative Pro plan](https://macnative.io/pricing). Native apps only.
 
 <table>
 <tr>
@@ -85,6 +73,22 @@ Get 5-10 handpicked native apps, hidden gems, and free/open-source picks deliver
 <tr>
 <td width="64"><img src="resources/icons/flow-diagram.png" width="48" height="48" alt="Flow Diagram icon"></td>
 <td><strong><a href="https://www.pointbluetech.com/flowdiagram/index.html?utm_source=awesome-native-macosx-apps&utm_medium=readme&utm_campaign=featured">Flow Diagram</a></strong><br><sub>Flow Diagram turns a messy photo or a quick sketch into a diagram you can edit, share and keep.</sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/fuse-caption-studio.png" width="48" height="48" alt="Fuse Caption Studio icon"></td>
+<td><strong><a href="https://fusecaptionstudio.com?utm_source=awesome-native-macosx-apps&utm_medium=readme&utm_campaign=featured">Fuse Caption Studio</a></strong><br><sub>Transcribes and translates media into editable captions with a video-editor-style timeline.</sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/strata-files.png" width="48" height="48" alt="Strata Files icon"></td>
+<td><strong><a href="https://stratafiles.app?utm_source=awesome-native-macosx-apps&utm_medium=readme&utm_campaign=featured">Strata Files</a></strong><br><sub>A free, open-source Finder alternative with instant search, folder sizes, and a disk usage map.</sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/dmgkit.png" width="48" height="48" alt="DMGKit icon"></td>
+<td><strong><a href="https://dmgkit.app?utm_source=awesome-native-macosx-apps&utm_medium=readme&utm_campaign=featured">DMGKit</a></strong><br><sub>Signs, notarizes, staples, and packages Mac apps into DMG or PKG installers, ready to share.</sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/footages.png" width="48" height="48" alt="Footages icon"></td>
+<td><strong><a href="https://footages.somenkov.com?utm_source=awesome-native-macosx-apps&utm_medium=readme&utm_campaign=featured">Footages</a></strong><br><sub>Video organizer for Mac: import camera cards safely and keep every clip across all your drives in one library.</sub></td>
 </tr>
 </table>
 
@@ -123,17 +127,6 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 
 ---
 
-## ⭐ Featured
-
-<table>
-<tr>
-<td width="64"><img src="resources/icons/flow-diagram.png" width="48" height="48" alt="Flow Diagram icon"></td>
-<td><strong><a href="https://www.pointbluetech.com/flowdiagram/index.html?utm_source=awesome-native-macosx-apps&utm_medium=readme&utm_campaign=featured">Flow Diagram</a></strong><br><sub>Flow Diagram turns a messy photo or a quick sketch into a diagram you can edit, share and keep.</sub></td>
-</tr>
-</table>
-
----
-
 ## AI Tools
 
 [Browse AI and automation apps on MacNative →](https://macnative.io/categories/ai-automation?utm_source=github&utm_medium=referral&utm_campaign=native_apps_list&utm_content=category_ai-automation)
@@ -161,6 +154,7 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 </table>
 
 ## Audio & Music
+- [Needle](https://github.com/Yvsleyen00941/Needle) - Native SwiftUI/AppKit Now Playing companion beside the Dock.
 
 [Browse audio and voice apps on MacNative →](https://macnative.io/categories/audio-voice?utm_source=github&utm_medium=referral&utm_campaign=native_apps_list&utm_content=category_audio-voice)
 
@@ -172,6 +166,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <tr>
 <td width="64"><img src="resources/icons/cog.png" width="48" height="48" alt="Cog icon"></td>
 <td><strong><a href="https://cog.losno.co/">Cog</a></strong><br><sub>Audio player for macOS with broad format support. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/dot.png" width="48" height="48" alt="DOT icon"></td>
+<td><strong><a href="https://plastic.audio/dot/">DOT</a></strong><br><sub>Records any audio the Mac plays, no driver, with key, tempo and chords. <code>Freemium</code></sub></td>
 </tr>
 <tr>
 <td width="64"><img src="resources/icons/eqmac.png" width="48" height="48" alt="eqMac icon"></td>
@@ -524,6 +522,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <td width="64"><img src="resources/icons/xscope.png" width="48" height="48" alt="xScope icon"></td>
 <td><strong><a href="https://xscopeapp.com/">xScope</a></strong><br><sub>Measure, inspect and test on-screen graphics. <code>Paid</code></sub></td>
 </tr>
+<tr>
+<td width="64"><img src="resources/icons/zipic.png" width="48" height="48" alt="Zipic icon"></td>
+<td><strong><a href="https://zipic.app/">Zipic</a></strong><br><sub>Compress and convert images locally, with batch processing and a CLI. <code>Freemium</code></sub></td>
+</tr>
 </table>
 
 ## Markdown Editors
@@ -719,6 +721,10 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <td><strong><a href="https://ia.net/writer">iA Writer</a></strong><br><sub>Focused writing app with beautiful typography. <code>Paid</code></sub></td>
 </tr>
 <tr>
+<td width="64"><img src="resources/icons/loam.png" width="48" height="48" alt="Loam icon"></td>
+<td><strong><a href="https://loam.md">Loam</a></strong><br><sub>Markdown notebook where every feature is a plugin. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
 <td width="64"><img src="resources/icons/notational-velocity.png" width="48" height="48" alt="Notational Velocity icon"></td>
 <td><strong><a href="http://notational.net/">Notational Velocity</a></strong><br><sub>Modeless note-taking application. <code>Free</code> <code>Open Source</code></sub></td>
 </tr>
@@ -729,6 +735,14 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 <tr>
 <td width="64"><img src="resources/icons/nvalt.png" width="48" height="48" alt="nvALT icon"></td>
 <td><strong><a href="https://brettterpstra.com/projects/nvalt/">nvALT</a></strong><br><sub>Fork of Notational Velocity with additional features. <code>Free</code> <code>Open Source</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/pizzinu.png" width="48" height="48" alt="Pizzinu icon"></td>
+<td><strong><a href="https://www.piratepixel.it/pizzinu/">Pizzinu</a></strong><br><sub>Sticky notes that look like real paper, with reminders, checklists and Markdown. <code>Free</code> <code>Open Source</code> <code>EU</code></sub></td>
+</tr>
+<tr>
+<td width="64"><img src="resources/icons/refine.png" width="48" height="48" alt="Refine icon"></td>
+<td><strong><a href="https://refine.sh">Refine</a></strong><br><sub>Grammar checks, autocomplete, and rewrites across your apps, using a local model. <code>Freemium</code></sub></td>
 </tr>
 <tr>
 <td width="64"><img src="resources/icons/seqlog.png" width="48" height="48" alt="SeqLog icon"></td>
@@ -1216,61 +1230,26 @@ Go beyond the list with guides from MacNative:
 
 ## Contributing
 
-We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING.md) before submitting.
+Know a great native Mac app, or spotted something that needs fixing? [Suggest an app](https://github.com/open-saas-directory/awesome-native-macosx-apps/issues/new?template=app-submission.md), report an issue, or open a pull request.
 
-### How to Contribute
+Read [CONTRIBUTING.md](CONTRIBUTING.md) for eligibility, entry formatting, and icon requirements. Only native Mac apps are accepted; Electron apps and web wrappers are excluded.
 
-1. **Fork** this repository
-2. **Add** your app to the appropriate category's table, in alphabetical order, following the two-column gallery format described in [CONTRIBUTING.md](CONTRIBUTING.md)
-3. **Verify** the app is truly native (Swift/SwiftUI/AppKit)
-4. Create a **Pull Request**
+## For Mac App Developers
 
-### App Requirements
+[Submit your app to MacNative](https://macnative.io/submit). Spotlight placement in this README is included in the paid [MacNative Pro plan](https://macnative.io/pricing), subject to the same native-app requirements as every other listing.
 
-Apps must meet ALL these criteria:
+Looking for more places to launch? Browse [Awesome Mac Launch Platforms](https://github.com/macnative/awesome-mac-launch-platforms).
 
-- ✅ Built with native macOS technologies
-- ✅ Lightweight and performant
-- ✅ Actively maintained (updated within the last 2 years)
-- ✅ Available for download
-- ✅ No malware/spyware
-
-### What NOT to Include
-
-- ❌ Electron apps
-- ❌ Web wrappers
-- ❌ Abandoned projects (no updates in 2+ years)
-- ❌ Apps with malware/suspicious behavior
-- ❌ Cross-platform apps with poor macOS integration
-
-### Get Your App Spotlighted on X
-
-Beyond adding your app to this list, you can send it to us on [X (@mac_native)](https://x.com/mac_native) for a chance at an individual spotlight post with a screenshot and writeup. [Follow the account](https://x.com/mac_native) to catch new spotlights.
-
-### Looking for More Places to Launch?
-
-Getting your app into this list is one channel — for the full picture (Product Hunt-style platforms, relevant subreddits, other GitHub awesome lists, and newsletters that cover Mac apps), see [Awesome Mac Launch Platforms](https://github.com/macnative/awesome-mac-launch-platforms).
+For an app spotlight, reach us on [X (@mac_native)](https://x.com/mac_native). For sponsorship inquiries, email [hello@macnative.io](mailto:hello@macnative.io).
 
 ## Star History
 
 [![Star History Chart](https://star-history.dera.page/svg?repos=open-saas-directory/awesome-native-macosx-apps&type=Date)](https://star-history.dera.page/#open-saas-directory/awesome-native-macosx-apps&Date)
+
+If this list helps you discover useful apps, consider starring the repository.
 
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, the contributors have waived all copyright and related rights to this work.
-
----
-
-**💡 Found a great native macOS app?** [Submit it here!](../../issues/new?template=app-submission.md)
-
-**⭐ If you find this list useful, please star the repo to help others discover it!**
-
-**🔗 Share:** [Twitter](https://twitter.com/intent/tweet?text=Awesome%20Native%20macOS%20Apps%20%E2%80%93%20A%20curated%20list%20of%20beautiful%2C%20lightweight%20macOS%20applications&url=https://github.com/open-saas-directory/awesome-native-macosx-apps) | [Reddit](https://reddit.com/submit?url=https://github.com/open-saas-directory/awesome-native-macosx-apps&title=Awesome%20Native%20macOS%20Apps)
-
-
-
----
-
-Reach thousands of Mac power users by sponsoring this list. Contact us at [sponsor@opensaas.directory](mailto:sponsor@opensaas.directory)

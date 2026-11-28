@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="230" viewBox="0 0 360 230" role="img" aria-labelledby="title desc">
+<title id="title">Submit your app — Submit your app</title><desc id="desc">Built something for Mac? Share your native app on MacNative.</desc>
+<rect x="1" y="1" width="358" height="228" rx="20" fill="#eaf6ef" stroke="#c8e5d3"/>
+<g transform="translate(26 25)" fill="none" stroke="#147451" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="1" y="1" width="22" height="22" rx="6"/><path d="M12 6v12M6 12h12"/></g>
+<text x="26" y="93" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="25" font-weight="700" fill="#182c36">Submit your app</text>
+<text x="26" y="123" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#45515d">Built something for Mac?</text>
+<text x="26" y="145" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="400" fill="#45515d">Share your native app on MacNative.</text>
+<rect x="24" y="169" width="312" height="40" rx="10" fill="#147451"/>
+<text x="40" y="195" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="650" fill="#ffffff">Submit your app</text>
+<text x="305" y="195" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="500" fill="#ffffff">→</text>
+</svg>
